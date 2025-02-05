@@ -136,12 +136,12 @@ const BookCourse = ({ interest, program = "" }) => {
       try {
         // const docRef = await addDoc(collection(db, "leads"), lead);
         const { data, error } = await supabase.from("leads").insert([lead]);
-        console.log(
-          "the data while inserting is ",
-          data,
-          " the error is ",
-          error
-        );
+        // console.log(
+        //   "the data while inserting is ",
+        //   data,
+        //   " the error is ",
+        //   error
+        // );
         setLead({
           fullName: "",
           email: "",

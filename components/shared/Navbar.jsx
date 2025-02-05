@@ -198,12 +198,20 @@ const Navbar = () => {
                 <SheetHeader>
                   <SheetTitle>
                     <SheetClose asChild>
-                      <a href="/">
+                      <a href="/" className="flex gap-3 items-center">
                         <Image
                           src={Logo}
                           alt="CourSea Academy"
-                          className="h-auto w-36"
+                          className="h-auto w-12"
                         />
+                        <h3 className="flex flex-col">
+                          <span className="text-xl font-bold bg-gradient-to-r from-[#00c6fb] via-[#005bea] to-[#005bea] inline-block text-transparent bg-clip-text">
+                            CourSea
+                          </span>{" "}
+                          <span className="text-sm font-medium tracking-widest">
+                            Academy
+                          </span>
+                        </h3>
                       </a>
                     </SheetClose>
                   </SheetTitle>

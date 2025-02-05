@@ -178,9 +178,9 @@ const page = ({ params }) => {
     },
   ];
 
-  logos.map((logo, index) =>
-    console.log("the verification iwdsoxf -> ", logo.src, logo.alt, index)
-  );
+  // logos.map((logo, index) =>
+  //   console.log("the verification iwdsoxf -> ", logo.src, logo.alt, index)
+  // );
 
   return (
     <div>
