@@ -1,0 +1,202 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Next.js Mastery",
+    "roleName": "Full Stack Developer",
+    "description": "Become an expert in building scalable, fast, and SEO-friendly web applications using Next.js. This course covers everything from basic routing to server-side rendering and API routes in Next.js.",
+    "price": "60000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course covers the core concepts of Next.js, including server-side rendering (SSR), static site generation (SSG), dynamic routing, API routes, and advanced performance optimizations. Gain hands-on experience building a variety of full-stack applications and deploy them to production.",
+    "highlights": [
+        {
+            "name": "Core Next.js Features",
+            "description": "Learn the key features of Next.js, including SSR, SSG, ISR, and static generation."
+        },
+        {
+            "name": "React Integration",
+            "description": "Understand how Next.js works with React and manage dynamic data efficiently."
+        },
+        {
+            "name": "Server-side Rendering (SSR)",
+            "description": "Master the SSR paradigm for building fast, SEO-friendly web apps."
+        },
+        {
+            "name": "API Routes and Backend Development",
+            "description": "Create backend APIs within your Next.js application using API routes."
+        },
+        {
+            "name": "Deploying Next.js Apps",
+            "description": "Learn how to deploy Next.js apps to production using Vercel and other cloud services."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Next.js Developer",
+            "description": "Specialize in building full-stack applications using Next.js and React."
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Develop both frontend and backend systems using Next.js, React, and Node.js."
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "Build user interfaces using React and Next.js for highly interactive web apps."
+        },
+        {
+            "title": "Web Application Developer",
+            "description": "Develop scalable, maintainable, and fast web applications using Next.js."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with React for this course?",
+            "answer": "Yes, this course assumes you have basic knowledge of React. If you're new to React, we recommend learning React first."
+        },
+        {
+            "question": "What kind of projects will I work on during this course?",
+            "answer": "You'll work on projects like a personal blog with SSR, an e-commerce app with API routes, and a dashboard application with real-time data."
+        },
+        {
+            "question": "Is Next.js suitable for building SEO-friendly websites?",
+            "answer": "Yes, Next.js is great for building SEO-friendly applications as it supports server-side rendering and static site generation."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be awarded upon successful completion of the course."
+        },
+        {
+            "question": "What tools will I need to get started?",
+            "answer": "You will need Node.js installed, a code editor like VSCode, and a basic understanding of Git for version control."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Next.js",
+            "submodule": [
+                {
+                    "name": "Getting Started with Next.js",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Next.js",
+                            "description": [
+                                "Overview of Next.js and its advantages over traditional React apps",
+                                "Setting up a Next.js project from scratch",
+                                "Basic file structure and folder conventions"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Pages and Routing",
+                            "description": [
+                                "Understanding Next.js pages and file-based routing",
+                                "Creating dynamic routes and nested routes",
+                                "Linking between pages with the Next.js Link component"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Static Site Generation (SSG)",
+                            "description": [
+                                "How static site generation works in Next.js",
+                                "Using `getStaticProps` for data fetching",
+                                "Pre-rendering pages at build time"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Next.js Features",
+            "submodule": [
+                {
+                    "name": "Server-side Rendering (SSR)",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to SSR",
+                            "description": [
+                                "Understanding the concept of server-side rendering",
+                                "Using `getServerSideProps` for server-side data fetching",
+                                "Optimizing SSR performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Incremental Static Regeneration (ISR)",
+                            "description": [
+                                "How ISR works and when to use it",
+                                "Regenerating static pages after deployment"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Working with APIs",
+            "submodule": [
+                {
+                    "name": "API Routes and Backend Development",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to API Routes",
+                            "description": [
+                                "Setting up backend API routes in Next.js",
+                                "Handling GET, POST, PUT, DELETE requests",
+                                "Connecting API routes with databases"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Building a REST API",
+                            "description": [
+                                "Creating a simple REST API for CRUD operations",
+                                "Connecting API routes to external services"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Deployment and Optimization",
+            "submodule": [
+                {
+                    "name": "Deploying Next.js Applications",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Deploying with Vercel",
+                            "description": [
+                                "Setting up a Next.js project on Vercel",
+                                "Deploying static and dynamic applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Performance Optimization",
+                            "description": [
+                                "Optimizing Next.js applications for performance",
+                                "Lazy loading, code splitting, and image optimization"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

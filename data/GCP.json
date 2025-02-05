@@ -1,0 +1,225 @@
+{
+    "hashtag": "Cloud",
+    "title": "Google Cloud Platform (GCP) Mastery",
+    "roleName": "Cloud Engineer",
+    "description": "Gain expertise in Google Cloud Platform (GCP) services and tools to architect, deploy, and manage cloud solutions. This course covers foundational concepts, hands-on labs, and advanced GCP services to prepare you for cloud-based roles in modern enterprises.",
+    "price": "60000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-relevant",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive GCP course is designed to build expertise in cloud computing with Google Cloud Platform. From foundational knowledge to advanced services like machine learning and DevOps tools, this course provides the skills needed to manage scalable cloud solutions.",
+    "highlights": [
+        {
+            "name": "GCP Fundamentals",
+            "description": "Understand the core concepts and architecture of Google Cloud."
+        },
+        {
+            "name": "Compute and Storage Services",
+            "description": "Master GCP’s virtual machines, storage options, and databases."
+        },
+        {
+            "name": "Networking and Security",
+            "description": "Learn to design secure and scalable networks on GCP."
+        },
+        {
+            "name": "Serverless and Big Data",
+            "description": "Explore serverless solutions and GCP's data processing tools."
+        },
+        {
+            "name": "Cloud Automation",
+            "description": "Automate and optimize deployments with DevOps tools."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Cloud Engineer",
+            "description": "Specialize in designing and deploying cloud solutions using GCP."
+        },
+        {
+            "title": "Cloud Architect",
+            "description": "Plan and implement scalable architectures on Google Cloud."
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Streamline operations with CI/CD pipelines on GCP."
+        },
+        {
+            "title": "Data Engineer",
+            "description": "Develop and maintain data processing systems using GCP services."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the GCP Mastery course?",
+            "answer": "The course spans three months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "Do I need prior experience in cloud computing?",
+            "answer": "No prior experience is required. The course is suitable for all levels."
+        },
+        {
+            "question": "Does the course prepare me for GCP certification exams?",
+            "answer": "Yes, the course aligns with GCP certification tracks, including Associate Cloud Engineer and Professional Cloud Architect."
+        },
+        {
+            "question": "Will the course include hands-on labs?",
+            "answer": "Yes, you will gain practical experience through hands-on labs and projects."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "GCP Fundamentals",
+            "submodule": [
+                {
+                    "name": "Core Concepts",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GCP",
+                            "description": [
+                                "Overview of cloud computing and GCP",
+                                "Setting up a Google Cloud account",
+                                "Navigating the GCP console and CLI",
+                                "Understanding core GCP services and architecture"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Resource Management",
+                            "description": [
+                                "Managing projects, billing, and permissions",
+                                "Creating and organizing resources with GCP IAM",
+                                "Using the Cloud Shell for quick access"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Compute and Storage Services",
+            "submodule": [
+                {
+                    "name": "Compute and Storage",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Compute Engine and App Engine",
+                            "description": [
+                                "Launching and managing virtual machines",
+                                "Scaling applications with App Engine",
+                                "Understanding Kubernetes Engine (GKE)"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Storage and Databases",
+                            "description": [
+                                "Working with Cloud Storage",
+                                "Using relational databases with Cloud SQL",
+                                "Exploring NoSQL options with Firestore and Bigtable"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Networking and Security",
+            "submodule": [
+                {
+                    "name": "Networking and Access Control",
+                    "chapters": [
+                        {
+                            "module": "Module 5: Networking Basics",
+                            "description": [
+                                "Designing virtual networks and subnets",
+                                "Setting up load balancers and auto-scaling groups",
+                                "Using Cloud CDN for content delivery"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Security in GCP",
+                            "description": [
+                                "Implementing identity and access management",
+                                "Securing data with encryption",
+                                "Using Security Command Center for monitoring"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Big Data and Machine Learning",
+            "submodule": [
+                {
+                    "name": "Data and AI",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Big Data Processing",
+                            "description": [
+                                "Analyzing data with BigQuery",
+                                "Processing data pipelines with Dataflow",
+                                "Streaming data with Pub/Sub"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Machine Learning on GCP",
+                            "description": [
+                                "Using AI tools like Vision API and Natural Language API",
+                                "Training custom models with Vertex AI",
+                                "Deploying ML models with AI Platform"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "DevOps and Automation",
+            "submodule": [
+                {
+                    "name": "CI/CD and Automation",
+                    "chapters": [
+                        {
+                            "module": "Module 9: Cloud Build and Deployment",
+                            "description": [
+                                "Building pipelines with Cloud Build",
+                                "Deploying containers to GKE and Cloud Run",
+                                "Using Terraform for infrastructure as code"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Monitoring and Optimization",
+                            "description": [
+                                "Monitoring resources with Cloud Monitoring",
+                                "Optimizing costs with tools like Recommender",
+                                "Troubleshooting with Cloud Debugger and Trace"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

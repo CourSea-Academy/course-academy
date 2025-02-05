@@ -1,0 +1,201 @@
+{
+    "hashtag": "Automation",
+    "title": "Ansible Mastery",
+    "roleName": "Automation Engineer",
+    "description": "Learn Ansible, the powerful automation tool, to manage IT infrastructure efficiently. This course covers core concepts, advanced techniques, and real-world use cases, equipping you to automate processes and simplify workflows.",
+    "price": "40000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "2 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Hands-On Labs",
+            "description": "Practical learning with live infrastructure"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides in-depth knowledge of Ansible, enabling you to automate IT tasks efficiently. Learn to configure systems, deploy applications, and manage complex IT environments with ease.",
+    "highlights": [
+        {
+            "name": "Configuration Management",
+            "description": "Automate system configuration tasks with Ansible."
+        },
+        {
+            "name": "Application Deployment",
+            "description": "Streamline and standardize application deployment."
+        },
+        {
+            "name": "Infrastructure as Code (IaC)",
+            "description": "Manage infrastructure declaratively with playbooks."
+        },
+        {
+            "name": "Integration with DevOps Tools",
+            "description": "Use Ansible with CI/CD pipelines for seamless automation."
+        },
+        {
+            "name": "Scalability",
+            "description": "Manage thousands of servers with simple, reusable configurations."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Automation Engineer",
+            "description": "Expert in automating IT tasks and workflows using Ansible."
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Skilled in integrating Ansible into CI/CD pipelines for efficient deployments."
+        },
+        {
+            "title": "System Administrator",
+            "description": "Responsible for managing and automating system configurations."
+        },
+        {
+            "title": "Infrastructure Engineer",
+            "description": "Specialist in building and maintaining scalable IT infrastructure using Ansible."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Ansible Mastery course?",
+            "answer": "The course spans two months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need prior experience with automation tools?",
+            "answer": "No prior experience is required. The course is designed for all skill levels."
+        },
+        {
+            "question": "Will the course cover integration with other tools?",
+            "answer": "Yes, the course provides comprehensive coverage of integrating Ansible with DevOps tools."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Ansible",
+            "submodule": [
+                {
+                    "name": "Getting Started",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Overview of Ansible",
+                            "description": [
+                                "What is Ansible and why it is used",
+                                "Installing and configuring Ansible",
+                                "Understanding the control node and managed nodes",
+                                "Ansible architecture and inventory"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Writing Playbooks",
+                            "description": [
+                                "Introduction to YAML syntax",
+                                "Creating and running Ansible playbooks",
+                                "Task execution and ordering",
+                                "Using variables and facts"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Core Features",
+            "submodule": [
+                {
+                    "name": "Configuration and Automation",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Modules and Roles",
+                            "description": [
+                                "Understanding Ansible modules",
+                                "Creating reusable roles",
+                                "Configuring systems with modules",
+                                "Working with Ansible Galaxy"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Inventory Management",
+                            "description": [
+                                "Managing static and dynamic inventories",
+                                "Using host variables and group variables",
+                                "Customizing inventory scripts"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Topics",
+            "submodule": [
+                {
+                    "name": "Scaling and Optimizing Ansible",
+                    "chapters": [
+                        {
+                            "module": "Module 5: Ansible Tower",
+                            "description": [
+                                "Introduction to Ansible Tower",
+                                "Managing tasks with a visual dashboard",
+                                "Scheduling and monitoring jobs"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Best Practices",
+                            "description": [
+                                "Structuring playbooks and roles for scalability",
+                                "Debugging and error handling",
+                                "Securing sensitive data with Ansible Vault"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Integration and Real-World Use Cases",
+            "submodule": [
+                {
+                    "name": "DevOps and Cloud Automation",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Integrating Ansible with DevOps",
+                            "description": [
+                                "Using Ansible in CI/CD pipelines",
+                                "Automating deployments with Jenkins and Ansible",
+                                "Provisioning cloud infrastructure with Ansible"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Real-World Scenarios",
+                            "description": [
+                                "Automating web server configurations",
+                                "Managing databases with Ansible",
+                                "Using Ansible for container orchestration"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

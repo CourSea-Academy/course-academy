@@ -1,0 +1,222 @@
+{
+    "hashtag": "Career Essential",
+    "title": "ReactJS & React Native Mastery",
+    "roleName": "Front-End Developer / Mobile App Developer",
+    "description": "Master both ReactJS and React Native to develop modern web and mobile applications. This comprehensive course covers core React concepts, state management, component design, React Native development, and deploying full-stack apps for both web and mobile platforms.",
+    "price": "45000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "6 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course is designed to give you a deep understanding of both ReactJS for building dynamic web applications and React Native for creating cross-platform mobile apps. You'll learn about JSX, hooks, component lifecycle, state management with Redux, and build native mobile apps with React Native, covering both Android and iOS development.",
+    "highlights": [
+        {
+            "name": "Core React Concepts",
+            "description": "Understand JSX, components, hooks, props, state, and lifecycle methods."
+        },
+        {
+            "name": "Advanced React Patterns",
+            "description": "Learn advanced React patterns like context API, HOC, render props, and custom hooks."
+        },
+        {
+            "name": "State Management with Redux",
+            "description": "Manage complex app states using Redux, Redux Thunk, and Redux Saga."
+        },
+        {
+            "name": "React Native Development",
+            "description": "Build mobile applications for both iOS and Android using React Native."
+        },
+        {
+            "name": "Web & Mobile App Deployment",
+            "description": "Deploy React web apps to production using tools like Netlify, Vercel, and React Native apps to app stores."
+        }
+    ],
+    "roles": [
+        {
+            "title": "React Developer",
+            "description": "Develop responsive and high-performance user interfaces for web applications using ReactJS."
+        },
+        {
+            "title": "Mobile App Developer",
+            "description": "Build mobile applications for iOS and Android using React Native."
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Integrate ReactJS with back-end technologies to build full-stack applications."
+        },
+        {
+            "title": "Frontend Engineer",
+            "description": "Design and implement interactive UI components using ReactJS."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior programming knowledge for this course?",
+            "answer": "Basic knowledge of HTML, CSS, and JavaScript is recommended but not mandatory. The course starts with the fundamentals of ReactJS and React Native."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will build real-world applications such as a To-Do app, E-commerce website, and a mobile app for both iOS and Android using React Native."
+        },
+        {
+            "question": "Will the course cover mobile app deployment?",
+            "answer": "Yes, the course includes lessons on deploying React Native apps to the Apple App Store and Google Play Store."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need Node.js, NPM, a code editor like Visual Studio Code, and tools like Expo and Android Studio for React Native development."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "ReactJS Fundamentals",
+            "submodule": [
+                {
+                    "name": "React Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to React",
+                            "description": [
+                                "Setting up React development environment",
+                                "Understanding JSX and ReactDOM",
+                                "Creating functional and class components"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Components and Props",
+                            "description": [
+                                "Building components and passing data via props",
+                                "Component reusability and composition",
+                                "DefaultProps and PropTypes"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: State and Lifecycle",
+                            "description": [
+                                "Managing component state using useState and useReducer",
+                                "Lifecycle methods and hooks",
+                                "Side effects with useEffect"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced React Concepts",
+            "submodule": [
+                {
+                    "name": "Hooks and Context API",
+                    "chapters": [
+                        {
+                            "module": "Module 1: React Hooks",
+                            "description": [
+                                "Understanding and using useState, useEffect, and custom hooks",
+                                "Managing component state with hooks",
+                                "Optimizing performance with useMemo and useCallback"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Context API and Global State Management",
+                            "description": [
+                                "Using React Context for state management",
+                                "Avoiding prop drilling with context",
+                                "Using Context with useReducer for global state"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "State Management with Redux",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Redux",
+                            "description": [
+                                "Understanding Redux store, actions, and reducers",
+                                "Dispatching actions and updating state",
+                                "Using Redux DevTools for debugging"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Advanced Redux with Middleware",
+                            "description": [
+                                "Using Redux Thunk for asynchronous actions",
+                                "Implementing Redux Saga for side effects",
+                                "Optimizing Redux state management"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "React Native Development",
+            "submodule": [
+                {
+                    "name": "Introduction to React Native",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Setting up React Native",
+                            "description": [
+                                "Setting up React Native development environment",
+                                "Running apps on Android and iOS simulators",
+                                "Using Expo for React Native development"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Components and Navigation",
+                            "description": [
+                                "Building UI components in React Native",
+                                "Setting up navigation with React Navigation",
+                                "Passing data between screens"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Advanced React Native",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Working with APIs and AsyncStorage",
+                            "description": [
+                                "Fetching data from REST APIs",
+                                "Storing data locally with AsyncStorage",
+                                "Handling user authentication and authorization"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Building and Deploying React Native Apps",
+                            "description": [
+                                "Packaging and deploying React Native apps to App Store and Google Play",
+                                "Optimizing app performance and troubleshooting",
+                                "Using libraries like Firebase and Expo for app features"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "hashtag": "Essential",
+    "title": "Excel and Spreadsheet Mastery",
+    "roleName": "Spreadsheet Specialist",
+    "description": "Master Excel and spreadsheet tools to organize, analyze, and visualize data effectively. This course covers everything from basic operations to advanced functions, automation, and data visualization techniques, equipping you for both personal and professional use.",
+    "price": "30000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "2 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-relevant",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course is designed to provide comprehensive training in Excel and spreadsheet applications. Whether you're a beginner looking to enhance your skills or an experienced user aiming to automate workflows, this course offers practical knowledge and hands-on practice to boost productivity.",
+    "highlights": [
+        {
+            "name": "Excel Basics",
+            "description": "Learn the essential tools and features of Excel."
+        },
+        {
+            "name": "Data Analysis",
+            "description": "Organize and analyze data using advanced functions."
+        },
+        {
+            "name": "Automation with Macros",
+            "description": "Automate repetitive tasks with Excel macros."
+        },
+        {
+            "name": "Data Visualization",
+            "description": "Create charts and dashboards for impactful insights."
+        },
+        {
+            "name": "Collaboration Tools",
+            "description": "Master tools for sharing and co-authoring spreadsheets."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Data Analyst",
+            "description": "Analyze and interpret data using Excel for actionable insights."
+        },
+        {
+            "title": "Financial Analyst",
+            "description": "Create financial models and reports using advanced Excel tools."
+        },
+        {
+            "title": "Operations Manager",
+            "description": "Streamline operations with data-driven decision-making."
+        },
+        {
+            "title": "Spreadsheet Specialist",
+            "description": "Manage and optimize spreadsheet workflows in any organization."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Excel and Spreadsheet course?",
+            "answer": "The course spans two months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "Do I need prior experience with Excel?",
+            "answer": "No prior experience is required. The course is suitable for all skill levels."
+        },
+        {
+            "question": "Will the course cover advanced Excel techniques?",
+            "answer": "Yes, the course covers advanced functions, pivot tables, macros, and more."
+        },
+        {
+            "question": "Can I access the course materials after completion?",
+            "answer": "Yes, you will have lifetime access to the recorded sessions and materials."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Foundations of Excel",
+            "submodule": [
+                {
+                    "name": "Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Excel",
+                            "description": [
+                                "Navigating the Excel interface",
+                                "Working with worksheets and workbooks",
+                                "Saving and organizing files",
+                                "Basic data entry and cell formatting"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Formulas and Functions",
+                            "description": [
+                                "Understanding cell references",
+                                "Using basic formulas (SUM, AVERAGE, COUNT)",
+                                "Applying basic conditional formatting",
+                                "Handling errors in formulas"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Organization and Analysis",
+            "submodule": [
+                {
+                    "name": "Data Management",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Data Cleaning and Sorting",
+                            "description": [
+                                "Removing duplicates and blanks",
+                                "Sorting and filtering data",
+                                "Using Text-to-Columns and Flash Fill",
+                                "Formatting data for consistency"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Pivot Tables and Charts",
+                            "description": [
+                                "Creating and customizing pivot tables",
+                                "Grouping and summarizing data",
+                                "Building charts (bar, line, pie)",
+                                "Using slicers and timeline filters"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Excel Techniques",
+            "submodule": [
+                {
+                    "name": "Functions and Automation",
+                    "chapters": [
+                        {
+                            "module": "Module 5: Advanced Functions",
+                            "description": [
+                                "Working with lookup functions (VLOOKUP, HLOOKUP, INDEX-MATCH)",
+                                "Logical functions (IF, AND, OR)",
+                                "Date and time functions",
+                                "Text functions (CONCAT, LEFT, RIGHT)"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Automating with Macros",
+                            "description": [
+                                "Recording and editing macros",
+                                "Using VBA for custom automation",
+                                "Creating reusable scripts",
+                                "Debugging and optimizing macros"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Visualization and Collaboration",
+            "submodule": [
+                {
+                    "name": "Visualization",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Dashboards and Reports",
+                            "description": [
+                                "Designing professional dashboards",
+                                "Integrating multiple data sources",
+                                "Using conditional formatting for insights",
+                                "Building interactive visualizations"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Collaboration and Sharing",
+                            "description": [
+                                "Using shared workbooks and co-authoring",
+                                "Protecting and encrypting spreadsheets",
+                                "Version control and recovery options",
+                                "Exporting and sharing data securely"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

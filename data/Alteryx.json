@@ -1,0 +1,169 @@
+{
+  "hashtag": "Career Essential",
+  "title": "Alteryx Mastery",
+  "roleName": "Data Analytics Specialist",
+  "description": "Master Alteryx to streamline data preparation, blending, and advanced analytics. This comprehensive course will equip you with the tools to automate data workflows, perform advanced analytics, and make data-driven decisions efficiently.",
+  "price": "35000",
+  "features": [
+    {
+      "name": "Job Assistance",
+      "description": "Program"
+    },
+    {
+      "name": "6 Months",
+      "description": "Duration"
+    },
+    {
+      "name": "Live + Recorded",
+      "description": "Delivery Mode"
+    },
+    {
+      "name": "Industry-focused",
+      "description": "Projects and Case Studies"
+    },
+    {
+      "name": "Beginner to Advanced",
+      "description": "Recommended experience"
+    }
+  ],
+  "about": "This course provides an in-depth understanding of Alteryx, covering data preparation, blending, and advanced analytics techniques. Learn to automate workflows, perform predictive analytics, and create repeatable data processes to streamline your work in any organization.",
+  "highlights": [
+    {
+      "name": "Data Preparation and Blending",
+      "description": "Learn how to blend and prepare data for analysis using Alteryx's drag-and-drop tools."
+    },
+    {
+      "name": "Advanced Analytics",
+      "description": "Understand how to use Alteryx's built-in tools for performing advanced analytics like predictive modeling, clustering, and regression."
+    },
+    {
+      "name": "Automation of Data Workflows",
+      "description": "Master the skills to automate and schedule workflows for better data processing and efficiency."
+    },
+    {
+      "name": "Data Visualization",
+      "description": "Learn how to visualize and present your data using Alteryx's integration with tools like Tableau and Power BI."
+    },
+    {
+      "name": "Real-World Projects",
+      "description": "Work on real-world use cases such as data extraction, transformation, and reporting for various industries."
+    }
+  ],
+  "roles": [
+    {
+      "title": "Data Analyst",
+      "description": "Specialize in cleaning, preparing, and analyzing data using Alteryx tools."
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Design and implement automated data pipelines using Alteryx for enterprise data solutions."
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "description": "Develop actionable insights from large datasets and present them through data visualization tools."
+    },
+    {
+      "title": "Analytics Consultant",
+      "description": "Advise organizations on automating their data workflows and integrating analytics tools to optimize their operations."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do I need prior experience with analytics for this course?",
+      "answer": "No, the course is designed for beginners. We'll cover the fundamentals before moving into more advanced topics."
+    },
+    {
+      "question": "What kind of projects will I work on?",
+      "answer": "You'll work on projects involving data cleaning, blending, and reporting, as well as advanced analytics techniques like predictive modeling and clustering."
+    },
+    {
+      "question": "Will I receive a certificate upon completion?",
+      "answer": "Yes, you will receive a certificate after successfully completing the course."
+    },
+    {
+      "question": "What tools will I need for this course?",
+      "answer": "You will need a computer with Alteryx Designer installed. A free trial version of Alteryx is available for the duration of the course."
+    },
+    {
+      "question": "Is there any job support offered?",
+      "answer": "Yes, we provide job assistance including resume-building tips and interview preparation."
+    }
+  ],
+  "curriculum": [
+    {
+      "module": "Introduction to Alteryx",
+      "submodule": [
+        {
+          "name": "Getting Started with Alteryx",
+          "chapters": [
+            {
+              "module": "Module 1: Overview of Alteryx",
+              "description": [
+                "Introduction to Alteryx Designer",
+                "Setting up and navigating Alteryx Interface",
+                "Creating your first workflow"
+              ]
+            },
+            {
+              "module": "Module 2: Data Input and Output",
+              "description": [
+                "Understanding data input tools",
+                "Importing data from various sources",
+                "Exporting results and integrating with other applications"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module": "Data Preparation and Transformation",
+      "submodule": [
+        {
+          "name": "Data Blending and Transformation",
+          "chapters": [
+            {
+              "module": "Module 1: Data Preparation Techniques",
+              "description": [
+                "Cleaning and standardizing data",
+                "Handling missing values",
+                "Blending data from multiple sources"
+              ]
+            },
+            {
+              "module": "Module 2: Advanced Data Transformation",
+              "description": [
+                "Using formula and parsing tools",
+                "Creating custom data transformations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "module": "Advanced Analytics",
+      "submodule": [
+        {
+          "name": "Analytics Tools and Techniques",
+          "chapters": [
+            {
+              "module": "Module 1: Predictive Analytics",
+              "description": [
+                "Creating predictive models in Alteryx",
+                "Clustering, regression, and time-series analysis"
+              ]
+            },
+            {
+              "module": "Module 2: Advanced Analytical Tools",
+              "description": [
+                "Using R and Python integration in Alteryx",
+                "Advanced analytics techniques for business decision-making"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

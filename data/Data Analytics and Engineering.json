@@ -1,0 +1,2046 @@
+{
+    "hashtag": "In Demand",
+    "title": "Data Analytics and Engineering",
+    "roleName": "Data Analytics Professional",
+    "description": "Master the art of data analytics and engineering by learning to collect, process, and analyze data for actionable insights. This course covers the entire data pipeline, from data ingestion and transformation to advanced analytics and visualization techniques, preparing you to build and manage robust data systems.",
+    "price": "48000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        }, 
+        {
+            "name": "3 Months",
+            "description" : "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description" : "Delivery Mode"
+        },
+        {
+            "name": "Industry relevant",
+            "description" : "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner level",
+            "description" : "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive course is designed for aspiring data analysts and engineers. Whether you're a beginner or an experienced professional, this course will equip you with the skills and knowledge to excel in data analytics and engineering.",
+    "highlights": [
+        {"name": "Data Collection",
+        "description":"Learn to collect and preprocess data from various sources."},
+        {"name": "Data Transformation",
+        "description": "Master ETL (Extract, Transform, Load) processes."},
+        {"name": "Data Analysis",
+        "description":"Perform statistical analysis and derive insights."},
+        {"name": "Data Visualization",
+        "description":"Create impactful data visualizations and dashboards."},
+        {"name": "Real-World Projects",
+        "description":"Work on real-world projects that demonstrate practical applications."},
+        {"name": "Deployment and Maintenance",
+        "description":"Learn best practices for deploying and maintaining data pipelines."}
+    ],
+    "roles": [
+        {
+        "title": "Data Engineer",
+        "description": "Data Engineer with expertise in building and managing data pipelines, leveraging tools like Apache Spark, Hadoop, and ETL frameworks."
+        },
+        {
+        "title": "Business Intelligence Analyst",
+        "description": "BI Analyst skilled in Tableau, Power BI, and SQL, specializing in transforming raw data into actionable insights through compelling visualizations."
+        },
+        {
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer experienced in Python, R, and cloud-based platforms, focusing on deploying predictive models and analyzing large datasets."
+        },
+        {
+        "title": "Big Data Architect",
+        "description": "Big Data Architect proficient in cloud technologies like AWS, Azure, and GCP, designing and managing distributed systems for big data analytics."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Data Analytics and Engineering course?",
+            "answer": "The course spans six months from the start date."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need to install any specific software before starting the course?",
+            "answer": "Yes, you will be provided a list of required software after enrollment."
+        },
+        {
+            "question": "What are the prerequisites for enrolling in the course?",
+            "answer": "Basic knowledge of programming, statistics, and data analysis is recommended."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Tools",
+            "submodule": [
+                {
+                    "name": "Excel",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Excel",
+                            "description": [
+                                "Overview of Excel and its importance in data management",
+                                "Understanding the Excel interface: ribbons, toolbars, and menus",
+                                "Navigating workbooks, worksheets, and cells",
+                                "Basic operations: opening, saving, and sharing files",
+                                "Exploring Excel templates for different use cases",
+                                "Tips for efficient workflow in Excel"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Excel Operations",
+                            "description": [
+                                "Entering, editing, and formatting data",
+                                "Working with rows, columns, and cells",
+                                "Applying basic formatting: fonts, colors, and borders",
+                                "Understanding number formats and custom formatting",
+                                "Using find and replace for quick updates",
+                                "Best practices for organizing data"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Formulas and Functions",
+                            "description": [
+                                "Introduction to Excel formulas and syntax",
+                                "Using basic functions: SUM, AVERAGE, MIN, MAX, and COUNT",
+                                "Understanding absolute, relative, and mixed references",
+                                "Working with logical functions: IF, AND, OR",
+                                "Using lookup functions: VLOOKUP, HLOOKUP, and XLOOKUP",
+                                "Troubleshooting common formula errors"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data Analysis Tools",
+                            "description": [
+                                "Sorting and filtering data for analysis",
+                                "Using conditional formatting to highlight key data",
+                                "Creating and using pivot tables",
+                                "Introduction to data validation and drop-down lists",
+                                "Using charts and graphs for visualization",
+                                "Analyzing data with slicers and timelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Excel Techniques",
+                            "description": [
+                                "Introduction to macros and VBA for automation",
+                                "Using advanced functions: INDEX, MATCH, and TEXT functions",
+                                "Creating dynamic named ranges and data models",
+                                "Performing what-if analysis with Goal Seek and Solver",
+                                "Understanding advanced charting techniques",
+                                "Optimizing large datasets with Power Query"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Collaboration and Sharing",
+                            "description": [
+                                "Sharing workbooks and collaborating in real-time",
+                                "Protecting and securing Excel files",
+                                "Tracking changes and managing version history",
+                                "Integrating Excel with other tools and applications",
+                                "Exporting data to PDF and other formats",
+                                "Tips for collaborative workflows"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Practical Applications and Case Studies",
+                            "description": [
+                                "Budget tracking and financial planning",
+                                "Data analysis for business intelligence",
+                                "Project management and Gantt charts",
+                                "Creating dashboards for reporting",
+                                "Inventory and sales tracking",
+                                "Case studies showcasing real-world Excel solutions"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Power BI",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Power BI",
+                            "description": [
+                                "Overview of Power BI and its importance in business intelligence",
+                                "Understanding Power BI components: Power BI Desktop, Service, and Mobile",
+                                "Setting up and navigating the Power BI interface",
+                                "Key features and capabilities of Power BI",
+                                "Understanding the data-driven decision-making process",
+                                "Power BI community and resources for learning"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Preparation and Transformation",
+                            "description": [
+                                "Connecting to various data sources in Power BI",
+                                "Understanding Power Query Editor",
+                                "Cleaning and transforming data for analysis",
+                                "Combining and merging datasets",
+                                "Managing data relationships and schema design",
+                                "Tips for efficient data preparation"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Data Modeling",
+                            "description": [
+                                "Introduction to data modeling in Power BI",
+                                "Creating relationships between tables",
+                                "Understanding star and snowflake schemas",
+                                "Using calculated columns and measures",
+                                "Introduction to DAX (Data Analysis Expressions)",
+                                "Best practices for effective data modeling"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Visualizations and Reports",
+                            "description": [
+                                "Creating and customizing visualizations in Power BI",
+                                "Understanding and using different chart types",
+                                "Designing interactive and dynamic dashboards",
+                                "Working with slicers and filters",
+                                "Using themes and templates for consistent branding",
+                                "Best practices for effective report design"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Features in Power BI",
+                            "description": [
+                                "Introduction to advanced DAX expressions",
+                                "Using time intelligence functions for trend analysis",
+                                "Implementing row-level security in reports",
+                                "Creating custom visuals with Power BI visuals SDK",
+                                "Advanced analytics with Power BI and Python/R",
+                                "Optimizing performance in large datasets"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Power BI Service and Collaboration",
+                            "description": [
+                                "Publishing reports to the Power BI Service",
+                                "Sharing and collaborating on dashboards and reports",
+                                "Scheduling data refresh and managing gateways",
+                                "Embedding Power BI reports in apps and websites",
+                                "Understanding Power BI workspaces and apps",
+                                "Monitoring and auditing usage in Power BI"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Real-World Applications and Case Studies",
+                            "description": [
+                                "Exploring use cases of Power BI in different industries",
+                                "Case study: Sales and marketing analytics dashboard",
+                                "Case study: Financial performance and forecasting dashboard",
+                                "Case study: Customer segmentation and behavior analysis",
+                                "Implementing end-to-end business intelligence solutions with Power BI",
+                                "Future trends and innovations in Power BI"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "DSA",
+            "submodule": [
+                {
+                    "name": "Data Structures",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Data Structures",
+                            "description": [
+                                "Overview of data structures and their importance in programming",
+                                "Classification of data structures: linear vs. non-linear",
+                                "Understanding abstract data types (ADTs)",
+                                "Real-world applications of data structures",
+                                "Introduction to algorithm efficiency and complexity analysis",
+                                "Choosing the right data structure for a problem"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Arrays and Strings",
+                            "description": [
+                                "Understanding arrays and their operations",
+                                "Advantages and limitations of arrays",
+                                "Multi-dimensional arrays and their use cases",
+                                "Working with strings as a data structure",
+                                "String operations: concatenation, search, and manipulation",
+                                "Common problems: reverse, palindrome, and substring search"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Linked Lists",
+                            "description": [
+                                "Introduction to linked lists and their types: singly, doubly, and circular",
+                                "Operations on linked lists: insertion, deletion, and traversal",
+                                "Advantages and disadvantages of linked lists vs. arrays",
+                                "Implementing linked lists in code",
+                                "Real-world applications of linked lists",
+                                "Complexity analysis of linked list operations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Stacks and Queues",
+                            "description": [
+                                "Understanding stack data structure and its operations",
+                                "Applications of stacks: expression evaluation and backtracking",
+                                "Introduction to queues and their types: simple, circular, and priority queues",
+                                "Operations on queues: enqueue, dequeue, and peek",
+                                "Implementing stacks and queues using arrays and linked lists",
+                                "Use cases of stacks and queues in real-world scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Trees",
+                            "description": [
+                                "Understanding tree structures and terminology",
+                                "Binary trees and their traversal methods: in-order, pre-order, post-order",
+                                "Binary search trees (BST): properties and operations",
+                                "Balanced trees: AVL and Red-Black trees",
+                                "Heaps and their applications in priority queues",
+                                "Real-world applications of tree data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graphs",
+                            "description": [
+                                "Introduction to graph data structure and terminology",
+                                "Graph representations: adjacency matrix and adjacency list",
+                                "Graph traversal techniques: depth-first search (DFS) and breadth-first search (BFS)",
+                                "Weighted graphs and shortest path algorithms",
+                                "Detecting cycles and connectivity in graphs",
+                                "Applications of graphs in networking, pathfinding, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Hashing and Hash Tables",
+                            "description": [
+                                "Understanding hashing and hash functions",
+                                "Introduction to hash tables and their operations",
+                                "Collision resolution techniques: chaining and open addressing",
+                                "Applications of hash tables in caching, dictionaries, and indexing",
+                                "Implementing hash tables in code",
+                                "Advantages and limitations of hashing"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Data Structures",
+                            "description": [
+                                "Introduction to tries and their use cases in text processing",
+                                "Understanding segment trees and Fenwick trees",
+                                "Disjoint sets (Union-Find) and their applications",
+                                "Sparse tables for range queries",
+                                "Graph-based data structures: adjacency sets and incidence matrices",
+                                "Applications of advanced data structures in competitive programming"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Algorithms",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Algorithms",
+                            "description": [
+                                "Understanding the importance of algorithms in problem-solving",
+                                "Overview of algorithm design and analysis",
+                                "Key characteristics of algorithms: correctness, efficiency, and scalability",
+                                "Classification of algorithms: sorting, searching, graph algorithms, etc.",
+                                "Introduction to time and space complexity",
+                                "Understanding Big-O, Big-Theta, and Big-Omega notations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Sorting and Searching Algorithms",
+                            "description": [
+                                "Overview of sorting algorithms: bubble sort, selection sort, insertion sort",
+                                "Efficient sorting algorithms: merge sort, quick sort, heap sort",
+                                "Comparing sorting algorithms: stability, efficiency, and use cases",
+                                "Linear search and binary search techniques",
+                                "Applications of sorting and searching in real-world scenarios",
+                                "Understanding sorting algorithms’ time complexity"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Divide and Conquer Algorithms",
+                            "description": [
+                                "Introduction to the divide and conquer approach",
+                                "Classic examples: merge sort, quick sort, and binary search",
+                                "Understanding recurrence relations and their solutions",
+                                "Applications of divide and conquer in computational problems",
+                                "Optimizations and challenges in divide and conquer algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Dynamic Programming",
+                            "description": [
+                                "Understanding the principles of dynamic programming",
+                                "Solving overlapping subproblems and optimal substructure",
+                                "Classic problems: Fibonacci, knapsack problem, and longest common subsequence",
+                                "Top-down (memoization) vs. bottom-up (tabulation) approaches",
+                                "Applications of dynamic programming in optimization problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Greedy Algorithms",
+                            "description": [
+                                "Understanding the greedy algorithm paradigm",
+                                "Key properties: greedy-choice property and optimal substructure",
+                                "Classic examples: activity selection, Huffman coding, and minimum spanning tree",
+                                "Greedy vs. dynamic programming: differences and applications",
+                                "Analyzing and implementing greedy algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graph Algorithms",
+                            "description": [
+                                "Introduction to graphs and their representations",
+                                "Depth-first search (DFS) and breadth-first search (BFS)",
+                                "Shortest path algorithms: Dijkstra’s and Bellman-Ford",
+                                "Minimum spanning tree algorithms: Kruskal’s and Prim’s",
+                                "Applications of graph algorithms in real-world scenarios",
+                                "Understanding graph traversal and connectivity"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Backtracking and Recursion",
+                            "description": [
+                                "Understanding the concept of backtracking",
+                                "Classic problems: N-Queens, Sudoku, and Hamiltonian cycle",
+                                "Recursion fundamentals and its role in algorithm design",
+                                "Memoization and pruning techniques in backtracking",
+                                "Applications and limitations of backtracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Topics and Optimization",
+                            "description": [
+                                "Introduction to randomized algorithms",
+                                "Understanding and solving NP-complete problems",
+                                "Branch and bound techniques",
+                                "Approximation algorithms for intractable problems",
+                                "Parallel algorithms and their applications",
+                                "Real-world applications of advanced algorithms"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Database",
+            "submodule": [
+                {
+                "name": "SQL",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Databases",
+                        "description": [
+                            "Overview of databases and their importance in data management",
+                            "Types of databases (Relational and Non-Relational)",
+                            "DBMS architecture and its role in modern applications",
+                            "Setting up and configuring a database management system"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Database Design Concepts",
+                        "description": [
+                            "Data modeling and understanding the relational database model",
+                            "Entities, attributes, and relationships",
+                            "Keys and constraints in relational databases",
+                            "Data types and functional dependencies",
+                            "Normalization (1NF, 2NF, 3NF) and denormalization"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Create, Alter, and Drop Databases and Tables",
+                        "description": [
+                            "Creating and dropping databases and tables",
+                            "Altering tables and creating relationships",
+                            "Understanding character sets and collations"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Insert, Update, and Delete Data",
+                        "description": [
+                            "Inserting single and multiple rows",
+                            "Using subqueries in updates",
+                            "Deleting rows and restoring databases"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Retrieving Data From a Single Table",
+                        "description": [
+                            "SELECT clause, FROM clause, WHERE clause",
+                            "Relational and logical operators",
+                            "IN, BETWEEN, and LIKE operators",
+                            "REGEXP operator and sorting with ORDER BY",
+                            "LIMIT clause for paginated results"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Retrieving Data From Multiple Tables",
+                        "description": [
+                            "Inner joins and outer joins (left, right, full)",
+                            "Compound join conditions and USING clause",
+                            "Self joins, cross joins, and unions"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Subqueries and Complex Queries",
+                        "description": [
+                            "Writing subqueries (correlated subqueries, in SELECT, FROM, WHERE clauses)",
+                            "Using EXISTS and NOT EXISTS operators",
+                            "ALL and ANY keywords for comparisons"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Summarizing Data and Essential Functions",
+                        "description": [
+                            "DISTINCT keyword for unique results",
+                            "Aggregate functions and GROUP BY clause",
+                            "HAVING clause and ROLLUP operator",
+                            "Built-in functions: string, numeric, date functions",
+                            "Conditional logic with IFNULL, COALESCE, IF, and CASE"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Views, Stored Procedures, and Triggers",
+                        "description": [
+                            "Creating, altering, and dropping views",
+                            "Stored procedures and functions (parameters and variables)",
+                            "Creating triggers and handling events"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Transactions and Concurrency",
+                        "description": [
+                            "Understanding ACID properties",
+                            "Concurrency and locking mechanisms",
+                            "Transaction isolation levels and handling deadlocks"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Indexing for High Performance",
+                        "description": [
+                            "Creating and managing indexes (full-text, composite, covering indexes)",
+                            "Using indexes for sorting and optimizing queries",
+                            "Index maintenance and scenarios when indexes are ignored"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Securing Databases",
+                        "description": [
+                            "Creating, viewing, and dropping users",
+                            "Granting, revoking, and managing privileges",
+                            "Password management and database security"
+                        ]
+                    }
+                ]
+                
+            }
+            ]
+        },
+        {
+            "module": "Programming",
+            "submodule": [
+                {
+                    "name": "Python",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Python",
+                            "description": [
+                                "Overview of Python and its features",
+                                "Installing Python and setting up the development environment",
+                                "Python syntax and first program",
+                                "Indentation, keywords, identifiers, and input/output"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Python Basic Constructs",
+                            "description": [
+                                "Variables and memory management",
+                                "Data types, operators, type conversions",
+                                "Comments and implicit/explicit conversions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Control Flow",
+                            "description": [
+                                "Conditional statements (if-else)",
+                                "Loops (for, while, nested)",
+                                "Break, pass, and continue statements"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Python Functions",
+                            "description": [
+                                "Defining, calling functions",
+                                "Lambda functions, recursion",
+                                "Variable scope, *args, and **kwargs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Python Strings",
+                            "description": [
+                                "String methods and formatting",
+                                "Escape sequences and manipulations"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Data Structures",
+                            "description": [
+                                "Lists, tuples, sets, dictionaries",
+                                "Comprehensions for lists and dictionaries"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Object-Oriented Programming",
+                            "description": [
+                                "Classes, objects, inheritance, and encapsulation",
+                                "Dunder methods and advanced concepts"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Exception Handling",
+                            "description": [
+                                "Error handling (try, catch, finally)",
+                                "File handling and custom exceptions"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Python Concepts",
+                            "description": [
+                                "Iterators, generators, decorators",
+                                "Multithreading, multiprocessing",
+                                "Regular expressions and advanced data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Python for Web Development",
+                            "description": [
+                                "Basics of Flask/Django",
+                                "API creation, form handling, and database integration"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Python for Data Analysis",
+                            "description": [
+                                "Pandas, NumPy, and Matplotlib",
+                                "Data visualization and statistics"
+                            ]
+                        }
+                    
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Libraries",
+            "submodule": [
+                {
+                    "name": "Numpy",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to NumPy",
+                            "description": [
+                                "Overview of NumPy library and its significance in scientific computing",
+                                "Understanding NumPy's core data structure: ndarray",
+                                "Installing and setting up NumPy in Python",
+                                "Basic array creation and manipulation techniques",
+                                "Performance advantages of NumPy over standard Python lists",
+                                "Introduction to NumPy's broadcasting and vectorization capabilities"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: NumPy Array Operations",
+                            "description": [
+                                "Creating and initializing NumPy arrays",
+                                "Array indexing and slicing techniques",
+                                "Mathematical operations on arrays",
+                                "Element-wise and matrix operations",
+                                "Reshaping and transposing arrays",
+                                "Advanced indexing and boolean masking"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: NumPy Mathematical Functions",
+                            "description": [
+                                "Universal mathematical functions in NumPy",
+                                "Statistical operations and aggregations",
+                                "Linear algebra operations with NumPy",
+                                "Random number generation and distributions",
+                                "Advanced mathematical computations",
+                                "Performance optimization for mathematical operations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: NumPy for Scientific Computing",
+                            "description": [
+                                "NumPy's role in scientific and engineering applications",
+                                "Handling multi-dimensional arrays",
+                                "Integration with other scientific libraries",
+                                "Signal processing and numerical computations",
+                                "Advanced array manipulation techniques",
+                                "Implementing complex scientific algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: NumPy Performance and Optimization",
+                            "description": [
+                                "Understanding NumPy's memory efficiency",
+                                "Vectorization techniques for performance",
+                                "Memory views and buffer protocols",
+                                "Profiling and optimizing NumPy code",
+                                "Handling large datasets with NumPy",
+                                "Parallel computing with NumPy"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced NumPy Techniques",
+                            "description": [
+                                "Advanced array manipulation methods",
+                                "Custom ufuncs and function creation",
+                                "Memory management and array views",
+                                "Structured and record arrays",
+                                "Integration with machine learning libraries",
+                                "Advanced indexing and fancy indexing techniques"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: NumPy for Data Analysis",
+                            "description": [
+                                "Using NumPy for data preprocessing",
+                                "Statistical analysis with NumPy",
+                                "Data transformation techniques",
+                                "Working with missing and categorical data",
+                                "Implementing data analysis algorithms",
+                                "Integration with pandas and machine learning workflows"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: NumPy Best Practices",
+                            "description": [
+                                "Code optimization strategies",
+                                "Memory-efficient programming",
+                                "Debugging and profiling NumPy code",
+                                "Performance comparison with standard Python",
+                                "Best practices for scientific computing",
+                                "Advanced error handling and type management"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Pandas",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Pandas",
+                            "description": [
+                                "Overview of Pandas library and its importance in data manipulation",
+                                "Understanding the core data structures: Series and DataFrame",
+                                "Installing and setting up Pandas in Python",
+                                "Basic data loading techniques from various sources",
+                                "Data types and memory management in Pandas",
+                                "Performance considerations and best practices"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Loading and Inspection",
+                            "description": [
+                                "Reading data from CSV, Excel, JSON, and SQL databases",
+                                "Handling different file formats and encodings",
+                                "Basic data inspection methods: head(), tail(), info(), describe()",
+                                "Checking for missing values and data types",
+                                "Data sampling and filtering techniques",
+                                "Understanding index and column operations"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Data Cleaning and Preprocessing",
+                            "description": [
+                                "Handling missing data: dropna(), fillna(), interpolate()",
+                                "Data type conversion and transformation",
+                                "Removing duplicates and outliers",
+                                "String manipulation and text processing",
+                                "Data normalization and scaling techniques",
+                                "Advanced data cleaning strategies"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data Selection and Filtering",
+                            "description": [
+                                "Indexing and selecting data using .loc[] and .iloc[]",
+                                "Boolean indexing and complex filtering",
+                                "Conditional selection and masking",
+                                "Multi-level indexing and advanced selection techniques",
+                                "Handling large datasets efficiently",
+                                "Performance optimization for data selection"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Data Transformation",
+                            "description": [
+                                "Grouping and aggregation with groupby()",
+                                "Pivot tables and cross-tabulation",
+                                "Merging, joining, and concatenating DataFrames",
+                                "Reshaping data with melt() and pivot()",
+                                "Time series manipulation and resampling",
+                                "Advanced data transformation techniques"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Statistical Analysis with Pandas",
+                            "description": [
+                                "Descriptive statistics using Pandas methods",
+                                "Correlation and covariance analysis",
+                                "Rolling and expanding window calculations",
+                                "Statistical hypothesis testing",
+                                "Working with probability distributions",
+                                "Integration with SciPy for advanced statistical analysis"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Data Visualization with Pandas",
+                            "description": [
+                                "Built-in plotting methods in Pandas",
+                                "Creating basic plots: line, bar, scatter, and histogram",
+                                "Customizing plot styles and appearance",
+                                "Integrating with Matplotlib and Seaborn",
+                                "Creating interactive visualizations",
+                                "Advanced visualization techniques with Pandas"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Performance and Advanced Techniques",
+                            "description": [
+                                "Memory optimization strategies",
+                                "Working with large datasets using chunking",
+                                "Parallel processing and performance tuning",
+                                "Advanced indexing and query techniques",
+                                "Handling categorical data efficiently",
+                                "Best practices for scalable data manipulation"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Matplotlib",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Matplotlib",
+                            "description": [
+                                "Overview of Matplotlib and its role in Python data visualization",
+                                "Matplotlib vs. Seaborn: Key differences and when to use each",
+                                "Installing and setting up Matplotlib",
+                                "Basic plotting with Matplotlib: line, scatter, and bar plots",
+                                "Understanding Matplotlib's `pyplot` API and object-oriented interface",
+                                "Introduction to figure and axis objects in Matplotlib"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Customizing Matplotlib Plots",
+                            "description": [
+                                "Customizing plot labels, titles, and axis tick marks",
+                                "Adjusting line styles, markers, and colors",
+                                "Working with grids, legends, and annotations",
+                                "Adding multiple plots to a single figure using subplots",
+                                "Changing plot size and aspect ratio",
+                                "Saving and exporting plots in various formats (PNG, SVG, PDF)"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Working with Multiple Plots",
+                            "description": [
+                                "Creating multiple subplots in a figure using `plt.subplots()`",
+                                "Handling different plot layouts and grid arrangements",
+                                "Using `plt.subplot()` for organizing multiple plots",
+                                "Managing figure size and layout with `tight_layout()`",
+                                "Creating multi-axes figures and shared axes",
+                                "Advanced subplotting with `GridSpec`"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Advanced Plotting with Matplotlib",
+                            "description": [
+                                "Creating advanced plot types: histograms, box plots, and pie charts",
+                                "3D plotting with Matplotlib's `Axes3D`",
+                                "Creating contour plots and heatmaps",
+                                "Using vector fields and streamlines",
+                                "Time series and scatter matrix plotting",
+                                "Advanced styling and customization with Matplotlib"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Matplotlib for Data Visualization",
+                            "description": [
+                                "Exploratory data analysis (EDA) with Matplotlib",
+                                "Visualizing trends, distributions, and correlations",
+                                "Creating interactive visualizations with Matplotlib",
+                                "Handling missing data and outliers in plots",
+                                "Working with large datasets efficiently in Matplotlib",
+                                "Integrating Matplotlib with Pandas for data visualization"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Integrating Matplotlib with Other Libraries",
+                            "description": [
+                                "Using Matplotlib with Seaborn for enhanced visualization",
+                                "Plotting with Pandas DataFrames and Series",
+                                "Interactive plots with Matplotlib and Jupyter notebooks",
+                                "Matplotlib in web applications using Plotly and Dash",
+                                "Embedding Matplotlib plots in GUI applications (Tkinter, PyQt)",
+                                "Exporting Matplotlib visualizations for presentations and reports"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Matplotlib for Scientific Computing",
+                            "description": [
+                                "Matplotlib's role in scientific and engineering applications",
+                                "Visualizing scientific data: measurements, simulations, and experiments",
+                                "Plotting mathematical functions and distributions",
+                                "Working with images and maps in Matplotlib",
+                                "Handling large arrays and matrices using NumPy and Matplotlib",
+                                "Matplotlib for simulation and modeling visualization"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Debugging and Best Practices with Matplotlib",
+                            "description": [
+                                "Debugging common issues in Matplotlib plots",
+                                "Optimizing plot performance for large datasets",
+                                "Best practices for writing clean and reusable plotting code",
+                                "Advanced figure customizations: ticks, colorbars, and annotations",
+                                "Creating publication-quality plots with Matplotlib",
+                                "Documenting and sharing your visualizations"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Seaborn",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Seaborn",
+                            "description": [
+                                "Overview of Seaborn library and its importance for data visualization",
+                                "Seaborn vs. Matplotlib: Key differences and advantages",
+                                "Installing and setting up Seaborn",
+                                "Basic Seaborn plot types: scatter, line, bar, box, etc.",
+                                "Understanding the relationship between Seaborn and Pandas DataFrames",
+                                "Customizing plots: colors, styles, and palettes"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Seaborn for Statistical Plots",
+                            "description": [
+                                "Introduction to statistical plots in Seaborn",
+                                "Visualizing distributions: histograms, KDE plots, and ECDFs",
+                                "Box plots and violin plots for comparing distributions",
+                                "Pair plots and joint plots for understanding relationships",
+                                "Heatmaps and correlation matrices",
+                                "Applications in exploratory data analysis (EDA)"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Seaborn for Regression and Categorical Data",
+                            "description": [
+                                "Creating regression plots using `lmplot`, `regplot`, and `residplot`",
+                                "Visualizing relationships with scatter plots and regression lines",
+                                "Handling categorical data with `catplot` and `barplot`",
+                                "Creating count plots and factor plots",
+                                "FacetGrid for creating multi-panel plots",
+                                "Customization of regression and categorical plots"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Seaborn for Multi-Plot Figures",
+                            "description": [
+                                "Creating complex multi-plot figures with `FacetGrid`",
+                                "Using `sns.pairplot` and `sns.jointplot` for multi-dimensional relationships",
+                                "Handling subplots and axes management in Seaborn",
+                                "Arranging multiple plots in a single figure",
+                                "Customization of multi-plot figures for presentation",
+                                "Saving and exporting figures from Seaborn"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Customizing Seaborn Plots",
+                            "description": [
+                                "Customizing plot styles and themes with Seaborn's `set` function",
+                                "Using custom color palettes and color maps",
+                                "Changing plot sizes and aspect ratios",
+                                "Fine-tuning plot labels, titles, and legends",
+                                "Advanced styling: grid lines, ticks, and borders",
+                                "Saving plots in different formats (PNG, SVG, PDF)"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Seaborn for Time Series and Heatmaps",
+                            "description": [
+                                "Handling time series data with Seaborn",
+                                "Creating time series plots with `lineplot`",
+                                "Visualizing seasonal trends and data patterns",
+                                "Using Seaborn for time series decomposition",
+                                "Heatmaps for displaying 2D data relationships",
+                                "Applying hierarchical clustering to heatmaps"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Visualizations with Seaborn",
+                            "description": [
+                                "Creating complex plots with `sns.kdeplot` and `sns.distplot`",
+                                "Visualizing pairwise relationships in large datasets with pair plots",
+                                "Creating density plots and contour plots",
+                                "Advanced techniques for visualizing geospatial data",
+                                "Handling missing data and outliers in Seaborn plots",
+                                "Working with multi-dimensional data and visualizing trends"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Seaborn for Data Exploration and Presentation",
+                            "description": [
+                                "Using Seaborn for initial data exploration and summary visualization",
+                                "Communicating results through effective visualizations",
+                                "Creating dashboards and presentations with Seaborn plots",
+                                "Handling large datasets and optimizing plot performance",
+                                "Integrating Seaborn with other visualization tools like Plotly and Matplotlib",
+                                "Advanced plotting techniques for reporting and analysis"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SciPy",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to SciPy",
+                            "description": [
+                                "Overview of SciPy library and its significance in scientific computing",
+                                "Understanding the relationship between SciPy and NumPy",
+                                "Installation and setup of SciPy in Python",
+                                "Exploring the main features and modules of SciPy",
+                                "Introduction to scientific computing with Python",
+                                "SciPy's role in optimization, integration, and signal processing"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: SciPy for Linear Algebra",
+                            "description": [
+                                "Solving linear systems using SciPy's `linalg` module",
+                                "Matrix operations: determinant, eigenvalues, and eigenvectors",
+                                "Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)",
+                                "QR factorization and LU decomposition",
+                                "Working with sparse matrices in SciPy",
+                                "Applications of linear algebra in data science and machine learning"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: SciPy for Optimization",
+                            "description": [
+                                "Introduction to optimization problems and methods",
+                                "Minimizing and maximizing functions using `optimize` module",
+                                "Constrained and unconstrained optimization techniques",
+                                "Using SciPy's `least_squares` for nonlinear optimization",
+                                "Solving linear programming problems with SciPy",
+                                "Applications of optimization in real-world problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: SciPy for Integration and Differentiation",
+                            "description": [
+                                "Numerical integration using `integrate` module",
+                                "Solving definite and indefinite integrals",
+                                "Differential equations and boundary value problems",
+                                "Using `odeint` and `solve_ivp` for solving ODEs",
+                                "Introduction to numerical differentiation",
+                                "Applications in physics, engineering, and economics"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: SciPy for Signal Processing",
+                            "description": [
+                                "Signal processing fundamentals in SciPy",
+                                "Filtering signals using `signal` module",
+                                "Fourier Transform and Spectral Analysis",
+                                "Convolution and correlation of signals",
+                                "Windowing functions for signal processing",
+                                "Applications in audio, image, and speech processing"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: SciPy for Statistics",
+                            "description": [
+                                "Descriptive statistics using SciPy",
+                                "Probability distributions and statistical tests",
+                                "Hypothesis testing with `stats` module",
+                                "Fitting distributions to data",
+                                "Monte Carlo simulations with SciPy",
+                                "Applications in statistical modeling and data analysis"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: SciPy for Interpolation and Approximation",
+                            "description": [
+                                "Introduction to interpolation techniques",
+                                "Using SciPy's `interpolate` module for 1D and multidimensional interpolation",
+                                "Spline interpolation and fitting",
+                                "Piecewise polynomials and rational functions",
+                                "Least-squares fitting with `curve_fit`",
+                                "Applications in data smoothing and curve fitting"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: SciPy for Sparse Matrices and Graphs",
+                            "description": [
+                                "Understanding sparse matrices and their importance",
+                                "Working with sparse matrix formats in SciPy",
+                                "Efficient storage and manipulation of large datasets",
+                                "Graph algorithms and network analysis in SciPy",
+                                "Applications in computational biology, physics, and machine learning",
+                                "Handling large-scale data problems with sparse matrix operations"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Web Scraping",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Web Scraping",
+                            "description": [
+                                "Overview of web scraping and its applications",
+                                "Understanding the ethical and legal aspects of web scraping",
+                                "Introduction to HTTP, HTML, and web structures",
+                                "Tools and libraries for web scraping: Python (BeautifulSoup, Scrapy, Selenium)",
+                                "The basics of sending requests and parsing HTML data",
+                                "Setting up your first web scraper"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with HTML and CSS Selectors",
+                            "description": [
+                                "Understanding HTML structure and the Document Object Model (DOM)",
+                                "Identifying HTML elements with CSS selectors",
+                                "Using XPath for more advanced element targeting",
+                                "Navigating through elements with BeautifulSoup",
+                                "Common HTML tags: div, span, a, img, and more",
+                                "Extracting structured data from HTML documents"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Scraping with BeautifulSoup",
+                            "description": [
+                                "Introduction to BeautifulSoup and its installation",
+                                "Parsing HTML and XML with BeautifulSoup",
+                                "Navigating and searching through HTML elements",
+                                "Extracting text, links, and images from web pages",
+                                "Handling multiple pages and pagination",
+                                "Handling errors and exceptions in scraping"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Scraping with Scrapy",
+                            "description": [
+                                "Introduction to Scrapy framework for web scraping",
+                                "Setting up Scrapy projects and spiders",
+                                "Scraping structured data with Scrapy's selectors",
+                                "Exporting scraped data in CSV, JSON, and XML formats",
+                                "Dealing with advanced topics like handling cookies, sessions, and user agents",
+                                "Running and scheduling Scrapy crawlers"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Handling Dynamic Content with Selenium",
+                            "description": [
+                                "Introduction to Selenium for scraping dynamic websites",
+                                "Setting up Selenium WebDriver for different browsers",
+                                "Automating browser actions like clicking buttons and filling forms",
+                                "Extracting data from dynamically loaded content",
+                                "Handling JavaScript-rendered websites",
+                                "Dealing with CAPTCHA and other anti-bot measures"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Storing Scraped Data",
+                            "description": [
+                                "Introduction to data storage options: CSV, JSON, SQL databases",
+                                "Storing scraped data in a database using SQLite and MySQL",
+                                "Handling large datasets with pagination and chunking",
+                                "Exporting data to different formats for analysis",
+                                "Data cleaning and preprocessing after scraping",
+                                "Using Pandas for handling and analyzing scraped data"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Web Scraping Best Practices",
+                            "description": [
+                                "Understanding the importance of respecting robots.txt and rate limiting",
+                                "Rotating user agents and proxies to avoid being blocked",
+                                "Respecting website terms of service and ethical scraping",
+                                "Implementing retry mechanisms and error handling",
+                                "Optimizing scraping performance for efficiency",
+                                "Best practices for scaling web scraping projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Web Scraping Techniques",
+                            "description": [
+                                "Scraping data from APIs (RESTful and GraphQL APIs)",
+                                "Handling multi-threaded and distributed scraping",
+                                "Advanced data extraction techniques with regular expressions",
+                                "Scraping large-scale websites with Scrapy and Selenium",
+                                "Dealing with CAPTCHAs, cookies, and anti-scraping technologies",
+                                "Monitoring and maintaining a web scraping project"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "module": "Maths",
+            "submodule": [
+                {
+                    "name": "Statistics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Statistics",
+                            "description": [
+                                "Understanding the importance of statistics in various fields",
+                                "Overview of descriptive and inferential statistics",
+                                "Introduction to data types: qualitative vs quantitative",
+                                "Basic statistical terminology: population, sample, parameter, statistic",
+                                "Tools for statistical analysis: Python (Pandas, NumPy), R, SPSS",
+                                "Applications of statistics in research, business, and healthcare"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Descriptive Statistics",
+                            "description": [
+                                "Understanding central tendency: mean, median, mode",
+                                "Exploring measures of dispersion: variance, standard deviation, range",
+                                "Interpreting skewness and kurtosis in data distributions",
+                                "Graphical representation of data: histograms, box plots, bar charts",
+                                "Summarizing categorical data using frequency tables",
+                                "The importance of data visualization in statistics"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Probability Distributions",
+                            "description": [
+                                "Introduction to probability distributions and their properties",
+                                "Exploring discrete distributions: Binomial, Poisson, Geometric",
+                                "Understanding continuous distributions: Normal, Exponential, Uniform",
+                                "The concept of cumulative distribution functions (CDF)",
+                                "Applications of probability distributions in decision-making",
+                                "Using statistical software for probability calculations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Sampling and Sampling Distributions",
+                            "description": [
+                                "Introduction to the concept of sampling and sampling methods",
+                                "Random sampling, stratified sampling, and systematic sampling",
+                                "Sampling distribution of the sample mean",
+                                "Central Limit Theorem and its importance in hypothesis testing",
+                                "Estimating population parameters from sample statistics",
+                                "The role of sample size in statistical inference"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Estimation and Confidence Intervals",
+                            "description": [
+                                "Point estimation and interval estimation",
+                                "Constructing and interpreting confidence intervals",
+                                "Margin of error and its significance",
+                                "Estimating population mean and proportion",
+                                "Applications of confidence intervals in quality control and polling",
+                                "The role of confidence intervals in decision-making"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Hypothesis Testing",
+                            "description": [
+                                "Formulating null and alternative hypotheses",
+                                "Understanding Type I and Type II errors",
+                                "Conducting hypothesis tests for means, proportions, and variances",
+                                "Choosing the appropriate test: t-tests, chi-square tests, ANOVA",
+                                "Interpreting p-values and test statistics",
+                                "Applications of hypothesis testing in scientific research and business"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Regression and Correlation Analysis",
+                            "description": [
+                                "Introduction to linear regression and correlation",
+                                "Simple linear regression: assumptions, interpretation, and modeling",
+                                "Multiple regression analysis and its applications",
+                                "Understanding correlation: Pearson's r, Spearman's rho",
+                                "Assumptions of regression models and model diagnostics",
+                                "Applications in predictive modeling and forecasting"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Non-Parametric Methods and Advanced Topics",
+                            "description": [
+                                "Introduction to non-parametric methods and when to use them",
+                                "Sign tests, rank sum tests, and the Wilcoxon test",
+                                "Bootstrap methods and resampling techniques",
+                                "Multivariate statistics: Principal Component Analysis (PCA), Factor Analysis",
+                                "Time series analysis and forecasting",
+                                "Bayesian statistics and its applications"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Probability",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Probability",
+                            "description": [
+                                "Understanding the importance of probability in various fields",
+                                "Overview of key concepts: random variables, events, and outcomes",
+                                "Introduction to probability theory and its foundations",
+                                "History of probability and its applications",
+                                "Basic probability rules: addition and multiplication",
+                                "Tools for probability calculations: Python (NumPy, SciPy), R"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Conditional Probability and Bayes' Theorem",
+                            "description": [
+                                "Understanding conditional probability and its significance",
+                                "Bayes' Theorem: definition and application",
+                                "Independent events vs dependent events",
+                                "Applications of conditional probability in decision-making",
+                                "Using Bayes' Theorem in medical diagnosis, spam filtering, etc.",
+                                "Practice problems and real-world scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Probability Distributions",
+                            "description": [
+                                "Introduction to discrete and continuous probability distributions",
+                                "Exploring common distributions: Binomial, Poisson, Normal, Exponential",
+                                "Probability mass function (PMF) and probability density function (PDF)",
+                                "Cumulative distribution function (CDF)",
+                                "Central Limit Theorem and its implications",
+                                "Applications in risk management and simulations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Expectation and Variance",
+                            "description": [
+                                "Understanding expected value and its properties",
+                                "Calculating variance and standard deviation",
+                                "Moments of distributions: mean, variance, skewness, and kurtosis",
+                                "The law of large numbers and the central limit theorem",
+                                "Applications of expectation and variance in real-world problems",
+                                "Understanding risk and uncertainty in finance and insurance"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Random Variables and Their Functions",
+                            "description": [
+                                "Definition and properties of random variables",
+                                "Differentiating between discrete and continuous random variables",
+                                "Transformations of random variables",
+                                "Joint distributions and conditional distributions",
+                                "Covariance and correlation",
+                                "Applications in multivariate analysis and machine learning"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Markov Chains and Stochastic Processes",
+                            "description": [
+                                "Introduction to Markov Chains and their properties",
+                                "State space, transition matrix, and steady-state distributions",
+                                "Applications in modeling queues, stock prices, and web traffic",
+                                "Understanding random walks and applications in physics",
+                                "First-passage time and absorbing states",
+                                "Advanced topics in stochastic processes: Poisson processes and Brownian motion"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Sampling and Hypothesis Testing",
+                            "description": [
+                                "Introduction to sampling techniques and their importance",
+                                "Sampling distributions and the central limit theorem",
+                                "Formulating and testing hypotheses",
+                                "Types of errors: Type I and Type II",
+                                "Confidence intervals and significance tests",
+                                "Applications in survey analysis and quality control"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Applications of Probability in Real-World Problems",
+                            "description": [
+                                "Using probability in decision theory and game theory",
+                                "Applications in machine learning: Naive Bayes classifier, Monte Carlo simulations",
+                                "Probability in genetics and epidemiology",
+                                "Markov decision processes and reinforcement learning",
+                                "Financial modeling and risk assessment",
+                                "Exploring future trends and advancements in probability theory"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Linear Algebra",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Linear Algebra",
+                            "description": [
+                                "Understanding the importance of linear algebra in various fields",
+                                "Overview of key concepts: vectors, matrices, and linear transformations",
+                                "Applications of linear algebra in computer science, machine learning, and physics",
+                                "Introduction to notations and terminology",
+                                "History and evolution of linear algebra",
+                                "Common tools for linear algebra computations: Python (NumPy), MATLAB"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Vectors and Vector Spaces",
+                            "description": [
+                                "Defining vectors and their properties",
+                                "Vector operations: addition, scalar multiplication, and dot product",
+                                "Understanding vector spaces and subspaces",
+                                "Linear independence and basis",
+                                "Orthogonality and projections",
+                                "Applications of vectors in real-world problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Matrices and Matrix Operations",
+                            "description": [
+                                "Introduction to matrices and their representations",
+                                "Matrix operations: addition, multiplication, and transposition",
+                                "Special matrices: identity, diagonal, and symmetric matrices",
+                                "Determinants and their properties",
+                                "Inverse of a matrix and its computation",
+                                "Applications of matrices in data transformations and graphics"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Linear Transformations",
+                            "description": [
+                                "Understanding linear transformations and their properties",
+                                "Matrix representation of linear transformations",
+                                "Geometric interpretation of transformations: scaling, rotation, and reflection",
+                                "Kernel and range of a transformation",
+                                "Change of basis and coordinate transformations",
+                                "Real-world applications of linear transformations"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Systems of Linear Equations",
+                            "description": [
+                                "Formulating systems of linear equations",
+                                "Solving systems using substitution, elimination, and matrix methods",
+                                "Row reduction and echelon forms",
+                                "Understanding rank and its implications",
+                                "Consistent and inconsistent systems",
+                                "Applications in optimization and network analysis"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Eigenvalues and Eigenvectors",
+                            "description": [
+                                "Defining eigenvalues and eigenvectors",
+                                "Computing eigenvalues and eigenvectors",
+                                "Understanding diagonalization of matrices",
+                                "Applications of eigenvalues in stability analysis and physics",
+                                "Singular Value Decomposition (SVD) and its importance",
+                                "Case studies: PCA in machine learning and graph analysis"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Topics in Linear Algebra",
+                            "description": [
+                                "Inner product spaces and norms",
+                                "Positive definite matrices and their properties",
+                                "QR decomposition and its applications",
+                                "Tensor operations and multidimensional arrays",
+                                "Numerical methods in linear algebra",
+                                "Exploring connections with calculus and differential equations"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Applications of Linear Algebra",
+                            "description": [
+                                "Linear algebra in computer graphics and image processing",
+                                "Applications in machine learning: dimensionality reduction and feature extraction",
+                                "Quantum computing and linear algebra",
+                                "Solving optimization problems with linear algebra",
+                                "Graph theory and adjacency matrices",
+                                "Future directions and research areas in linear algebra"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Permutations and Combinations",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Permutations and Combinations",
+                            "description": [
+                                "Understanding the basics of counting principles",
+                                "Introduction to permutations and combinations",
+                                "Applications in probability and real-world scenarios",
+                                "Key differences between permutations and combinations",
+                                "Importance of order in permutations and combinations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Permutations",
+                            "description": [
+                                "Defining permutations and their mathematical formula",
+                                "Understanding factorial notation and its role in permutations",
+                                "Calculating permutations of distinct objects",
+                                "Permutations with repetition and constraints",
+                                "Applications of permutations in arrangements and sequences",
+                                "Practice problems and real-life examples"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Combinations",
+                            "description": [
+                                "Defining combinations and their mathematical formula",
+                                "Understanding selection without regard to order",
+                                "Calculating combinations of distinct objects",
+                                "Combinations with repetition and special cases",
+                                "Applications of combinations in grouping and selections",
+                                "Practice problems and real-life examples"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Advanced Concepts in Permutations and Combinations",
+                            "description": [
+                                "Using permutations and combinations in probability problems",
+                                "Solving problems with constraints and restrictions",
+                                "Understanding binomial coefficients and Pascal's Triangle",
+                                "Applications in the binomial theorem",
+                                "Connections to set theory and combinatorial proofs",
+                                "Complex problem-solving techniques"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Real-World Applications and Case Studies",
+                            "description": [
+                                "Applications in genetics and biological studies",
+                                "Using permutations and combinations in cryptography",
+                                "Solving scheduling and optimization problems",
+                                "Combinatorics in computer science and algorithms",
+                                "Case studies in business decision-making",
+                                "Exploring combinatorial challenges and puzzles"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Analysis",
+            "submodule": [
+                {
+                    "name": "EDA",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Exploratory Data Analysis",
+                            "description": [
+                                "Understanding the purpose of EDA in the data analysis pipeline",
+                                "Overview of the data analysis process",
+                                "Key concepts: data cleaning, transformation, and visualization",
+                                "Tools and libraries commonly used for EDA: Pandas, Matplotlib, Seaborn",
+                                "Challenges and limitations of EDA",
+                                "Case studies: EDA in action"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Preparation and Cleaning",
+                            "description": [
+                                "Loading datasets from various sources (CSV, Excel, SQL, APIs)",
+                                "Handling missing values: imputation and deletion techniques",
+                                "Detecting and managing outliers",
+                                "Standardizing and normalizing data",
+                                "Dealing with categorical data: encoding techniques",
+                                "Best practices for data preprocessing"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Descriptive Statistics and Summarization",
+                            "description": [
+                                "Calculating central tendency measures: mean, median, mode",
+                                "Understanding measures of dispersion: variance, standard deviation, range",
+                                "Exploring distributions: histograms, box plots, and density plots",
+                                "Summarizing data with statistical metrics",
+                                "Exploring relationships between variables using correlation",
+                                "Using summary tables and pivot tables for insights"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data Visualization Techniques",
+                            "description": [
+                                "Introduction to data visualization and its importance",
+                                "Creating univariate visualizations: bar plots, histograms, pie charts",
+                                "Building bivariate visualizations: scatter plots, heatmaps, pair plots",
+                                "Understanding advanced visualizations: violin plots, treemaps, and bubble charts",
+                                "Using libraries like Seaborn and Plotly for interactive visualizations",
+                                "Designing clear and insightful charts"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Identifying Patterns and Insights",
+                            "description": [
+                                "Exploring trends and seasonality in data",
+                                "Detecting anomalies and unexpected patterns",
+                                "Segmenting data for detailed analysis",
+                                "Hypothesis generation based on visual and statistical insights",
+                                "Comparing groups and their characteristics",
+                                "Drawing actionable insights for decision-making"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Feature Engineering and Transformation",
+                            "description": [
+                                "Identifying important features using EDA techniques",
+                                "Creating new features from existing data",
+                                "Handling multicollinearity in datasets",
+                                "Applying transformations: logarithmic, polynomial, and scaling",
+                                "Reducing dimensionality with PCA for visualization",
+                                "Feature selection techniques for model readiness"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Automating EDA with Tools and Libraries",
+                            "description": [
+                                "Using Python libraries like Sweetviz and Pandas Profiling",
+                                "Generating automated data reports for quick insights",
+                                "Customizing EDA workflows with Python scripts",
+                                "Introduction to BI tools for EDA: Tableau, Power BI",
+                                "Best practices for documenting EDA processes",
+                                "Combining manual and automated EDA approaches"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Challenges and Best Practices in EDA",
+                            "description": [
+                                "Handling large datasets during EDA",
+                                "Avoiding biases in data analysis",
+                                "Ensuring reproducibility of analysis",
+                                "Collaborating with teams during EDA processes",
+                                "Integrating EDA with machine learning workflows",
+                                "Future trends and advancements in EDA techniques"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Product Analytics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Product Analytics",
+                            "description": [
+                                "Understanding the role of product analytics in business",
+                                "Overview of key concepts: metrics, KPIs, and goals",
+                                "The importance of data-driven decision making",
+                                "Common tools used in product analytics: Google Analytics, Mixpanel, Amplitude",
+                                "Case studies: successful use of product analytics",
+                                "Challenges in implementing product analytics"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Setting Up Analytics for a Product",
+                            "description": [
+                                "Defining the objectives of your analytics strategy",
+                                "Identifying and tracking key performance indicators (KPIs)",
+                                "Implementing tracking: event-based and user-based analytics",
+                                "Integrating analytics tools with your product",
+                                "Ensuring data quality and accuracy",
+                                "Best practices for organizing data collection"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Understanding User Behavior",
+                            "description": [
+                                "Analyzing user journeys and conversion funnels",
+                                "Using cohort analysis to identify trends",
+                                "Understanding user retention and churn metrics",
+                                "Heatmaps and session recordings for user behavior insights",
+                                "Segmentation of users for targeted analysis",
+                                "Designing experiments to improve user engagement"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Metrics and Dashboards",
+                            "description": [
+                                "Building dashboards to visualize key metrics",
+                                "Defining north-star metrics and their impact",
+                                "Tracking product usage and feature adoption",
+                                "Real-time analytics vs batch analytics",
+                                "Customizing dashboards for different stakeholders",
+                                "Automating reports and alerts for key metrics"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Experimentation and A/B Testing",
+                            "description": [
+                                "Understanding the role of experimentation in product analytics",
+                                "Designing and running A/B tests",
+                                "Interpreting results using statistical methods",
+                                "Avoiding common pitfalls in A/B testing",
+                                "Leveraging multivariate testing for complex experiments",
+                                "Integrating A/B testing with analytics platforms"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced Analytics Techniques",
+                            "description": [
+                                "Predictive analytics for product trends",
+                                "Customer Lifetime Value (CLV) analysis",
+                                "Sentiment analysis from customer feedback",
+                                "Using machine learning for behavioral predictions",
+                                "Churn prediction and prevention strategies",
+                                "Exploring causal analysis to understand user behavior"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Applying Product Analytics Insights",
+                            "description": [
+                                "Using analytics to drive product roadmap decisions",
+                                "Improving user experience with data insights",
+                                "Identifying and solving bottlenecks in user flows",
+                                "Developing strategies for user acquisition and retention",
+                                "Measuring ROI of product features and updates",
+                                "Building a culture of data-driven decision making"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Ethics and Challenges in Product Analytics",
+                            "description": [
+                                "Understanding data privacy laws and regulations",
+                                "Ethical considerations in user data collection",
+                                "Ensuring transparency in analytics practices",
+                                "Avoiding biases in data analysis",
+                                "Balancing user privacy with business needs",
+                                "Future trends and the evolving landscape of product analytics"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Engineering",
+            "submodule": [
+                {
+                    "name": "ETL (Extract, Transform, Load)",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to ETL",
+                            "description": [
+                                "Understanding the concept of ETL in data processing",
+                                "Importance of ETL in data integration and warehousing",
+                                "Overview of the ETL process: Extract, Transform, Load",
+                                "ETL tools and technologies in the industry",
+                                "ETL use cases in business and analytics"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Extraction Process",
+                            "description": [
+                                "Introduction to data extraction",
+                                "Understanding data sources: databases, files, APIs, and more",
+                                "Methods for extracting structured and unstructured data",
+                                "Dealing with data formats: JSON, CSV, XML, etc.",
+                                "Handling real-time and batch data extraction",
+                                "Common challenges in data extraction and their solutions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Data Transformation",
+                            "description": [
+                                "Importance of data transformation in ETL",
+                                "Techniques for data cleansing and normalization",
+                                "Data enrichment and augmentation",
+                                "Handling data types, formats, and inconsistencies",
+                                "Applying business logic and rules to transform data",
+                                "Tools and scripting for transformation (SQL, Python, etc.)"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Loading Process",
+                            "description": [
+                                "Introduction to data loading in ETL",
+                                "Loading data into data warehouses, lakes, and marts",
+                                "Understanding data partitioning and indexing for efficiency",
+                                "Incremental vs. full data loads",
+                                "Monitoring and validating the data loading process",
+                                "Best practices for optimized data loading"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: ETL Tools and Technologies",
+                            "description": [
+                                "Overview of popular ETL tools: Informatica, Talend, Apache NiFi, etc.",
+                                "Understanding cloud-based ETL solutions: AWS Glue, Azure Data Factory, etc.",
+                                "Comparing open-source and commercial ETL tools",
+                                "Building custom ETL pipelines using programming languages",
+                                "Integration of ETL with big data platforms",
+                                "Exploring automation and orchestration in ETL"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced ETL Concepts",
+                            "description": [
+                                "Introduction to ELT (Extract, Load, Transform)",
+                                "Real-time data pipelines and stream processing",
+                                "ETL in big data environments",
+                                "Optimizing ETL for scalability and performance",
+                                "Error handling and logging in ETL processes",
+                                "ETL testing and quality assurance"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Real-World Applications and Case Studies",
+                            "description": [
+                                "ETL in enterprise data warehousing",
+                                "Building analytics dashboards with ETL pipelines",
+                                "Data migration strategies using ETL",
+                                "Handling large-scale ETL processes in the cloud",
+                                "Case studies from industries like finance, healthcare, and retail",
+                                "Future trends in ETL and data integration"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Data Warehouse",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Data Warehousing",
+                            "description": [
+                                "Understanding the concept of data warehousing",
+                                "Difference between operational databases and data warehouses",
+                                "The role of data warehouses in decision-making",
+                                "Overview of key components: ETL, storage, and access",
+                                "History and evolution of data warehousing",
+                                "Introduction to OLAP (Online Analytical Processing)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Warehouse Architecture",
+                            "description": [
+                                "Understanding the data warehouse architecture",
+                                "Exploring layers: staging, integration, and presentation",
+                                "Centralized vs. decentralized data warehouses",
+                                "Star schema and snowflake schema design",
+                                "Role of metadata in a data warehouse",
+                                "Building scalable and maintainable architectures"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Data Modeling for Data Warehouses",
+                            "description": [
+                                "Introduction to dimensional data modeling",
+                                "Fact and dimension tables: concepts and examples",
+                                "Understanding measures, metrics, and hierarchies",
+                                "Creating effective schema designs for performance",
+                                "Normalization vs. denormalization in data warehousing",
+                                "Best practices for designing data models"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data Integration and ETL in Data Warehousing",
+                            "description": [
+                                "Role of ETL in data warehousing",
+                                "Data extraction from diverse sources",
+                                "Data transformation and cleansing techniques",
+                                "Loading data into a data warehouse efficiently",
+                                "Real-time vs. batch data integration",
+                                "Tools and technologies for ETL processes"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Data Warehouse Implementation and Management",
+                            "description": [
+                                "Setting up a data warehouse environment",
+                                "Monitoring and maintaining data quality",
+                                "Performance optimization and indexing techniques",
+                                "Data backup and recovery strategies",
+                                "Scalability and elasticity in data warehouses",
+                                "Role of data governance and security in data warehousing"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced Concepts in Data Warehousing",
+                            "description": [
+                                "Introduction to cloud-based data warehousing solutions",
+                                "Understanding data lakes and their integration with data warehouses",
+                                "Columnar storage and query optimization",
+                                "Big data and data warehouse integration",
+                                "Using machine learning in data warehouses",
+                                "Future trends: real-time analytics and hybrid models"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Real-World Applications and Case Studies",
+                            "description": [
+                                "Data warehousing in business intelligence",
+                                "Implementing dashboards and reporting solutions",
+                                "Case studies from industries like finance, healthcare, and retail",
+                                "Migrating on-premise data warehouses to the cloud",
+                                "Evaluating data warehouse solutions: Redshift, Snowflake, BigQuery, etc.",
+                                "Challenges and best practices in data warehousing projects"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Deployment",
+            "submodule": [
+                {
+                    "name": "Git",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Git",
+                            "description": [
+                                "Overview of version control systems (VCS)",
+                                "Introduction to Git and its importance",
+                                "Installing and configuring Git",
+                                "Understanding Git's architecture and workflows",
+                                "Basic Git commands: init, status, add, and commit",
+                                "The concept of the staging area and commit history",
+                                "Setting up a .gitignore file"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Repositories",
+                            "description": [
+                                "Creating and initializing a repository",
+                                "Cloning remote repositories",
+                                "Understanding the working directory, staging area, and local repository",
+                                "Navigating repository history using git log",
+                                "Undoing changes with git checkout, git reset, and git revert",
+                                "Removing files and folders from tracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Branching and Merging",
+                            "description": [
+                                "Understanding branches and their importance",
+                                "Creating and switching branches",
+                                "Merging branches and resolving conflicts",
+                                "Using git stash for temporary changes",
+                                "Deleting branches: local and remote",
+                                "Exploring branch visualization tools: git log and gitk"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Remote Repositories",
+                            "description": [
+                                "Linking local repositories to remote servers",
+                                "Pushing changes to remote repositories",
+                                "Pulling changes from remote repositories",
+                                "Fetching updates and syncing branches",
+                                "Working with remote tracking branches",
+                                "Collaborating with others using Git"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Git Features",
+                            "description": [
+                                "Rebasing branches and interactive rebase",
+                                "Cherry-picking specific commits",
+                                "Working with tags: creating and managing",
+                                "Using Git hooks for automation",
+                                "Managing submodules for nested repositories",
+                                "Exploring Git worktrees for multiple working directories"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Troubleshooting and Best Practices",
+                            "description": [
+                                "Debugging issues with git diff and git bisect",
+                                "Handling merge conflicts effectively",
+                                "Optimizing repository performance",
+                                "Cleaning up repositories with git gc and git prune",
+                                "Understanding Git best practices for teams",
+                                "Maintaining a clean and organized commit history"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GitHub",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GitHub",
+                            "description": [
+                                "Understanding Git and GitHub: Key differences and use cases",
+                                "Setting up a GitHub account and configuring Git",
+                                "Overview of GitHub's interface and key features",
+                                "Creating and managing repositories",
+                                "Cloning repositories to local machines",
+                                "Understanding branches and branching workflows",
+                                "Introduction to commits and commit messages",
+                                "Viewing and comparing code changes (diffs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Collaboration and Workflow",
+                            "description": [
+                                "Forking repositories and creating pull requests",
+                                "Code reviews and merging changes",
+                                "Managing issues and labels",
+                                "Using milestones and project boards for task management",
+                                "Introduction to GitHub Actions for CI/CD",
+                                "Collaborating with teams using GitHub discussions",
+                                "Resolving merge conflicts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced GitHub Features",
+                            "description": [
+                                "Customizing repositories with README files and Markdown",
+                                "Using GitHub Pages for static site hosting",
+                                "Managing access and permissions for repositories",
+                                "Creating and using templates for issues and pull requests",
+                                "Exploring GitHub GraphQL API for advanced workflows",
+                                "Monitoring repository activity and insights",
+                                "Automating tasks with webhooks and integrations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Best Practices and Security",
+                            "description": [
+                                "Writing clear and concise commit messages",
+                                "Structuring branches for effective collaboration",
+                                "Implementing code reviews and quality checks",
+                                "Setting up repository security and access controls",
+                                "Using Dependabot for dependency management",
+                                "Backing up and archiving repositories"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        } 
+    ]
+}

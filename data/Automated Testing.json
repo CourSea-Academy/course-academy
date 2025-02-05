@@ -1,0 +1,210 @@
+{
+    "hashtag": "In Demand",
+    "title": "Automated Testing Mastery",
+    "roleName": "Automation Tester",
+    "description": "Master automated testing to ensure software quality, improve efficiency, and accelerate deployment cycles. This course covers industry-leading tools and frameworks, empowering you to design, execute, and analyze automated tests with confidence.",
+    "price": "55000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry Projects",
+            "description": "Hands-on learning with real-world scenarios"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This specialized course is designed to build expertise in automated testing. Whether you're new to testing or an experienced QA engineer, you'll gain the skills to create and maintain robust automated testing suites using popular tools and frameworks.",
+    "highlights": [
+        {
+            "name": "Test Automation Basics",
+            "description": "Understand the fundamentals of test automation and its benefits."
+        },
+        {
+            "name": "Selenium Mastery",
+            "description": "Automate web applications with Selenium WebDriver."
+        },
+        {
+            "name": "Framework Development",
+            "description": "Build reusable and scalable test automation frameworks."
+        },
+        {
+            "name": "API Testing",
+            "description": "Leverage tools like Postman and RestAssured for API testing."
+        },
+        {
+            "name": "Continuous Integration",
+            "description": "Integrate automated testing into CI/CD pipelines."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Automation Tester",
+            "description": "Expert in designing and executing automated test cases."
+        },
+        {
+            "title": "QA Engineer",
+            "description": "Skilled in ensuring software quality with test automation tools."
+        },
+        {
+            "title": "Test Automation Specialist",
+            "description": "Focused on building and maintaining test automation frameworks."
+        },
+        {
+            "title": "DevOps QA Specialist",
+            "description": "Expert in integrating automated testing into DevOps workflows."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Automated Testing course?",
+            "answer": "The course spans three months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need prior experience in testing?",
+            "answer": "No prior experience is required. The course is designed for all skill levels."
+        },
+        {
+            "question": "Will the course cover both UI and API testing?",
+            "answer": "Yes, the course covers comprehensive testing methodologies including UI and API testing."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Automated Testing",
+            "submodule": [
+                {
+                    "name": "Fundamentals",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Basics of Software Testing",
+                            "description": [
+                                "Introduction to software testing and QA processes",
+                                "Understanding test automation and its advantages",
+                                "Types of testing: Functional, Regression, API, and UI"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Setting up Automation Tools",
+                            "description": [
+                                "Installing and configuring test automation tools",
+                                "Introduction to IDEs for automation scripting",
+                                "Overview of test management tools"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Web Application Automation",
+            "submodule": [
+                {
+                    "name": "Selenium WebDriver",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Introduction to Selenium",
+                            "description": [
+                                "Overview of Selenium and its components",
+                                "Setting up WebDriver for different browsers",
+                                "Writing basic test scripts with Selenium"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Advanced Selenium",
+                            "description": [
+                                "Handling dynamic web elements",
+                                "Using XPath, CSS Selectors, and advanced locators",
+                                "Managing browser actions: Popups, Alerts, and Frames",
+                                "Test parameterization with data-driven approaches"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "API Testing and Frameworks",
+            "submodule": [
+                {
+                    "name": "API Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 5: Testing APIs",
+                            "description": [
+                                "Introduction to RESTful APIs",
+                                "Using Postman for manual API testing",
+                                "Automating API testing with RestAssured"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Framework Development",
+                    "chapters": [
+                        {
+                            "module": "Module 6: Creating Frameworks",
+                            "description": [
+                                "Designing reusable automation frameworks",
+                                "Introduction to TestNG and JUnit",
+                                "Implementing logging and reporting features",
+                                "Working with Page Object Models (POM)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Integration and Real-World Scenarios",
+            "submodule": [
+                {
+                    "name": "Continuous Integration",
+                    "chapters": [
+                        {
+                            "module": "Module 7: CI/CD and Automation",
+                            "description": [
+                                "Integrating automated testing with Jenkins",
+                                "Using GitHub Actions for automated testing pipelines",
+                                "Reporting and monitoring test results in CI/CD workflows"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Real-World Scenarios",
+                    "chapters": [
+                        {
+                            "module": "Module 8: Practical Use Cases",
+                            "description": [
+                                "Automating end-to-end testing for web applications",
+                                "Building scalable API testing suites",
+                                "Creating test suites for cross-browser testing"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

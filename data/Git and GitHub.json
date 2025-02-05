@@ -1,0 +1,233 @@
+{
+    "hashtag": "In Demand",
+    "title": "Git and GitHub Mastery",
+    "roleName": "Version Control Professional",
+    "description": "Gain in-depth knowledge and hands-on experience with Git and GitHub, the essential tools for version control and team collaboration. This course covers everything from basic commands to advanced workflows, equipping you to manage repositories and contribute to projects with confidence.",
+    "price": "48000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-relevant",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This specialized course is designed to build expertise in Git and GitHub. Whether you're a beginner or an experienced developer, you'll learn best practices, advanced features, and collaboration techniques essential for modern software development and data analytics projects.",
+    "highlights": [
+        {
+            "name": "Version Control Basics",
+            "description": "Understand the fundamentals of Git and why version control is essential."
+        },
+        {
+            "name": "Repository Management",
+            "description": "Learn to create, clone, and manage repositories locally and remotely."
+        },
+        {
+            "name": "Branching and Merging",
+            "description": "Master branching strategies and conflict resolution techniques."
+        },
+        {
+            "name": "Collaboration Workflows",
+            "description": "Work effectively with teams using GitHub features like pull requests and code reviews."
+        },
+        {
+            "name": "Advanced Git Features",
+            "description": "Explore rebasing, cherry-picking, hooks, and other advanced Git functionalities."
+        },
+        {
+            "name": "GitHub Automation",
+            "description": "Leverage GitHub Actions, templates, and APIs for streamlined workflows."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Version Control Engineer",
+            "description": "Expert in implementing and maintaining Git workflows and repository management systems."
+        },
+        {
+            "title": "Collaboration Specialist",
+            "description": "Specialist in team collaboration tools and practices using GitHub for seamless project management."
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "DevOps professional with expertise in CI/CD pipelines and GitHub Actions for automated deployments."
+        },
+        {
+            "title": "Software Development Manager",
+            "description": "Manager skilled in overseeing version control practices and collaboration workflows for development teams."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Git and GitHub course?",
+            "answer": "The course spans three months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need prior experience with Git or GitHub?",
+            "answer": "No prior experience is required. The course is designed for all skill levels."
+        },
+        {
+            "question": "Will the course cover both Git and GitHub?",
+            "answer": "Yes, the course provides comprehensive coverage of both tools."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Git Mastery",
+            "submodule": [
+                {
+                    "name": "Git",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Git",
+                            "description": [
+                                "Overview of version control systems (VCS)",
+                                "Introduction to Git and its importance",
+                                "Installing and configuring Git",
+                                "Understanding Git's architecture and workflows",
+                                "Basic Git commands: init, status, add, and commit",
+                                "The concept of the staging area and commit history",
+                                "Setting up a .gitignore file"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Repositories",
+                            "description": [
+                                "Creating and initializing a repository",
+                                "Cloning remote repositories",
+                                "Understanding the working directory, staging area, and local repository",
+                                "Navigating repository history using git log",
+                                "Undoing changes with git checkout, git reset, and git revert",
+                                "Removing files and folders from tracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Branching and Merging",
+                            "description": [
+                                "Understanding branches and their importance",
+                                "Creating and switching branches",
+                                "Merging branches and resolving conflicts",
+                                "Using git stash for temporary changes",
+                                "Deleting branches: local and remote",
+                                "Exploring branch visualization tools: git log and gitk"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Remote Repositories",
+                            "description": [
+                                "Linking local repositories to remote servers",
+                                "Pushing changes to remote repositories",
+                                "Pulling changes from remote repositories",
+                                "Fetching updates and syncing branches",
+                                "Working with remote tracking branches",
+                                "Collaborating with others using Git"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Git Features",
+                            "description": [
+                                "Rebasing branches and interactive rebase",
+                                "Cherry-picking specific commits",
+                                "Working with tags: creating and managing",
+                                "Using Git hooks for automation",
+                                "Managing submodules for nested repositories",
+                                "Exploring Git worktrees for multiple working directories"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Troubleshooting and Best Practices",
+                            "description": [
+                                "Debugging issues with git diff and git bisect",
+                                "Handling merge conflicts effectively",
+                                "Optimizing repository performance",
+                                "Cleaning up repositories with git gc and git prune",
+                                "Understanding Git best practices for teams",
+                                "Maintaining a clean and organized commit history"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "GitHub Mastery",
+            "submodule": [
+                {
+                    "name": "GitHub",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GitHub",
+                            "description": [
+                                "Understanding Git and GitHub: Key differences and use cases",
+                                "Setting up a GitHub account and configuring Git",
+                                "Overview of GitHub's interface and key features",
+                                "Creating and managing repositories",
+                                "Cloning repositories to local machines",
+                                "Understanding branches and branching workflows",
+                                "Introduction to commits and commit messages",
+                                "Viewing and comparing code changes (diffs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Collaboration and Workflow",
+                            "description": [
+                                "Forking repositories and creating pull requests",
+                                "Code reviews and merging changes",
+                                "Managing issues and labels",
+                                "Using milestones and project boards for task management",
+                                "Introduction to GitHub Actions for CI/CD",
+                                "Collaborating with teams using GitHub discussions",
+                                "Resolving merge conflicts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced GitHub Features",
+                            "description": [
+                                "Customizing repositories with README files and Markdown",
+                                "Using GitHub Pages for static site hosting",
+                                "Managing access and permissions for repositories",
+                                "Creating and using templates for issues and pull requests",
+                                "Exploring GitHub GraphQL API for advanced workflows",
+                                "Monitoring repository activity and insights",
+                                "Automating tasks with webhooks and integrations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Best Practices and Security",
+                            "description": [
+                                "Writing clear and concise commit messages",
+                                "Structuring branches for effective collaboration",
+                                "Implementing code reviews and quality checks",
+                                "Setting up repository security and access controls",
+                                "Using Dependabot for dependency management",
+                                "Backing up and archiving repositories"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

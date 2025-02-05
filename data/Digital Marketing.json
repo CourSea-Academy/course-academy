@@ -1,0 +1,267 @@
+{
+    "hashtag": "In Demand",
+    "title": "Digital Marketing",
+    "roleName": "Digital Marketing Professional",
+    "description": "Become a digital marketing expert and drive business growth through effective online strategies. This comprehensive course covers SEO, PPC, social media marketing, and data analytics, equipping you with the skills to optimize campaigns and enhance brand visibility.",
+    "price": "40000",
+    "features": [
+        {
+            "name": "Career Support",
+            "description": "Guidance and resources to help you land a job in digital marketing."
+        },
+        {
+            "name": "6 Months",
+            "description": "Duration of the course."
+        },
+        {
+            "name": "Hybrid Learning",
+            "description": "Combination of live sessions and recorded lectures."
+        },
+        {
+            "name": "Hands-on Experience",
+            "description": "Engage in projects and case studies relevant to the industry."
+        },
+        {
+            "name": "No Prerequisites",
+            "description": "Open to beginners with no prior experience."
+        }
+    ],
+    "about": "This course is tailored for individuals looking to break into the digital marketing field. It provides a thorough understanding of various digital marketing channels and equips you with practical skills to succeed in a fast-paced digital world.",
+    "highlights": [
+        {
+            "name": "Search Engine Optimization (SEO)",
+            "description": "Learn the strategies to improve website rankings on search engines."
+        },
+        {
+            "name": "Pay-Per-Click Advertising (PPC)",
+            "description": "Understand how to create and manage effective PPC campaigns on Google Ads."
+        },
+        {
+            "name": "Social Media Marketing",
+            "description": "Explore techniques to leverage social media platforms for business growth."
+        },
+        {
+            "name": "Email Marketing",
+            "description": "Master the art of crafting compelling email campaigns and maximizing engagement."
+        },
+        {
+            "name": "Data Analytics",
+            "description": "Gain insights into using data analytics tools to measure and enhance marketing performance."
+        },
+        {
+            "name": "Capstone Project",
+            "description": "Work on a capstone project that integrates all aspects of digital marketing."
+        }
+    ],
+    "roles": [
+        {
+        "title": "Digital Marketing Specialist",
+        "description": "Digital Marketing Specialist skilled in SEO, SEM, and social media marketing, driving brand visibility and engagement across online platforms."
+        },
+        {
+        "title": "Content Strategist",
+        "description": "Content Strategist experienced in creating compelling content strategies and campaigns, utilizing analytics to enhance audience targeting."
+        },
+        {
+        "title": "Social Media Manager",
+        "description": "Social Media Manager proficient in managing platforms like Instagram, Facebook, and LinkedIn, building brand presence and fostering community engagement."
+        },
+        {
+        "title": "PPC Specialist",
+        "description": "PPC Specialist with expertise in Google Ads and Bing Ads, optimizing paid campaigns to maximize ROI and drive lead generation."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Digital Marketing course?",
+            "answer": "The course spans four months from the start date."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need to install any specific software before starting the course?",
+            "answer": "You will need basic tools like a computer with internet access. Specific software recommendations will be provided after enrollment."
+        },
+        {
+            "question": "What are the prerequisites for enrolling in the course?",
+            "answer": "No prior experience is required, but a basic understanding of business and marketing concepts is helpful."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Digital Marketing Fundamentals",
+            "submodule": [
+                {
+                    "name": "Introduction to Digital Marketing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Understanding Digital Marketing",
+                            "description": [
+                                "Defining digital marketing and its significance in today's economy.",
+                                "Overview of digital marketing channels and strategies.",
+                                "Key differences between traditional and digital marketing.",
+                                "Understanding the customer journey in the digital landscape."
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Tools and Platforms for Digital Marketing",
+                            "description": [
+                                "Overview of Google Ads, Facebook Ads, and SEO tools like SEMrush, Ahrefs, and Moz.",
+                                "Social media management with Hootsuite, Buffer, and Sprout Social.",
+                                "Email marketing automation using MailChimp, Constant Contact, and HubSpot.",
+                                "Exploring CRM platforms like HubSpot and Salesforce.",
+                                "Understanding the role of WordPress for content management.",
+                                "Designing graphics with Canva and Adobe Creative Suite.",
+                                "Tracking website analytics using Google Analytics.",
+                                "Using Google Tag Manager for campaign tracking.",
+                                "Utilizing Google Search Console for SEO optimization.",
+                                "Managing paid ads across multiple platforms (Google Ads, Facebook, Instagram)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Understanding Digital Marketing Channels",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Paid Marketing (PPC)",
+                            "description": [
+                                "Setting up and managing Google Ads campaigns.",
+                                "Understanding keyword targeting and bidding strategies.",
+                                "Creating effective Google Ads campaigns for lead generation.",
+                                "Using Facebook Ads and Instagram Ads for paid campaigns.",
+                                "A/B testing and optimizing paid ads."
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Organic Marketing Strategies (SEO)",
+                            "description": [
+                                "Understanding on-page SEO optimization.",
+                                "Keyword research using tools like SEMrush and Ahrefs.",
+                                "Link building strategies for SEO.",
+                                "Optimizing technical SEO with Google Search Console.",
+                                "Improving mobile SEO and page speed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Marketing Techniques",
+            "submodule": [
+                {
+                    "name": "Content Marketing Strategies",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Content Creation and Strategy",
+                            "description": [
+                                "Developing a content strategy that aligns with business goals.",
+                                "Creating engaging and valuable content using tools like Canva and Adobe Creative Suite.",
+                                "Utilizing storytelling and emotional appeal in content.",
+                                "Building an editorial calendar with tools like Trello and Asana.",
+                                "Optimizing content for SEO using Yoast SEO and SEMrush."
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Content Distribution and Promotion",
+                            "description": [
+                                "Distributing content across social media platforms using Hootsuite and Buffer.",
+                                "Using WordPress for content management and blogging.",
+                                "Leveraging Medium and LinkedIn for organic content promotion.",
+                                "Utilizing email campaigns through MailChimp and Constant Contact.",
+                                "Repurposing content for different platforms."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Paid Marketing Campaigns",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Google Ads and Social Media Ads",
+                            "description": [
+                                "Setting up Google Ads campaigns for paid traffic.",
+                                "Using Facebook Ads Manager for social media advertising.",
+                                "Optimizing paid campaigns for lead generation.",
+                                "Running remarketing campaigns across Google and Facebook.",
+                                "Tracking and optimizing ads using Google Analytics."
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Advanced PPC Campaign Strategies",
+                            "description": [
+                                "Utilizing Google Tag Manager for event tracking.",
+                                "Creating ad funnels using Facebook Ads.",
+                                "Targeting specific customer segments through Facebook Ads.",
+                                "A/B testing ads for better performance.",
+                                "Analyzing and improving ad performance using Google Analytics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data-Driven Marketing",
+            "submodule": [
+                {
+                    "name": "Data Analytics and Reporting",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Using Google Analytics for Data Insights",
+                            "description": [
+                                "Setting up and configuring Google Analytics for website tracking.",
+                                "Understanding key metrics like bounce rate, session duration, and conversions.",
+                                "Creating custom reports and dashboards in Google Analytics.",
+                                "Integrating Google Analytics with Google Ads for performance tracking.",
+                                "Using Google Analytics for SEO insights."
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Analyzing Social Media and Email Campaigns",
+                            "description": [
+                                "Analyzing email marketing campaigns using MailChimp analytics.",
+                                "Tracking social media performance using Hootsuite and Buffer.",
+                                "Understanding engagement metrics for social media campaigns.",
+                                "Optimizing email open and click-through rates.",
+                                "Using HubSpot for email automation and performance tracking."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Customer Relationship Management (CRM) and Automation",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Using HubSpot for CRM and Automation",
+                            "description": [
+                                "Setting up CRM systems like HubSpot and Salesforce.",
+                                "Automating lead nurturing and marketing workflows.",
+                                "Tracking customer interactions and segmenting audiences.",
+                                "Personalizing campaigns through CRM data.",
+                                "Using HubSpot’s analytics tools for tracking success."
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Leveraging Data for Marketing Decisions",
+                            "description": [
+                                "Understanding customer lifetime value (CLV) and its impact on marketing strategies.",
+                                "Using data to segment audiences for targeted campaigns.",
+                                "Analyzing customer behavior and predicting future trends.",
+                                "Using customer data to optimize product and service offerings.",
+                                "Implementing data-driven decisions to improve ROI."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

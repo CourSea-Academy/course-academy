@@ -1,0 +1,224 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Jenkins Mastery for Continuous Integration",
+    "roleName": "DevOps Engineer",
+    "description": "Master Jenkins for Continuous Integration (CI) and Continuous Delivery (CD) to automate the building, testing, and deployment of applications. This comprehensive course covers Jenkins installation, configuration, and advanced Jenkins pipelines, preparing you for automation in software development workflows.",
+    "price": "35000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides a thorough understanding of Jenkins and its capabilities for automating software development workflows. You'll learn how to set up Jenkins, integrate it with source control, implement pipelines, and handle continuous testing and deployment processes for efficient DevOps practices.",
+    "highlights": [
+        {
+            "name": "Jenkins Basics",
+            "description": "Understand Jenkins architecture, installation, and configuration."
+        },
+        {
+            "name": "Pipeline Development",
+            "description": "Learn to build CI/CD pipelines for automating the software build, test, and deployment processes."
+        },
+        {
+            "name": "Source Control Integration",
+            "description": "Integrate Jenkins with Git and other version control systems for automated build triggers."
+        },
+        {
+            "name": "Automated Testing and Deployment",
+            "description": "Automate unit tests, integration tests, and deployment to various environments using Jenkins."
+        },
+        {
+            "name": "Security and Monitoring",
+            "description": "Set up security configurations and monitor Jenkins for optimized performance and troubleshooting."
+        }
+    ],
+    "roles": [
+        {
+            "title": "DevOps Engineer",
+            "description": "Responsible for automating and managing the CI/CD pipeline using Jenkins and other DevOps tools."
+        },
+        {
+            "title": "Build and Release Engineer",
+            "description": "Specialize in managing build processes and release management through Jenkins."
+        },
+        {
+            "title": "Automation Engineer",
+            "description": "Design and implement automated solutions using Jenkins for CI/CD processes."
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "description": "Focus on ensuring the availability, performance, and scalability of Jenkins CI/CD pipelines."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with DevOps for this course?",
+            "answer": "No prior experience is required. This course is designed for both beginners and professionals."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will set up Jenkins pipelines, integrate Jenkins with GitHub, automate testing, and deploy applications to cloud environments."
+        },
+        {
+            "question": "Will the course cover advanced Jenkins features?",
+            "answer": "Yes, the course includes advanced topics like pipeline as code, multibranch pipelines, and Jenkins plugins for integration."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need a computer with Java, Jenkins, Git, and an IDE like IntelliJ IDEA or VS Code."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Jenkins Basics",
+            "submodule": [
+                {
+                    "name": "Getting Started with Jenkins",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Jenkins",
+                            "description": [
+                                "Overview of Jenkins and its role in DevOps",
+                                "Installing Jenkins on different platforms",
+                                "Navigating Jenkins UI and understanding its components"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Jenkins Setup and Configuration",
+                            "description": [
+                                "Setting up Jenkins master and slave nodes",
+                                "Configuring Jenkins system settings",
+                                "Managing plugins and tools in Jenkins"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Jenkins User and Security Management",
+                            "description": [
+                                "Managing Jenkins users and permissions",
+                                "Setting up security and access control",
+                                "Integrating Jenkins with LDAP or other authentication systems"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Pipeline Development",
+            "submodule": [
+                {
+                    "name": "Creating Jenkins Pipelines",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Jenkins Pipelines",
+                            "description": [
+                                "Understanding the concept of pipelines in Jenkins",
+                                "Creating and running simple pipelines",
+                                "Using Declarative and Scripted pipelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Pipeline as Code",
+                            "description": [
+                                "Implementing Jenkins pipeline as code with Jenkinsfile",
+                                "Setting up version control for Jenkinsfiles",
+                                "Best practices for writing pipeline scripts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced Pipeline Features",
+                            "description": [
+                                "Using parallel stages and conditional stages in pipelines",
+                                "Implementing multibranch pipelines",
+                                "Integrating Jenkins with other CI/CD tools"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Jenkins Features",
+            "submodule": [
+                {
+                    "name": "Integrating Jenkins with Other Tools",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Integrating Jenkins with Git",
+                            "description": [
+                                "Setting up Jenkins to pull code from Git repositories",
+                                "Triggering builds based on Git commits"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Continuous Testing with Jenkins",
+                            "description": [
+                                "Integrating Jenkins with testing tools (JUnit, Selenium)",
+                                "Running unit and integration tests in Jenkins"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Continuous Deployment and Delivery",
+                            "description": [
+                                "Deploying applications to staging and production environments",
+                                "Automating infrastructure provisioning with Jenkins"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Monitoring and Troubleshooting Jenkins",
+            "submodule": [
+                {
+                    "name": "Optimizing and Monitoring Jenkins",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Jenkins Performance Optimization",
+                            "description": [
+                                "Identifying performance bottlenecks in Jenkins",
+                                "Scaling Jenkins for large teams and projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Monitoring Jenkins Jobs and Pipelines",
+                            "description": [
+                                "Setting up notifications and alerts for Jenkins jobs",
+                                "Monitoring the health of Jenkins builds and pipelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Troubleshooting Jenkins",
+                            "description": [
+                                "Debugging Jenkins pipelines and jobs",
+                                "Handling build failures and common issues"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

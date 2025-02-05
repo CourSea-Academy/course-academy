@@ -1,0 +1,2503 @@
+{
+    "hashtag": "Most Popular",
+    "title": "Full Stack Web Development with AI",
+    "roleName": "Full Stack Developer Professional",
+    "description": "Unlock the future of web development by integrating cutting-edge AI technologies with robust full stack solutions. Our approach combines the best of frontend and backend development with advanced AI capabilities, delivering intelligent, responsive, and dynamic web applications that evolve with your needs.",
+    "price": "50000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        }, 
+        {
+            "name": "4 Months",
+            "description" : "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description" : "Delivery Mode"
+        },
+        {
+            "name": "Industry relevant",
+            "description" : "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner level",
+            "description" : "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive course is designed for aspiring web developers who want to harness the power of artificial intelligence. Whether you're a beginner or an experienced developer, this course will equip you with the skills and knowledge to create intelligent, full stack web applications.",
+    "highlights": [
+        {"name": "Frontend Development",
+        "description":"Master HTML, CSS, JavaScript, and modern frontend frameworks to build stunning, responsive user interfaces."},
+        {"name": "Backend Development",
+        "description": "Learn to create robust server-side applications using technologies like Node.js, Express, Flask/Django and databases such as SQL."},
+        {"name": "AI Integration",
+        "description":"Discover how to integrate AI and machine learning into your web applications. Gain hands-on experience with popular AI tools and frameworks, including TensorFlow, PyTorch, and scikit-learn."},
+        {"name": "Real-World Projects",
+        "description":"Work on real-world projects that demonstrate the practical application of full stack development and AI. Build intelligent web applications that can analyze data, make predictions, and provide dynamic user experiences."},
+        {"name": "Deployment and Maintenance",
+        "description":"Understand the best practices for deploying, scaling, and maintaining your applications in a production environment."},
+	    {"name": "Algorithms and Data Structures",
+        "description": "Master the foundational concepts of algorithms and data structures to solve complex computational problems efficiently. Learn about sorting, searching, dynamic programming, graph algorithms, and data structures like arrays, linked lists, stacks, queues, and trees."},
+        {"name": "System Design",
+        "description": "Gain insights into designing scalable and efficient systems by understanding distributed systems, load balancing, database scaling, and architectural patterns. Focus on real-world applications such as caching, microservices, and handling high availability and reliability."}
+    ],
+    "roles": [
+        {
+        "title": "Full Stack Developer",
+        "description": "Full Stack Developer skilled in JavaScript, Python, React, Node.js, and MongoDB, with expertise in building dynamic web applications and integrating AI-driven features like chatbots and recommendation systems."
+        },
+        {
+        "title": "Frontend Developer",
+        "description": "Frontend Developer proficient in HTML, CSS, JavaScript, and frameworks like React and Angular, with a focus on creating responsive and visually appealing user interfaces."
+        },
+        {
+        "title": "Backend Developer",
+        "description": "Backend Developer skilled in Python, Java, and Node.js, specializing in developing scalable server-side logic and database management for AI-powered applications."
+        },
+        {
+        "title": "AI Integration Engineer",
+        "description": "AI Integration Engineer experienced in TensorFlow, PyTorch, and API development, enabling seamless integration of machine learning models into web applications."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Full Stack Web Development with AI course?",
+            "answer": "The course spans eight months from the start date."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need to install any specific software before starting the course?",
+            "answer": "Yes, you will be provided a list of required software after enrollment, including development environments and AI libraries."
+        },
+        {
+            "question": "What are the prerequisites for enrolling in the course?",
+            "answer": "Basic knowledge of programming, web development, and an interest in AI technologies is recommended."
+        }
+    ],
+
+        "curriculum": [
+        {
+            "module": "UI/UX",
+            "submodule":[
+                {
+                    "name": "Figma",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Figma",
+                            "description": [
+                                "Overview of Figma's interface",
+                                "Understanding artboards and frames",
+                                "Collaboration features and real-time editing",
+                                "Introduction to design assets and libraries",
+                                "Integrations with other design tools",
+                                "Version history and file management",
+                                "Figma community and resources"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Design Principles",
+                            "description": [
+                                "Layout principles and grid systems",
+                                "Typography basics and text styling",
+                                "Color theory and palette creation",
+                                "Introduction to design assets and libraries",
+                                "Responsive design fundamentals",
+                                "Accessibility considerations in design",
+                                "Exporting assets for web and mobile"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Introduction to Figma",
+                            "description": [
+                                "Overview of Figma's interface",
+                                "Understanding artboards and frames",
+                                "Collaboration features and real-time editing",
+                                "Introduction to design assets and libraries",
+                                "Integrations with other design tools",
+                                "Version history and file management",
+                                "Figma community and resources"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Working with Components and Styles",
+                            "description": [
+                                "Creating and using components",
+                                "Master components and instances management",
+                                "Auto-layout for responsive designs",
+                                "Managing text styles, color styles, and effect styles",
+                                "Organizing components and styles libraries",
+                                "Collaboration on components and styles",
+                                "Best practices for maintaining design consistency"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Prototyping and Interactivity in Figma",
+                            "description": [
+                                "Overview of prototyping features in Figma",
+                                "Creating interactive prototypes with links and transitions",
+                                "Using overlays and interactions for advanced prototyping",
+                                "Incorporating scrolling and navigation in prototypes",
+                                "Previewing and sharing prototypes with stakeholders",
+                                "Gathering feedback and iterating on prototypes",
+                                "Best practices for prototyping efficiency"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Design Techniques in Figma",
+                            "description": [
+                                "Advanced vector editing with Boolean operations",
+                                "Creating custom illustrations and icons",
+                                "Masking techniques for controlling visibility",
+                                "Advanced typography effects and text manipulation",
+                                "Utilizing blend modes and effects for unique designs",
+                                "Designing for dark mode and other interfaces",
+                                "Exporting assets for animation and development"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Collaborative Workflows in Figma",
+                            "description": [
+                                "Real-time collaboration and commenting",
+                                "Managing design projects with teams and permissions",
+                                "Integrating Figma with project management tools",
+                                "Using version history for design iteration",
+                                "Workflow optimization with Figma plugins",
+                                "Best practices for effective collaboration",
+                                "Remote collaboration tips and techniques"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Design Handoff and Developer Collaboration",
+                            "description": [
+                                "Generating design specifications and assets for development",
+                                "Using Inspect mode for code extraction",
+                                "Exporting assets in various formats",
+                                "Collaborating with developers using design tokens",
+                                "Bridging the gap between design and development teams",
+                                "Handing off responsive designs and prototypes",
+                                "Best practices for smooth design handoff"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Prototyping and Animation(Optional)",
+                            "description": [
+                                "Creating advanced interactions with smart animate",
+                                "Incorporating sound and video elements in prototypes",
+                                "Designing micro-interactions for enhanced user experience",
+                                "Utilizing device frames for realistic prototyping",
+                                "Prototyping for augmented reality and virtual reality",
+                                "Optimizing prototypes for performance and usability",
+                                "Conducting user testing on interactive prototypes"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Design Systems and Components in Figma",
+                            "description": [
+                                "Establishing and maintaining design systems",
+                                "Creating reusable component libraries",
+                                "Documenting design guidelines and best practices",
+                                "Sharing design systems and components with teams",
+                                "Integrations with other design tools",
+                                "Scaling design systems for enterprise-level projects",
+                                "Best practices for design system governance"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Workflow Automation and Optimatization",
+                            "description": [
+                                "Automating repetitive tasks with Figma plugins",
+                                "Customizing Figma with scripting and automation",
+                                "Integrating Figma with other design and development tools",
+                                "Implementing design review and approval processes",
+                                "Optimizing workflows for speed and efficiency",
+                                "Continuous improvement strategies for design workflows",
+                                "Best practices for maintaining a productive design environment"
+                            ]
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
+            "module": "DSA",
+            "submodule": [
+                {
+                    "name": "Data Structures",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Data Structures",
+                            "description": [
+                                "Overview of data structures and their importance in programming",
+                                "Classification of data structures: linear vs. non-linear",
+                                "Understanding abstract data types (ADTs)",
+                                "Real-world applications of data structures",
+                                "Introduction to algorithm efficiency and complexity analysis",
+                                "Choosing the right data structure for a problem"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Arrays and Strings",
+                            "description": [
+                                "Understanding arrays and their operations",
+                                "Advantages and limitations of arrays",
+                                "Multi-dimensional arrays and their use cases",
+                                "Working with strings as a data structure",
+                                "String operations: concatenation, search, and manipulation",
+                                "Common problems: reverse, palindrome, and substring search"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Linked Lists",
+                            "description": [
+                                "Introduction to linked lists and their types: singly, doubly, and circular",
+                                "Operations on linked lists: insertion, deletion, and traversal",
+                                "Advantages and disadvantages of linked lists vs. arrays",
+                                "Implementing linked lists in code",
+                                "Real-world applications of linked lists",
+                                "Complexity analysis of linked list operations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Stacks and Queues",
+                            "description": [
+                                "Understanding stack data structure and its operations",
+                                "Applications of stacks: expression evaluation and backtracking",
+                                "Introduction to queues and their types: simple, circular, and priority queues",
+                                "Operations on queues: enqueue, dequeue, and peek",
+                                "Implementing stacks and queues using arrays and linked lists",
+                                "Use cases of stacks and queues in real-world scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Trees",
+                            "description": [
+                                "Understanding tree structures and terminology",
+                                "Binary trees and their traversal methods: in-order, pre-order, post-order",
+                                "Binary search trees (BST): properties and operations",
+                                "Balanced trees: AVL and Red-Black trees",
+                                "Heaps and their applications in priority queues",
+                                "Real-world applications of tree data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graphs",
+                            "description": [
+                                "Introduction to graph data structure and terminology",
+                                "Graph representations: adjacency matrix and adjacency list",
+                                "Graph traversal techniques: depth-first search (DFS) and breadth-first search (BFS)",
+                                "Weighted graphs and shortest path algorithms",
+                                "Detecting cycles and connectivity in graphs",
+                                "Applications of graphs in networking, pathfinding, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Hashing and Hash Tables",
+                            "description": [
+                                "Understanding hashing and hash functions",
+                                "Introduction to hash tables and their operations",
+                                "Collision resolution techniques: chaining and open addressing",
+                                "Applications of hash tables in caching, dictionaries, and indexing",
+                                "Implementing hash tables in code",
+                                "Advantages and limitations of hashing"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Data Structures",
+                            "description": [
+                                "Introduction to tries and their use cases in text processing",
+                                "Understanding segment trees and Fenwick trees",
+                                "Disjoint sets (Union-Find) and their applications",
+                                "Sparse tables for range queries",
+                                "Graph-based data structures: adjacency sets and incidence matrices",
+                                "Applications of advanced data structures in competitive programming"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Algorithms",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Algorithms",
+                            "description": [
+                                "Understanding the importance of algorithms in problem-solving",
+                                "Overview of algorithm design and analysis",
+                                "Key characteristics of algorithms: correctness, efficiency, and scalability",
+                                "Classification of algorithms: sorting, searching, graph algorithms, etc.",
+                                "Introduction to time and space complexity",
+                                "Understanding Big-O, Big-Theta, and Big-Omega notations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Sorting and Searching Algorithms",
+                            "description": [
+                                "Overview of sorting algorithms: bubble sort, selection sort, insertion sort",
+                                "Efficient sorting algorithms: merge sort, quick sort, heap sort",
+                                "Comparing sorting algorithms: stability, efficiency, and use cases",
+                                "Linear search and binary search techniques",
+                                "Applications of sorting and searching in real-world scenarios",
+                                "Understanding sorting algorithms’ time complexity"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Divide and Conquer Algorithms",
+                            "description": [
+                                "Introduction to the divide and conquer approach",
+                                "Classic examples: merge sort, quick sort, and binary search",
+                                "Understanding recurrence relations and their solutions",
+                                "Applications of divide and conquer in computational problems",
+                                "Optimizations and challenges in divide and conquer algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Dynamic Programming",
+                            "description": [
+                                "Understanding the principles of dynamic programming",
+                                "Solving overlapping subproblems and optimal substructure",
+                                "Classic problems: Fibonacci, knapsack problem, and longest common subsequence",
+                                "Top-down (memoization) vs. bottom-up (tabulation) approaches",
+                                "Applications of dynamic programming in optimization problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Greedy Algorithms",
+                            "description": [
+                                "Understanding the greedy algorithm paradigm",
+                                "Key properties: greedy-choice property and optimal substructure",
+                                "Classic examples: activity selection, Huffman coding, and minimum spanning tree",
+                                "Greedy vs. dynamic programming: differences and applications",
+                                "Analyzing and implementing greedy algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graph Algorithms",
+                            "description": [
+                                "Introduction to graphs and their representations",
+                                "Depth-first search (DFS) and breadth-first search (BFS)",
+                                "Shortest path algorithms: Dijkstra’s and Bellman-Ford",
+                                "Minimum spanning tree algorithms: Kruskal’s and Prim’s",
+                                "Applications of graph algorithms in real-world scenarios",
+                                "Understanding graph traversal and connectivity"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Backtracking and Recursion",
+                            "description": [
+                                "Understanding the concept of backtracking",
+                                "Classic problems: N-Queens, Sudoku, and Hamiltonian cycle",
+                                "Recursion fundamentals and its role in algorithm design",
+                                "Memoization and pruning techniques in backtracking",
+                                "Applications and limitations of backtracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Topics and Optimization",
+                            "description": [
+                                "Introduction to randomized algorithms",
+                                "Understanding and solving NP-complete problems",
+                                "Branch and bound techniques",
+                                "Approximation algorithms for intractable problems",
+                                "Parallel algorithms and their applications",
+                                "Real-world applications of advanced algorithms"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Database",
+            "submodule": [
+                {
+                "name": "SQL",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Databases",
+                        "description": [
+                            "Overview of databases and their importance in data management",
+                            "Types of databases (Relational and Non-Relational)",
+                            "DBMS architecture and its role in modern applications",
+                            "Setting up and configuring a database management system"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Database Design Concepts",
+                        "description": [
+                            "Data modeling and understanding the relational database model",
+                            "Entities, attributes, and relationships",
+                            "Keys and constraints in relational databases",
+                            "Data types and functional dependencies",
+                            "Normalization (1NF, 2NF, 3NF) and denormalization"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Create, Alter, and Drop Databases and Tables",
+                        "description": [
+                            "Creating and dropping databases and tables",
+                            "Altering tables and creating relationships",
+                            "Understanding character sets and collations"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Insert, Update, and Delete Data",
+                        "description": [
+                            "Inserting single and multiple rows",
+                            "Using subqueries in updates",
+                            "Deleting rows and restoring databases"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Retrieving Data From a Single Table",
+                        "description": [
+                            "SELECT clause, FROM clause, WHERE clause",
+                            "Relational and logical operators",
+                            "IN, BETWEEN, and LIKE operators",
+                            "REGEXP operator and sorting with ORDER BY",
+                            "LIMIT clause for paginated results"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Retrieving Data From Multiple Tables",
+                        "description": [
+                            "Inner joins and outer joins (left, right, full)",
+                            "Compound join conditions and USING clause",
+                            "Self joins, cross joins, and unions"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Subqueries and Complex Queries",
+                        "description": [
+                            "Writing subqueries (correlated subqueries, in SELECT, FROM, WHERE clauses)",
+                            "Using EXISTS and NOT EXISTS operators",
+                            "ALL and ANY keywords for comparisons"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Summarizing Data and Essential Functions",
+                        "description": [
+                            "DISTINCT keyword for unique results",
+                            "Aggregate functions and GROUP BY clause",
+                            "HAVING clause and ROLLUP operator",
+                            "Built-in functions: string, numeric, date functions",
+                            "Conditional logic with IFNULL, COALESCE, IF, and CASE"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Views, Stored Procedures, and Triggers",
+                        "description": [
+                            "Creating, altering, and dropping views",
+                            "Stored procedures and functions (parameters and variables)",
+                            "Creating triggers and handling events"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Transactions and Concurrency",
+                        "description": [
+                            "Understanding ACID properties",
+                            "Concurrency and locking mechanisms",
+                            "Transaction isolation levels and handling deadlocks"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Indexing for High Performance",
+                        "description": [
+                            "Creating and managing indexes (full-text, composite, covering indexes)",
+                            "Using indexes for sorting and optimizing queries",
+                            "Index maintenance and scenarios when indexes are ignored"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Securing Databases",
+                        "description": [
+                            "Creating, viewing, and dropping users",
+                            "Granting, revoking, and managing privileges",
+                            "Password management and database security"
+                        ]
+                    }
+                ]
+                
+            }
+            ]
+        },
+        {
+            "module": "Programming",
+            "submodule": [
+                {
+                    "name": "Python",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Python",
+                            "description": [
+                                "Overview of Python and its features",
+                                "Installing Python and setting up the development environment",
+                                "Python syntax and first program",
+                                "Indentation, keywords, identifiers, and input/output"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Python Basic Constructs",
+                            "description": [
+                                "Variables and memory management",
+                                "Data types, operators, type conversions",
+                                "Comments and implicit/explicit conversions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Control Flow",
+                            "description": [
+                                "Conditional statements (if-else)",
+                                "Loops (for, while, nested)",
+                                "Break, pass, and continue statements"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Python Functions",
+                            "description": [
+                                "Defining, calling functions",
+                                "Lambda functions, recursion",
+                                "Variable scope, *args, and **kwargs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Python Strings",
+                            "description": [
+                                "String methods and formatting",
+                                "Escape sequences and manipulations"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Data Structures",
+                            "description": [
+                                "Lists, tuples, sets, dictionaries",
+                                "Comprehensions for lists and dictionaries"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Object-Oriented Programming",
+                            "description": [
+                                "Classes, objects, inheritance, and encapsulation",
+                                "Dunder methods and advanced concepts"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Exception Handling",
+                            "description": [
+                                "Error handling (try, catch, finally)",
+                                "File handling and custom exceptions"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Python Concepts",
+                            "description": [
+                                "Iterators, generators, decorators",
+                                "Multithreading, multiprocessing",
+                                "Regular expressions and advanced data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Python for Web Development",
+                            "description": [
+                                "Basics of Flask/Django",
+                                "API creation, form handling, and database integration"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Python for Data Analysis",
+                            "description": [
+                                "Pandas, NumPy, and Matplotlib",
+                                "Data visualization and statistics"
+                            ]
+                        }
+                    
+                    ]
+                },
+                {
+                "name": "Java",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Java",
+                        "description": [
+                            "Java history, features, and architecture",
+                            "Setting up JDK, JRE, JVM",
+                            "Control Flow",
+                            "Writing and running the first program"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Variables and Data Types",
+                        "description": [
+                            "Primitive and reference data types",
+                            "Type casting and conversions"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Operators and Expressions",
+                        "description": [
+                            "Arithmetic, assignment, comparison, logical operators"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Control Flow",
+                        "description": [
+                            "Conditional statements",
+                            "Loops (for, while, do-while)",
+                            "Break and continue"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Arrays",
+                        "description": [
+                            "Single and multidimensional arrays",
+                            "Array manipulation"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Object-Oriented Programming",
+                        "description": [
+                            "Classes, constructors, inheritance, polymorphism",
+                            "Abstract classes and interfaces"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Exception Handling",
+                        "description": [
+                            "Handling exceptions with try-catch",
+                            "Custom exceptions and finally"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Input and Output",
+                        "description": [
+                            "File handling, streams, and serialization"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Collections Framework",
+                        "description": [
+                            "Lists, sets, queues, maps",
+                            "Iterating over collections"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Multithreading",
+                        "description": [
+                            "Thread creation and management"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: JDBC and Database Access",
+                        "description": [
+                            "Connecting to databases, executing queries"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Java Design Patterns",
+                        "description": [
+                            "Key patterns like Singleton, Factory"
+                        ]
+                    }
+                   
+                ]
+                }
+            ]
+        },
+        {
+            "module": "Front End Development",
+            "submodule": [
+                {
+                "name": "Hyper text markup language (HTML)",
+                "chapters": [
+                    {
+                        "module": "Module 1: Web Development Fundamentals",
+                        "description": [
+                            "Introduction",
+                            "Languages and Tools of Web Development",
+                            "How the Web Works",
+                            "Inspecting HTTP Requests and Responses",
+                            "Inspecting Pages Using DevTools",
+                            "Validating Web Pages",
+                            "Setting up a development environment"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: HTML Basics",
+                        "description": [
+                            "HTML document structure, HTML elements, and tags",
+                            "Document setup: <!DOCTYPE>,<html>,<head>,<body>",
+                            "Attributes and their usage",
+                            "Comments in HTML",
+                            "Headings, paragraphs, and line breaks",
+                            "Text formatting",
+                            "Semantic elements",
+                            "Block-level and inline elements",
+                            "Nesting elements and understanding the DOM tree"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: HTML Lists and Tables",
+                        "description": [
+                            "Lists: ordered, unordered, and definition lists",
+                            "Creating tables: <table> element",
+                            "Table headers: <thead>,<th>",
+                            "Table body: <tbody>,<tr>,<td>",
+                            "Merging cells: colspan and rowspan"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: HTML Forms",
+                        "description": [
+                            "Creating forms with the <form> element",
+                            "Input elements (text, password, radio, checkbox, etc.)",
+                            "Labels and form accessibility",
+                            "Select menus and options",
+                            "Textareas and buttons",
+                            "Form validation and HTML5 input types",
+                            "Form submission: GET vs. POST",
+                            "Handling form data on the server-side"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: HTML Images and Media",
+                        "description": [
+                            "Embedding images with <img>",
+                            "Image attributes (width, height, alt, etc.)",
+                            "Embedding audio and video with <audio> and <video>",
+                            "Adding captions and subtitles",
+                            "Lazy loading of images and media",
+                            "Video and audio formats",
+                            "Resolution Switching",
+                            "Scalable Vector Graphics"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: HTML Links and Anchor Tags",
+                        "description": [
+                            "Creating hyperlinks with <a>",
+                            "Linking to external and internal pages",
+                            "Linking to specific sections within a page (anchors)",
+                            "Opening links in new tabs/windows",
+                            "Creating download links"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: HTML5 APIs",
+                        "description": [
+                            "Geolocation API: Retrieving the user's location",
+                            "Drag-and-Drop API: Creating draggable elements",
+                            "Web Storage API: Using localStorage and sessionStorage",
+                            "WebSockets: Real-time communication between client and server"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: HTML Meta Tags and SEO",
+                        "description": [
+                            "Understanding the <head> section",
+                            "Setting the document title and description",
+                            "Meta tags and their significance",
+                            "Defining keywords and descriptions",
+                            "Meta tags for character encoding, viewport, etc.",
+                            "Optimizing HTML for search engines",
+                            "Rich snippets and structured data"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: HTML Best Practices and Optimization",
+                        "description": [
+                            "Minification and compression of HTML code",
+                            "Linking CSS stylesheets to HTML documents",
+                            "Adding JavaScript to HTML with <script> tags",
+                            "Understanding web accessibility and its importance",
+                            "Semantic HTML for improved accessibility",
+                            "ARIA roles and attributes for enhanced accessibility",
+                            "Testing and validating accessibility with tools"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Transactiona and Concurrency",
+                        "description": [
+                            "Creating Transactions and ACID properties",
+                            "Concurrency and Locking",
+                            "Concurrency Problems",
+                            "Transaction Isolation Levels",
+                            "Deadlocks and their prevention"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Indexing for High Performance",
+                        "description": [
+                            "Creating and Viewing Indexes",
+                            "Full-text Indexes",
+                            "Composite Indexes",
+                            "When Indexes are Ignored",
+                            "Using Indexes for Sorting",
+                            "Covering Indexes",
+                            "Index Maintenance"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Securing Databases",
+                        "description": [
+                            "Creating, Viewing, and Dropping Users",
+                            "Changing Passwords",
+                            "Granting Privileges",
+                            "Viewing Privileges",
+                            "Revoking Privileges"
+                        ]
+                    }
+                ]
+                },
+                {
+                "name": "Cascade Style Sheet",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to CSS",
+                        "description": [
+                            "Basic syntax and structure of CSS",
+                            "Importance and advantages of CSS in web development",
+                            "Historical overview and evolution of CSS",
+                            "Separation of concerns: understanding the role of CSS in separation of structure and presentation",
+                            "Inline vs. embedded vs. external CSS",
+                            "CSS preprocessors and their role in enhancing CSS development workflows"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: CSS Selectors and Specificity",
+                        "description": [
+                            "Overview of different types of selectors: element, class, ID, attribute, pseudo-class, pseudo-element",
+                            "Specificity and its importance in resolving conflicts in CSS",
+                            "Specificity calculation and hierarchy",
+                            "Selector grouping and chaining",
+                            "Advanced selectors: descendant selectors, sibling selectors, attribute selectors",
+                            "Using specificity effectively to target elements accurately"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: CSS Box Model",
+                        "description": [
+                            "Understanding the concept of the box model: content, padding, border, margin",
+                            "Box-sizing property and its impact on box model calculations",
+                            "Margin collapsing and its effects on layout",
+                            "Box model hacks and workarounds for cross-browser compatibility issues",
+                            "Techniques for creating complex layouts using the box model",
+                            "Applying box model concepts to create responsive designs"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: CSS Layout",
+                        "description": [
+                            "Positioning schemes: static, relative, absolute, fixed",
+                            "Display property and its values: block, inline, inline-block, flex, grid",
+                            "Understanding the CSS Grid Layout Module for creating complex grid-based layouts",
+                            "Flexbox layout and its advantages in creating flexible and responsive designs",
+                            "Techniques for creating multi-column layouts using CSS",
+                            "Responsive design principles and techniques for creating layouts that adapt to different screen sizes and devices"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Typography in CSS",
+                        "description": [
+                            "Font properties: font-family, font-size, font-weight, font-style, font-variant",
+                            "Text properties: color, line-height, text-align, text-decoration, texttransform, letter-spacing, word-spacing",
+                            "Google Fonts and other web font services",
+                            "Creating custom font stacks for better typography",
+                            "Techniques for improving readability and accessibility through typography",
+                            "Advanced typography features in CSS: text shadows, text clipping, text overflow"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Colors, Bagrounds, and Gradients",
+                        "description": [
+                            "Color representation in CSS: keywords, hexadecimal, RGB, RGBA, HSL, HSLA",
+                            "Background properties: background-color, background-image, background-repeat, background-size, background-position",
+                            "Using CSS gradients for creating smooth color transitions and backgrounds",
+                            "Techniques for creating background patterns using CSS",
+                            "Advanced background effects: multiple backgrounds, background blending modes"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Responsive Web Design Techniques",
+                        "description": [
+                            "Principles of responsive web design",
+                            "Media queries and their syntax",
+                            "Viewport meta tag and its importance in mobile responsiveness",
+                            "Mobile-first vs. desktop-first design approaches",
+                            "Responsive images: techniques for optimizing images for different screen sizes and resolutions",
+                            "Testing and debugging techniques for responsive designs"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: CSS Transitions and Animations",
+                        "description": [
+                            "Basics of CSS transitions: properties, duration, timing function, delay",
+                            "Creating smooth transitions for hover effects, state changes, and animations",
+                            "CSS animation keyframes and their syntax",
+                            "Controlling animation playback using animation-direction, animation-fill-mode, and animation-play-state",
+                            "Advanced animation techniques: easing functions, animation chaining, animation events",
+                            "Performance considerations for CSS animations and transitions"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: CSS Frameworks and Libraries",
+                        "description": [
+                            "Introduction to popular CSS frameworks such as Bootstrap, Foundation, and Bulma",
+                            "Understanding the grid system and component libraries provided by CSS frameworks",
+                            "Pros and cons of using CSS frameworks in web development projects",
+                            "Customizing CSS frameworks to match project requirements and design aesthetics",
+                            "Alternatives to traditional CSS frameworks: utility-first CSS frameworks, component libraries",
+                            "Best practices for integrating and maintaining CSS frameworks in projects"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Advanced CSS Technicque",
+                        "description": [
+                            "Advanced CSS selectors and combinators",
+                            "Creating complex CSS layouts using float, flexbox, and grid",
+                            "CSS variables and custom properties: syntax, scoping, and usecases",
+                            "Creating reusable and maintainable CSS code through modularization and component-based design",
+                            "Techniques for optimizing CSS performance: minification, concatenation, and compression"
+                        ]
+                    }
+
+                ]
+                },
+                {
+                "name": "JavaScript",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to JavaScript",
+                        "description": [
+                            "Overview of JavaScript and its Features",
+                            "Client-Side Scripting and Server-Side Scripting",
+                            "JavaScript in the Browser (async, defer)",
+                            "Installing Nodejs and setting up the development environment",
+                            "Basic Syntax and First Program in JavaScript",
+                            "Applications of JavaScript",
+                            "JavaScript Keywords and Identifiers",
+                            "JavaScript Input and Output"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: JavaScript Basic Constructs",
+                        "description": [
+                            "Variables in JavaScript",
+                            "Memory Management and Garbage Collection",
+                            "Difference Between Var, Let, and Const in Javascript",
+                            "Data Types (Literals) in JavaScript",
+                            "JavaScript Comments",
+                            "Operators in JavaScript",
+                            "Type Coercion in JavaScript"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: JavaScript Control Flow",
+                        "description": [
+                            "Conditional statements (if, else, else if, and nested conditions)",
+                            "Looping structures (for, while, do-while loops, and nested loops)",
+                            "Break and Continue Statement",
+                            "Switch Case in JavaScript",
+                            "JavaScript Ternary Operator"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: JavaScript Functions",
+                        "description": [
+                            "Defining and Invoking functions",
+                            "Scope of Variable and Return Statement",
+                            "Different Types of Functions",
+                            "Hoisting Behaviour of JavaScript",
+                            "Pass-By Value and Pass-By Reference in JavaScript",
+                            "Anonymous Function in JavaScript",
+                            "Recursion in JavaScript",
+                            "Closure in JavaScript"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: JavaScript Data Type and Data Structures",
+                        "description": [
+                            "Primitives and Non Primitivies",
+                            "Numbers, Boolean, String, BigInt, Null and Undefined, Symbol and method of primitives",
+                            "Array and Array Methods",
+                            "Map and Set",
+                            "WeakMap and WeakSet",
+                            "Working with Objects (Keys, Values, and Entries)",
+                            "JSON methods, toJSON"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Object-Oriented Programming",
+                        "description": [
+                            "Prototype Inheritance in JavaScript",
+                            "Constructor functions",
+                            "Classes in JavaScript",
+                            "this Keyword in JavaScript",
+                            "Encapsulation, Inheritance, and Polymorphism",
+                            "Mixins",
+                            "Call, Apply and Bind"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Exception and Modules",
+                        "description": [
+                            "Error handling (try...catch)",
+                            "Custom errors, extending Error",
+                            "Math Module",
+                            "Date Module",
+                            "Understanding modules exporting and importing them",
+                            "Exploring built-in modules and libraries",
+                            "Creating and using custom modules"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Asynchronous JavaScript",
+                        "description": [
+                            "Asynchronous programming, setTimeout, and setInterval",
+                            "Callbacks and Callback hell",
+                            "Fetch API",
+                            "Promise and Promises chaining",
+                            "Error handling with promises",
+                            "Async and Await",
+                            "micro Task Queue",
+                            "Event Loop"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: DOM Manipulatoin and Events",
+                        "description": [
+                            "Document Object Model and DOM tree",
+                            "Accessing and manipulating HTML elements using JavaScript",
+                            "Attributes and properties",
+                            "Styles and classes",
+                            "Handling events and event listeners",
+                            "Bubbling and capturing",
+                            "Forms event and method submit"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Miscellaneous",
+                        "description": [
+                            "Generators",
+                            "Higher Order Functions",
+                            "Rest parameters and spread syntax",
+                            "Nullish coalescing operator '??'",
+                            "Optional chaining '?.'",
+                            "LocalStorage, sessionStorage"
+                        ]
+                    }
+                    ]
+                },
+                {
+                "name": "React.js",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to React.js",
+                        "description": [
+                            "What is React.js?",
+                            "Why use React.js?",
+                            "Setting up the development environment (Node.js, npm/yarn, code editor)",
+                            "Creating your first React app",
+                            "Components and JSX",
+                            "Rendering elements",
+                            "Virtual DOM and Reconciliation"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: React Components and Props",
+                        "description": [
+                            "Functional components",
+                            "Class components",
+                            "Props and PropTypes",
+                            "State and setState",
+                            "Component lifecycle methods",
+                            "Handling events"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: State Management with Hooks",
+                        "description": [
+                            "Introduction to hooks",
+                            "useState for managing states",
+                            "useEffect for side effects and lifecycle",
+                            "Custom hooks",
+                            "Context API for global state management",
+                            "useReducer, useRef, useMemo, useCallback"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Working with Forms and User Input ",
+                        "description": [
+                            "Controlled vs. uncontrolled components",
+                            "Form handling",
+                            "Handling different types of inputs",
+                            "Form validation",
+                            "Handling user input"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Routing and Navigatoin",
+                        "description": [
+                            "Introduction to React Router",
+                            "Setting up routes",
+                            "Navigating between routes",
+                            "Route parameters and query strings",
+                            "Nested Routes, Outlet"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Styling in React",
+                        "description": [
+                            "CSS-in-JS libraries (e.g., styled-components, emotion)",
+                            "CSS modules",
+                            "Theming and styling strategies",
+                            "CSS frameworks in React"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: State Management with Redux",
+                        "description": [
+                            "Introduction to Redux",
+                            "Actions, reducers, and the store",
+                            "Connecting Redux to React components",
+                            "Asynchronous actions and middleware (redux-thunk)",
+                            "Using Redux DevTools"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Advanced Componet Patterns",
+                        "description": [
+                            "Higher-order components (HOCs)",
+                            "Render props",
+                            "Compound components",
+                            "Hooks patterns",
+                            "Context and Provider pattern"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Data Fetching and APIs",
+                        "description": [
+                            "Fetching data with Axios or Fetch API",
+                            "Handling asynchronous operations",
+                            "RESTful API concepts",
+                            "Error handling and loading states"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Testing React Applications",
+                        "description": [
+                            "Importance of testing",
+                            "Unit testing with Jest and React Testing Library",
+                            "Testing components and hooks",
+                            "Mocking dependencies"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Server-side Rendering (SSR) and Next.js",
+                        "description": [
+                            "Introduction to SSR",
+                            "Benefits of SSR",
+                            "Setting up SSR with Next.js",
+                            "Data fetching in Next.js"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Performance Optimizationa and Deployment",
+                        "description": [
+                            "Identifying performance bottlenecks",
+                            "React. memo and PureComponent",
+                            "Code splitting and lazy loading",
+                            "Performance profiling with React DevTools",
+                            "Optimizing for production",
+                            "Build process and bundlers (Webpack)",
+                            "Deployment to platforms like Netlify, Vercel, or AWS"
+                        ]
+                    }
+                    ]
+                },
+                {
+                "name": "Angular",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Angular",
+                        "description": [
+                            "History and Evolution of Angular",
+                            "Overview of Angular's features and use cases",
+                            "Setting up the development environment",
+                            "Building your first Angular application"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Angular Fundamentals",
+                        "description": [
+                            "TypeScript Basics for Angular",
+                            "Creating and using Components",
+                            "Working with Directives",
+                            "Understanding and implementing Services",
+                            "Dependency Injection in Angular"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Working with Forms",
+                        "description": [
+                            "Template-Driven Forms: Basics and usage",
+                            "Reactive Forms: Setup and validation"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Angular Routing",
+                        "description": [
+                            "Setting up routing in Angular",
+                            "Navigation and implementing routing features",
+                            "Handling route parameters",
+                            "Creating and managing nested routes",
+                            "Guards and Resolvers for route protection and pre-fetching data"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Advanced Angular Concepts",
+                        "description": [
+                            "Working with Angular Modules",
+                            "Angular Pipes: Built-in and custom pipes",
+                            "Component Interaction: Input, Output, and EventEmitters",
+                            "Change Detection: Strategies and mechanisms"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: HTTP and Observables",
+                        "description": [
+                            "Using the HttpClient module for making HTTP requests",
+                            "Understanding and using Observables with RxJS",
+                            "Implementing interceptors for request handling and error management"
+
+                        ]
+                    },
+                    {
+                        "module": "Module 7: State Management with NgRx",
+                        "description": [
+                            "Introduction to State Management in Angular",
+                            "Understanding Store and State",
+                            "Using Effects and Actions for side effects",
+                            "Advanced concepts in NgRx for complex state handling"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Testing in Angular",
+                        "description": [
+                            "Unit Testing in Angular",
+                            "End-to-End Testing using tools like Protractor or Cypress",
+                            "Best practices for testing Angular applications"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Performance Optimization",
+                        "description": [
+                            "Tuning Angular applications for better performance",
+                            "Introduction to Angular Universal for server-side rendering",
+                            "Implementing caching and Service Workers for offline capabilities"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Building and Deploying Angular Applications",
+                        "description": [
+                            "Building applications for production",
+                            "Deployment strategies for Angular apps",
+                            "Setting up Continuous Integration/Continuous Deployment (CI/CD) pipelines",
+                            "Case studies and real-world project implementations"
+                        ]
+                    }
+                    ]
+                }
+                
+            ]
+
+        },
+        {
+            "module": "Back End Development",
+            "submodule": [
+                {
+                    "name": "Django and Flask",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Django and Flask",
+                            "description": [
+                                "Overview of Django and Flask web frameworks",
+                                "Difference between Django and Flask",
+                                "When to use Django and when to use Flask",
+                                "Setup and installation of Django and Flask",
+                                "Creating the first project in Django and Flask"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Django Framework Basics",
+                            "description": [
+                                "Setting up a Django project and app",
+                                "Understanding Django's MVC architecture (Model-View-Controller)",
+                                "Working with Django Models, Views, and Templates",
+                                "URL Routing and handling requests in Django",
+                                "Django ORM (Object Relational Mapping) for database management"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Flask Framework Basics",
+                            "description": [
+                                "Setting up a Flask application",
+                                "Understanding Flask's micro-framework nature",
+                                "Working with Flask Routes and View Functions",
+                                "Using Jinja2 templating engine in Flask",
+                                "Connecting Flask with databases using SQLAlchemy"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Working with Databases in Django and Flask",
+                            "description": [
+                                "Django ORM for database operations",
+                                "Database migrations in Django with South and Django Migrations",
+                                "Flask with SQLAlchemy for database management",
+                                "CRUD operations (Create, Read, Update, Delete) in Django and Flask",
+                                "Best practices for managing database connections"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Django Authentication and Authorization",
+                            "description": [
+                                "User authentication in Django",
+                                "Working with Django's built-in User model",
+                                "Creating custom user models in Django",
+                                "Django sessions and cookies for authentication",
+                                "Authorization and permissions in Django"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Flask Authentication and Authorization",
+                            "description": [
+                                "Handling user authentication in Flask",
+                                "Flask-login and Flask-Security for authentication",
+                                "Session management in Flask",
+                                "Authorization strategies in Flask",
+                                "Role-based access control in Flask"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Templates and Static Files in Django and Flask",
+                            "description": [
+                                "Understanding Django Templates and Static Files",
+                                "Django Template tags and filters",
+                                "Serving static files in Flask",
+                                "Jinja2 templates in Flask",
+                                "Best practices for organizing templates and static files"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Django and Flask REST APIs",
+                            "description": [
+                                "Building REST APIs with Django using Django Rest Framework (DRF)",
+                                "Building REST APIs with Flask using Flask-RESTful",
+                                "Handling JSON requests and responses in Django and Flask",
+                                "Authentication in REST APIs with Django and Flask",
+                                "Using Postman or Swagger to test APIs"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Deploying Django and Flask Applications",
+                            "description": [
+                                "Deploying Django applications to Heroku, AWS, and DigitalOcean",
+                                "Deploying Flask applications using Docker and AWS EC2",
+                                "Setting up a production-ready environment for Django and Flask",
+                                "Configuring Web Servers (Nginx, Gunicorn, uWSGI)",
+                                "Continuous Deployment with CI/CD for Django and Flask"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Advanced Features in Django and Flask",
+                            "description": [
+                                "Django Signals and Middleware",
+                                "Flask Blueprints for modular application structure",
+                                "Working with Celery for task queues in Django and Flask",
+                                "Caching strategies in Django and Flask",
+                                "WebSockets and real-time communication in Django and Flask"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Testing Django and Flask Applications",
+                            "description": [
+                                "Unit testing in Django with Django TestCase",
+                                "Test-driven development (TDD) with Flask",
+                                "Integration testing in Django and Flask",
+                                "Using pytest with Django and Flask",
+                                "Mocking external services and testing APIs"
+                            ]
+                        },
+                        {
+                            "module": "Module 12: Best Practices and Performance Optimization",
+                            "description": [
+                                "Best coding practices in Django and Flask",
+                                "Optimizing performance in Django and Flask applications",
+                                "Handling security vulnerabilities (XSS, SQL Injection, CSRF)",
+                                "Database optimization techniques for Django and Flask",
+                                "Caching strategies and performance monitoring"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Spring Framework",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Spring Framework",
+                            "description": [
+                                "Overview of Spring Framework",
+                                "Understanding the core components of Spring",
+                                "Setting up a Spring project using Spring Initializr",
+                                "Structure of a Spring Boot application",
+                                "Advantages of using Spring Framework"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Spring Core Concepts",
+                            "description": [
+                                "Understanding Inversion of Control (IoC)",
+                                "Dependency Injection (DI) in Spring",
+                                "Spring Beans and Bean Lifecycle",
+                                "Spring Configuration: XML vs. Annotations",
+                                "Component Scanning and Bean Definitions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Spring Boot Basics",
+                            "description": [
+                                "Introduction to Spring Boot and its advantages",
+                                "Creating a simple Spring Boot application",
+                                "Spring Boot auto-configuration",
+                                "Working with application.properties and application.yml",
+                                "Running and deploying Spring Boot applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Spring Data Access with JPA and Hibernate",
+                            "description": [
+                                "Introduction to Spring Data JPA",
+                                "Working with JPA repositories",
+                                "Integrating Hibernate with Spring",
+                                "Creating and managing database entities with Spring Data",
+                                "Querying data using JPQL and Criteria API"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Spring MVC and REST APIs",
+                            "description": [
+                                "Building web applications using Spring MVC",
+                                "Handling HTTP requests and responses in Spring MVC",
+                                "Creating RESTful web services with Spring Boot",
+                                "Consuming REST APIs in Spring applications",
+                                "Spring Security for securing REST APIs"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Spring Security",
+                            "description": [
+                                "Introduction to Spring Security",
+                                "Authentication and Authorization in Spring",
+                                "Setting up basic authentication and form-based login",
+                                "Working with JWT (JSON Web Tokens) in Spring Security",
+                                "Role-based access control (RBAC) in Spring Security"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Spring AOP (Aspect-Oriented Programming)",
+                            "description": [
+                                "Introduction to Aspect-Oriented Programming (AOP)",
+                                "Creating aspects in Spring",
+                                "Advice, JoinPoints, and Pointcuts",
+                                "Using AOP for logging, transactions, and security",
+                                "Aspect-Oriented Design Patterns in Spring"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Spring Boot Actuator and Monitoring",
+                            "description": [
+                                "Introduction to Spring Boot Actuator",
+                                "Enabling health checks, metrics, and monitoring",
+                                "Customizing actuator endpoints",
+                                "Integrating with external monitoring tools (Prometheus, Grafana)",
+                                "Securing actuator endpoints"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Spring Integration and Messaging",
+                            "description": [
+                                "Introduction to Spring Integration",
+                                "Message-driven beans and messaging patterns",
+                                "Working with JMS (Java Message Service) in Spring",
+                                "Asynchronous messaging and event handling in Spring",
+                                "Spring Integration with other systems (e.g., Kafka, RabbitMQ)"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Spring Batch for Batch Processing",
+                            "description": [
+                                "Introduction to Spring Batch framework",
+                                "Creating batch jobs and steps in Spring Batch",
+                                "Job parameters and metadata management",
+                                "Error handling and retry mechanisms in Spring Batch",
+                                "Optimizing batch jobs and performance tuning"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Spring Cloud and Microservices",
+                            "description": [
+                                "Introduction to Spring Cloud and Microservices architecture",
+                                "Setting up microservices with Spring Boot and Spring Cloud",
+                                "Service Discovery with Eureka",
+                                "API Gateway with Spring Cloud Gateway",
+                                "Resilience with Spring Cloud Circuit Breaker"
+                            ]
+                        },
+                        {
+                            "module": "Module 12: Spring Testing",
+                            "description": [
+                                "Unit testing Spring applications with JUnit and Mockito",
+                                "Integration testing with Spring Test",
+                                "Mocking HTTP requests and responses",
+                                "Testing RESTful APIs with MockMvc",
+                                "Testing Spring Security configurations"
+                            ]
+                        },
+                        {
+                            "module": "Module 13: Spring Performance and Best Practices",
+                            "description": [
+                                "Optimizing Spring Boot applications for performance",
+                                "Memory management and garbage collection in Spring applications",
+                                "Best practices for building scalable Spring applications",
+                                "Configuring Spring applications for production environments",
+                                "Spring Boot production-ready configurations"
+                            ]
+                        }
+                    ]
+                }     
+            ]
+        },
+        {
+            "module": "Deployment",
+            "submodule": [
+                {
+                    "name": "Git",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Git",
+                            "description": [
+                                "Overview of version control systems (VCS)",
+                                "Introduction to Git and its importance",
+                                "Installing and configuring Git",
+                                "Understanding Git's architecture and workflows",
+                                "Basic Git commands: init, status, add, and commit",
+                                "The concept of the staging area and commit history",
+                                "Setting up a .gitignore file"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Repositories",
+                            "description": [
+                                "Creating and initializing a repository",
+                                "Cloning remote repositories",
+                                "Understanding the working directory, staging area, and local repository",
+                                "Navigating repository history using git log",
+                                "Undoing changes with git checkout, git reset, and git revert",
+                                "Removing files and folders from tracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Branching and Merging",
+                            "description": [
+                                "Understanding branches and their importance",
+                                "Creating and switching branches",
+                                "Merging branches and resolving conflicts",
+                                "Using git stash for temporary changes",
+                                "Deleting branches: local and remote",
+                                "Exploring branch visualization tools: git log and gitk"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Remote Repositories",
+                            "description": [
+                                "Linking local repositories to remote servers",
+                                "Pushing changes to remote repositories",
+                                "Pulling changes from remote repositories",
+                                "Fetching updates and syncing branches",
+                                "Working with remote tracking branches",
+                                "Collaborating with others using Git"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Git Features",
+                            "description": [
+                                "Rebasing branches and interactive rebase",
+                                "Cherry-picking specific commits",
+                                "Working with tags: creating and managing",
+                                "Using Git hooks for automation",
+                                "Managing submodules for nested repositories",
+                                "Exploring Git worktrees for multiple working directories"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Troubleshooting and Best Practices",
+                            "description": [
+                                "Debugging issues with git diff and git bisect",
+                                "Handling merge conflicts effectively",
+                                "Optimizing repository performance",
+                                "Cleaning up repositories with git gc and git prune",
+                                "Understanding Git best practices for teams",
+                                "Maintaining a clean and organized commit history"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GitHub",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GitHub",
+                            "description": [
+                                "Understanding Git and GitHub: Key differences and use cases",
+                                "Setting up a GitHub account and configuring Git",
+                                "Overview of GitHub's interface and key features",
+                                "Creating and managing repositories",
+                                "Cloning repositories to local machines",
+                                "Understanding branches and branching workflows",
+                                "Introduction to commits and commit messages",
+                                "Viewing and comparing code changes (diffs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Collaboration and Workflow",
+                            "description": [
+                                "Forking repositories and creating pull requests",
+                                "Code reviews and merging changes",
+                                "Managing issues and labels",
+                                "Using milestones and project boards for task management",
+                                "Introduction to GitHub Actions for CI/CD",
+                                "Collaborating with teams using GitHub discussions",
+                                "Resolving merge conflicts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced GitHub Features",
+                            "description": [
+                                "Customizing repositories with README files and Markdown",
+                                "Using GitHub Pages for static site hosting",
+                                "Managing access and permissions for repositories",
+                                "Creating and using templates for issues and pull requests",
+                                "Exploring GitHub GraphQL API for advanced workflows",
+                                "Monitoring repository activity and insights",
+                                "Automating tasks with webhooks and integrations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Best Practices and Security",
+                            "description": [
+                                "Writing clear and concise commit messages",
+                                "Structuring branches for effective collaboration",
+                                "Implementing code reviews and quality checks",
+                                "Setting up repository security and access controls",
+                                "Using Dependabot for dependency management",
+                                "Backing up and archiving repositories"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "System Design",
+            "submodule": [
+                {
+                    "name": "Distributed Systems",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Distributed Systems",
+                            "description": [
+                                "Overview of distributed systems and their importance",
+                                "Characteristics and challenges of distributed systems",
+                                "Communication models: Synchronous vs Asynchronous",
+                                "Key concepts: Latency, fault tolerance, consistency, and scalability",
+                                "Types of distributed systems: Client-server, peer-to-peer, and cloud-based systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Networking and Communication Protocols",
+                            "description": [
+                                "Introduction to networking in distributed systems",
+                                "Communication protocols: HTTP, RPC, REST, gRPC, and WebSockets",
+                                "Message passing and serialization formats: JSON, Protocol Buffers, Avro",
+                                "Synchronization in distributed systems: Clock synchronization and NTP",
+                                "Handling communication failures: Retries, timeouts, and message queues"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Consistency, Availability, and Partition Tolerance (CAP Theorem)",
+                            "description": [
+                                "Understanding the CAP theorem and its implications",
+                                "Trade-offs between consistency, availability, and partition tolerance",
+                                "Types of consistency: Strong, eventual, and causal consistency",
+                                "Designing for high availability and fault tolerance",
+                                "Implementing distributed consensus algorithms: Paxos and Raft"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Distributed Databases and Storage Systems",
+                            "description": [
+                                "Introduction to distributed databases: NoSQL vs SQL databases",
+                                "Data partitioning and sharding techniques",
+                                "Replication strategies and leader election in distributed storage systems",
+                                "Distributed file systems: HDFS, Ceph, and Google File System",
+                                "Eventual consistency in distributed databases: Techniques and trade-offs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Distributed Algorithms and Fault Tolerance",
+                            "description": [
+                                "Overview of distributed algorithms",
+                                "Leader election algorithms: Bully algorithm, Raft consensus",
+                                "Fault tolerance in distributed systems: Redundancy and replication",
+                                "Distributed state machine replication",
+                                "Checkpointing and logging in distributed systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Distributed System Design Patterns",
+                            "description": [
+                                "Introduction to distributed system design patterns",
+                                "Event-driven architecture and message queues",
+                                "Sharding and partitioning for scalability",
+                                "CQRS (Command Query Responsibility Segregation) pattern",
+                                "Saga pattern for managing distributed transactions"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Security in Distributed Systems",
+                            "description": [
+                                "Securing communication in distributed systems: SSL/TLS, encryption",
+                                "Authentication and authorization in distributed environments",
+                                "Managing secrets and credentials with vault systems",
+                                "Distributed denial-of-service (DDoS) protection and mitigation",
+                                "Building secure distributed applications with OAuth, JWT, and API security"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Monitoring, Logging, and Performance Optimization",
+                            "description": [
+                                "Monitoring distributed systems: Metrics, logs, and tracing",
+                                "Distributed tracing with tools like Jaeger and Zipkin",
+                                "Centralized logging with ELK stack (Elasticsearch, Logstash, Kibana)",
+                                "Performance bottlenecks and latency analysis in distributed systems",
+                                "Designing for scalability and high throughput in distributed applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Building a scalable distributed application with microservices",
+                                "Designing a fault-tolerant and high-available distributed system",
+                                "Implementing a distributed database with replication and sharding",
+                                "Setting up monitoring and alerting for a distributed system",
+                                "Implementing security and encryption in a distributed environment"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Design Patterns",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Design Patterns",
+                            "description": [
+                                "Overview of design patterns and their importance in software engineering",
+                                "The role of design patterns in improving code reusability and maintainability",
+                                "Classification of design patterns: Creational, Structural, and Behavioral",
+                                "Understanding the SOLID principles of object-oriented design",
+                                "Design pattern catalog and their applicability"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Creational Design Patterns",
+                            "description": [
+                                "Singleton pattern: Ensuring a single instance",
+                                "Factory method pattern: Creating objects without specifying the exact class",
+                                "Abstract factory pattern: Creating families of related objects",
+                                "Builder pattern: Constructing complex objects step by step",
+                                "Prototype pattern: Creating new objects by cloning existing ones"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Structural Design Patterns",
+                            "description": [
+                                "Adapter pattern: Converting one interface to another",
+                                "Bridge pattern: Decoupling abstraction from implementation",
+                                "Composite pattern: Composing objects into tree-like structures",
+                                "Decorator pattern: Adding responsibilities to objects dynamically",
+                                "Facade pattern: Providing a simplified interface to a complex system",
+                                "Flyweight pattern: Sharing objects to reduce memory consumption",
+                                "Proxy pattern: Controlling access to an object"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Behavioral Design Patterns",
+                            "description": [
+                                "Chain of responsibility pattern: Passing requests along a chain of handlers",
+                                "Command pattern: Encapsulating requests as objects",
+                                "Interpreter pattern: Designing a grammar and interpreter for a language",
+                                "Iterator pattern: Iterating over elements in a collection",
+                                "Mediator pattern: Defining an object that controls the interactions between other objects",
+                                "Memento pattern: Capturing and restoring an object's state",
+                                "Observer pattern: Defining a one-to-many dependency between objects",
+                                "State pattern: Allowing an object to alter its behavior when its internal state changes",
+                                "Strategy pattern: Defining a family of algorithms and selecting one at runtime",
+                                "Template method pattern: Defining the structure of an algorithm with steps to be implemented by subclasses",
+                                "Visitor pattern: Defining a new operation without changing the classes of the elements it operates on"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Concurrency Patterns",
+                            "description": [
+                                "Introduction to concurrency and parallelism in design patterns",
+                                "Thread pool pattern: Managing a pool of worker threads for executing tasks",
+                                "Producer-Consumer pattern: Decoupling tasks from task execution",
+                                "Read-Write Lock pattern: Managing concurrent access to resources",
+                                "Future and Promise patterns: Deferring the result of a computation"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Design Pattern Applications",
+                            "description": [
+                                "Applying design patterns to real-world systems",
+                                "Refactoring legacy systems using design patterns",
+                                "Designing flexible and scalable systems with design patterns",
+                                "Pattern-driven development: Best practices and anti-patterns",
+                                "Identifying and solving common design problems with patterns"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Designing an application using creational design patterns",
+                                "Implementing a complex system using structural design patterns",
+                                "Building a collaborative application using behavioral design patterns",
+                                "Optimizing concurrent systems using concurrency patterns",
+                                "Refactoring an existing codebase using appropriate design patterns"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Scaling",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Scaling",
+                            "description": [
+                                "Understanding the need for scaling in modern applications",
+                                "Types of scaling: Vertical vs Horizontal scaling",
+                                "Overview of scalability and its impact on performance",
+                                "Key principles of scaling: Load balancing, redundancy, and fault tolerance",
+                                "Scalability vs performance: How they are related but different"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Vertical Scaling (Scaling Up)",
+                            "description": [
+                                "Understanding vertical scaling and when to apply it",
+                                "Benefits and limitations of vertical scaling",
+                                "Increasing CPU, memory, and storage to scale vertically",
+                                "Managing performance bottlenecks in vertically scaled systems",
+                                "Best practices for vertical scaling and optimization"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Horizontal Scaling (Scaling Out)",
+                            "description": [
+                                "Understanding horizontal scaling and its advantages",
+                                "Designing systems that scale horizontally: Distributed architectures",
+                                "Sharding data and load balancing across multiple nodes",
+                                "Auto-scaling techniques in cloud environments",
+                                "Challenges in horizontal scaling: Consistency, partition tolerance, and state management"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Load Balancing and Traffic Distribution",
+                            "description": [
+                                "Introduction to load balancing and its importance in scaling",
+                                "Types of load balancers: Round-robin, least connections, IP-hash",
+                                "Global load balancing for multi-region applications",
+                                "Configuring and managing load balancers: HAProxy, Nginx, and cloud-based load balancers",
+                                "Handling failure scenarios and retries in load balancing"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Database Scaling Strategies",
+                            "description": [
+                                "Scaling databases: Sharding, partitioning, and replication",
+                                "Optimizing read and write operations with replication",
+                                "Choosing between SQL vs NoSQL for scalable databases",
+                                "Handling distributed transactions and consistency in databases",
+                                "Caching strategies for database scaling: Redis, Memcached"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Caching and Content Delivery Networks (CDNs)",
+                            "description": [
+                                "Introduction to caching and its role in scaling applications",
+                                "In-memory caching strategies with tools like Redis and Memcached",
+                                "Using Content Delivery Networks (CDNs) for faster content delivery",
+                                "Caching best practices: Cache invalidation and TTL (Time-to-Live)",
+                                "Distributed caching and managing cache consistency across nodes"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Microservices and Scalability",
+                            "description": [
+                                "Overview of microservices architecture and scalability benefits",
+                                "Designing scalable microservices with fault tolerance",
+                                "API Gateway and service discovery in microservices",
+                                "Handling communication between microservices: REST, gRPC, and message brokers",
+                                "Scaling microservices independently based on demand"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Scaling in the Cloud",
+                            "description": [
+                                "Cloud-based scaling strategies: Using IaaS, PaaS, and SaaS",
+                                "Elastic scaling and auto-scaling in cloud environments",
+                                "Managing resources and costs in scalable cloud applications",
+                                "Cloud services for scaling: AWS, Azure, Google Cloud",
+                                "Hybrid and multi-cloud scaling strategies"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Monitoring and Performance Optimization for Scalable Systems",
+                            "description": [
+                                "Monitoring scalability metrics: Latency, throughput, and error rates",
+                                "Scaling bottlenecks and identifying performance issues",
+                                "Tools for monitoring scalable systems: Prometheus, Grafana, Datadog",
+                                "Optimizing resource utilization and cost-effectiveness in scalable systems",
+                                "Best practices for managing large-scale systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Building a horizontally scalable web application",
+                                "Designing a microservices architecture that scales with traffic",
+                                "Implementing load balancing and auto-scaling in the cloud",
+                                "Scaling a database and integrating caching for high performance",
+                                "Optimizing a real-world application for scalability and performance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Caching",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Caching",
+                            "description": [
+                                "What is caching and why is it important in application performance?",
+                                "Understanding cache hit vs. cache miss",
+                                "Types of caches: Memory, disk, and distributed caches",
+                                "Cache eviction policies: LRU, LFU, FIFO",
+                                "Benefits of caching in reducing database load and improving response time"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: In-Memory Caching",
+                            "description": [
+                                "Introduction to in-memory caching and its advantages",
+                                "Using Redis and Memcached for in-memory caching",
+                                "Setting up and configuring Redis and Memcached",
+                                "When to use in-memory caching vs. other caching techniques",
+                                "Best practices for using in-memory caches effectively"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Distributed Caching",
+                            "description": [
+                                "What is distributed caching and when to use it?",
+                                "Designing a scalable cache system with Redis or Hazelcast",
+                                "Data consistency and cache synchronization in distributed systems",
+                                "Configuring clustering and partitioning in distributed caches",
+                                "Handling cache failures and fallbacks in distributed environments"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Caching Strategies",
+                            "description": [
+                                "Cache-aside strategy: When and how to use it",
+                                "Write-through vs. write-behind caching",
+                                "Read-through caching: How it works and when to apply it",
+                                "Lazy loading vs eager loading in caching systems",
+                                "Time-to-live (TTL) and cache invalidation strategies"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Cache Expiration and Eviction",
+                            "description": [
+                                "Understanding cache expiration and TTL (Time-to-Live)",
+                                "Different eviction policies: LRU, LFU, FIFO, and more",
+                                "Configuring cache expiration and eviction strategies",
+                                "Cache bursting and preventing stale data in the cache",
+                                "Handling expired cache data and cache misses"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Caching in Web Applications",
+                            "description": [
+                                "Caching HTTP responses: Using cache-control headers",
+                                "Edge caching with Content Delivery Networks (CDNs)",
+                                "Browser-side caching for static assets",
+                                "Setting up page caching, object caching, and fragment caching in web applications",
+                                "Optimizing caching for dynamic content and personalized responses"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Caching Concepts",
+                            "description": [
+                                "Cache coherence and consistency in distributed caching systems",
+                                "Implementing hierarchical caching: Multi-level caches",
+                                "Using Bloom filters for cache optimization",
+                                "Handling cache penetration and cache stampede",
+                                "Integrating caching with microservices architectures"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Caching in Databases",
+                            "description": [
+                                "Caching strategies for databases: Query result caching and object caching",
+                                "Using database-level caching in MySQL, PostgreSQL, and NoSQL databases",
+                                "Database query optimization with caching",
+                                "Distributed caching for NoSQL databases like MongoDB and Cassandra",
+                                "Best practices for integrating caching with relational and non-relational databases"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Monitoring and Troubleshooting Cache Performance",
+                            "description": [
+                                "Monitoring cache hit/miss ratio and cache performance",
+                                "Setting up monitoring tools for caching systems: Redis monitoring with RedisInsight, Prometheus, Grafana",
+                                "Troubleshooting common caching issues: Cache invalidation, consistency problems",
+                                "Analyzing cache performance and tuning cache size",
+                                "Identifying and resolving cache-related bottlenecks"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Building a caching system for a high-performance web application",
+                                "Implementing Redis as a cache in a microservices architecture",
+                                "Using Memcached to cache API responses in a distributed environment",
+                                "Configuring cache expiration and eviction in a real-world project",
+                                "Optimizing a database with caching to improve read performance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Event Driven Architecture",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Event Driven Architecture",
+                            "description": [
+                                "Understanding the concept of Event Driven Architecture (EDA)",
+                                "Key components of EDA: Events, Event Producers, Event Consumers, and Event Channels",
+                                "When to use EDA and the benefits it provides",
+                                "Differences between Event Driven and Request-Response architectures",
+                                "Types of events: Domain events, Command events, and Notification events"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Core Concepts and Terminologies",
+                            "description": [
+                                "What is an event in the context of EDA?",
+                                "Event producers vs. event consumers",
+                                "Event channels and Event brokers",
+                                "Asynchronous messaging in EDA",
+                                "Event-driven workflows and event orchestration"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Event Types and Event Processing",
+                            "description": [
+                                "Synchronous vs. Asynchronous Event Processing",
+                                "Event Streams and Event Queues",
+                                "Eventual consistency in Event Driven systems",
+                                "Real-time event processing and event-driven messaging patterns",
+                                "Handling and processing different types of events: Data, State, and Command events"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Event-driven Communication Patterns",
+                            "description": [
+                                "Publish-Subscribe pattern: Key concepts and benefits",
+                                "Point-to-Point communication in event-driven systems",
+                                "Event-based communication with message queues and topics",
+                                "Event brokering and Event streaming platforms",
+                                "Example platforms: Apache Kafka, RabbitMQ, AWS EventBridge, Google Cloud Pub/Sub"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Event Sourcing",
+                            "description": [
+                                "What is Event Sourcing and why it’s important in EDA?",
+                                "Storing events as the source of truth in event-driven systems",
+                                "Event replay and rebuilding state from events",
+                                "Event stores and the role of event log",
+                                "Event Sourcing vs. Traditional CRUD approaches"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: CQRS (Command Query Responsibility Segregation)",
+                            "description": [
+                                "Introduction to CQRS and its relationship with EDA",
+                                "Separation of command and query models in event-driven systems",
+                                "Benefits of CQRS in scaling and performance optimization",
+                                "Implementing CQRS with Event Sourcing",
+                                "When and how to apply CQRS in an event-driven architecture"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Designing Event-Driven Systems",
+                            "description": [
+                                "Principles of designing event-driven systems",
+                                "Event modeling: Designing events and event schemas",
+                                "Event-driven microservices architecture",
+                                "Handling data consistency and eventual consistency in EDA",
+                                "Transaction boundaries and idempotency in event-driven systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Event Processing Frameworks and Tools",
+                            "description": [
+                                "Using Apache Kafka for event streaming",
+                                "Leveraging RabbitMQ for message queuing",
+                                "AWS Lambda and event-driven serverless architecture",
+                                "Event-driven frameworks: Spring Cloud Stream, NATS, Azure Event Grid",
+                                "Tools for building and scaling event-driven systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Event-Driven System Challenges and Best Practices",
+                            "description": [
+                                "Eventual consistency vs. strong consistency",
+                                "Handling event failures and retries",
+                                "Scaling event-driven systems and handling large volumes of events",
+                                "Monitoring and tracing events in an event-driven system",
+                                "Error handling, dead-letter queues, and message durability"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Real-World Applications and Case Studies",
+                            "description": [
+                                "Event-driven architecture in real-time applications: E-commerce, IoT, and Social Media",
+                                "Case studies of EDA implementations in large-scale systems",
+                                "Event-driven microservices architecture in production",
+                                "Building a scalable and fault-tolerant event-driven system",
+                                "Lessons learned from real-world event-driven architectures"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microservice Architecture",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Microservice Architecture",
+                            "description": [
+                                "Overview of Microservice Architecture",
+                                "Difference between Monolithic and Microservice Architectures",
+                                "Benefits of Microservices: Scalability, Flexibility, and Fault Tolerance",
+                                "Key Characteristics of Microservices: Independency, Loose Coupling, and Modularity",
+                                "When to use Microservices and when to avoid them"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Core Concepts and Principles",
+                            "description": [
+                                "Understanding the principles of Microservice design",
+                                "Bounded Contexts and Domain-Driven Design",
+                                "Service Discovery in Microservices",
+                                "Loose Coupling and Service Independence",
+                                "Inter-Service Communication and API Gateway"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Microservice Communication",
+                            "description": [
+                                "Synchronous vs. Asynchronous Communication",
+                                "REST APIs and HTTP-based Communication",
+                                "Message Queues, Pub/Sub, and Event-driven Communication",
+                                "Protocol Buffers, gRPC, and Thrift",
+                                "API Gateway pattern and its role in communication"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data Management in Microservices",
+                            "description": [
+                                "Decentralized Data Management in Microservices",
+                                "Database per Service and Database Integration Strategies",
+                                "Event Sourcing and CQRS in Microservices",
+                                "Handling Distributed Transactions and Data Consistency",
+                                "Data Replication and Eventual Consistency"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Microservice Design Patterns",
+                            "description": [
+                                "Decomposition Strategies: By Business Capability and By Subdomain",
+                                "API Gateway Pattern",
+                                "Service Discovery and Load Balancing Patterns",
+                                "Circuit Breaker and Retry Patterns",
+                                "Sidecar Pattern for Cross-Cutting Concerns"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Microservice Security",
+                            "description": [
+                                "Authentication and Authorization in Microservices",
+                                "OAuth2 and JWT for securing Microservice APIs",
+                                "Secure inter-service communication (TLS, mTLS)",
+                                "Microservice Security Best Practices",
+                                "Service Mesh for Security and Traffic Management"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Microservice Deployment and CI/CD",
+                            "description": [
+                                "Containerization with Docker for Microservices",
+                                "Orchestrating Microservices with Kubernetes",
+                                "Continuous Integration and Continuous Deployment (CI/CD) in Microservices",
+                                "Automated Testing in Microservices",
+                                "Deployment Strategies: Blue/Green, Canary, and Rolling Deployments"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Monitoring and Logging in Microservices",
+                            "description": [
+                                "Centralized Logging in Microservices",
+                                "Distributed Tracing and OpenTracing",
+                                "Monitoring Microservices with Prometheus and Grafana",
+                                "Health Checks, Metrics, and Alerts",
+                                "Debugging Microservices in a Distributed System"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Scaling and Fault Tolerance in Microservices",
+                            "description": [
+                                "Horizontal Scaling of Microservices",
+                                "Handling Failures with Fault Tolerance Patterns",
+                                "Rate Limiting, Load Balancing, and Service Mesh",
+                                "Handling Service Degradation and Backpressure",
+                                "Ensuring High Availability and Redundancy"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Best Practices and Real-World Case Studies",
+                            "description": [
+                                "Best Practices for Designing and Building Microservices",
+                                "Microservices in Cloud Environments: AWS, Azure, and GCP",
+                                "Case Studies: Real-World Implementations of Microservices",
+                                "Lessons Learned and Common Pitfalls",
+                                "Future Trends in Microservice Architecture"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "AI",
+            "submodule": [
+                {
+                    "name": "Machine Learning",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Machine Learning",
+                            "description": [
+                                "Understanding what Machine Learning is and its importance",
+                                "Key differences between AI, Machine Learning, and Deep Learning",
+                                "Overview of types of Machine Learning: supervised, unsupervised, and reinforcement learning",
+                                "Applications of Machine Learning in various domains",
+                                "Popular tools and libraries for Machine Learning: Scikit-learn, TensorFlow, PyTorch",
+                                "Challenges and ethical considerations in Machine Learning"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Preparation and Preprocessing",
+                            "description": [
+                                "Collecting and understanding datasets",
+                                "Data cleaning: handling missing values and outliers",
+                                "Feature engineering and selection",
+                                "Normalizing and standardizing data",
+                                "Splitting data into training, validation, and test sets",
+                                "Using libraries like Pandas and NumPy for preprocessing"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Supervised Learning",
+                            "description": [
+                                "Understanding the concept of labeled data",
+                                "Introduction to regression algorithms: linear regression, logistic regression",
+                                "Classification algorithms: decision trees, support vector machines (SVMs), k-nearest neighbors (KNN)",
+                                "Evaluating models: confusion matrix, precision, recall, and F1 score",
+                                "Hyperparameter tuning for supervised models",
+                                "Case studies: Predictive modeling in real-world scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Unsupervised Learning",
+                            "description": [
+                                "Understanding the concept of unlabeled data",
+                                "Clustering algorithms: k-means, hierarchical clustering, DBSCAN",
+                                "Dimensionality reduction techniques: PCA and t-SNE",
+                                "Anomaly detection using unsupervised learning",
+                                "Applications of unsupervised learning in business and research",
+                                "Evaluating the performance of unsupervised models"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Reinforcement Learning",
+                            "description": [
+                                "Basics of reinforcement learning and its applications",
+                                "Understanding agents, states, actions, and rewards",
+                                "Exploring Q-Learning and Deep Q-Learning",
+                                "Case studies: reinforcement learning in robotics and gaming",
+                                "Challenges in training reinforcement learning models",
+                                "Evaluating reinforcement learning algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced Topics in Machine Learning",
+                            "description": [
+                                "Introduction to ensemble methods: bagging, boosting, and stacking",
+                                "Random Forest and Gradient Boosting Machines (GBMs)",
+                                "Working with time-series data and forecasting",
+                                "Introduction to natural language processing (NLP) in Machine Learning",
+                                "Using deep learning techniques in Machine Learning pipelines",
+                                "Automated Machine Learning (AutoML)"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Deploying and Monitoring Machine Learning Models",
+                            "description": [
+                                "Understanding the Machine Learning lifecycle",
+                                "Model deployment techniques: Flask, FastAPI, and cloud platforms",
+                                "Monitoring models in production for drift and accuracy",
+                                "Introduction to MLOps for continuous integration and delivery",
+                                "Building scalable Machine Learning systems",
+                                "Real-world examples of deployment challenges and solutions"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Ethical and Societal Impacts of Machine Learning",
+                            "description": [
+                                "Bias and fairness in Machine Learning models",
+                                "Ensuring privacy and security in data handling",
+                                "Understanding the impact of AI on jobs and society",
+                                "Addressing transparency and interpretability in Machine Learning",
+                                "Creating ethical guidelines for Machine Learning applications",
+                                "Future trends and opportunities in Machine Learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Deep Learning",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Deep Learning",
+                            "description": [
+                                "Understanding the basics of machine learning and deep learning",
+                                "Key differences between traditional machine learning and deep learning",
+                                "Overview of neural networks and their structure",
+                                "Applications of deep learning in real-world scenarios",
+                                "Popular frameworks for deep learning: TensorFlow, PyTorch, and Keras",
+                                "Challenges and limitations of deep learning"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Neural Network Fundamentals",
+                            "description": [
+                                "Understanding perceptrons and multi-layer perceptrons (MLPs)",
+                                "Activation functions: ReLU, Sigmoid, Tanh, and others",
+                                "Loss functions and their importance in training",
+                                "Forward propagation and backward propagation",
+                                "Introduction to gradient descent and optimization techniques",
+                                "Regularization techniques to prevent overfitting"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Deep Learning Architectures",
+                            "description": [
+                                "Introduction to Convolutional Neural Networks (CNNs)",
+                                "Understanding Recurrent Neural Networks (RNNs) and their variants (LSTMs, GRUs)",
+                                "Autoencoders and their applications",
+                                "Transformers and attention mechanisms",
+                                "Exploring Generative Adversarial Networks (GANs)",
+                                "Deep reinforcement learning basics"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Training and Optimization",
+                            "description": [
+                                "Preparing datasets for deep learning",
+                                "Data augmentation and preprocessing techniques",
+                                "Understanding the training process and epochs",
+                                "Hyperparameter tuning for model optimization",
+                                "Using transfer learning for faster model training",
+                                "Distributed training and handling large datasets"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Implementing Deep Learning Models",
+                            "description": [
+                                "Building models using TensorFlow and PyTorch",
+                                "Implementing custom layers and loss functions",
+                                "Using pre-trained models for specific tasks",
+                                "Evaluating model performance with metrics like accuracy, precision, and recall",
+                                "Deploying deep learning models to production",
+                                "Monitoring and updating deployed models"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced Topics in Deep Learning",
+                            "description": [
+                                "Understanding sequence-to-sequence models and transformers",
+                                "Building recommendation systems with deep learning",
+                                "Exploring deep learning in NLP and computer vision",
+                                "Self-supervised learning techniques",
+                                "Interpreting and visualizing deep learning models",
+                                "Exploring cutting-edge research in deep learning"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Ethical and Practical Considerations",
+                            "description": [
+                                "Understanding bias and fairness in deep learning models",
+                                "Addressing ethical concerns in AI applications",
+                                "Privacy and security considerations for deep learning systems",
+                                "Handling adversarial attacks on models",
+                                "Best practices for reproducibility in research and development",
+                                "Future trends and challenges in deep learning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+
+}

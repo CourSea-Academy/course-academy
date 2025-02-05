@@ -1,0 +1,185 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Terraform Mastery: Infrastructure as Code (IaC)",
+    "roleName": "DevOps Engineer / Cloud Infrastructure Engineer",
+    "description": "Master Terraform to automate infrastructure provisioning and management across multiple cloud platforms. This course covers Terraform's powerful IaC capabilities, enabling you to build, scale, and manage infrastructure efficiently and effectively across AWS, Azure, Google Cloud, and more.",
+    "price": "40000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "In this comprehensive course, you will learn how to use Terraform to automate cloud infrastructure management, enabling you to manage resources across multiple cloud providers in a consistent and reproducible manner. You’ll gain hands-on experience with Terraform's core concepts, modules, and state management.",
+    "highlights": [
+        {
+            "name": "Introduction to Terraform",
+            "description": "Learn the fundamentals of Terraform, including its purpose, installation, and core concepts like providers, resources, and modules."
+        },
+        {
+            "name": "Provisioning Cloud Infrastructure",
+            "description": "Understand how to use Terraform to provision and manage cloud resources on AWS, Azure, and Google Cloud."
+        },
+        {
+            "name": "Terraform State Management",
+            "description": "Learn how to manage Terraform's state files and remote backends for team collaboration and infrastructure scaling."
+        },
+        {
+            "name": "Modules and Best Practices",
+            "description": "Learn how to use and create reusable Terraform modules to simplify and standardize your infrastructure code."
+        },
+        {
+            "name": "Terraform with CI/CD",
+            "description": "Integrate Terraform with Continuous Integration and Continuous Deployment (CI/CD) pipelines to automate infrastructure provisioning and updates."
+        }
+    ],
+    "roles": [
+        {
+            "title": "DevOps Engineer",
+            "description": "Automate infrastructure provisioning, configuration, and management across cloud platforms using Terraform and other IaC tools."
+        },
+        {
+            "title": "Cloud Infrastructure Engineer",
+            "description": "Design, deploy, and manage scalable and cost-effective cloud infrastructure using Terraform across AWS, Azure, and Google Cloud."
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "description": "Ensure infrastructure reliability by automating and managing resources with Terraform in production environments."
+        },
+        {
+            "title": "Infrastructure Engineer",
+            "description": "Build and maintain infrastructure solutions for cloud environments, optimizing resource allocation and cost using Terraform."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with Terraform for this course?",
+            "answer": "This course is suitable for beginners, and no prior experience with Terraform is required. We cover the basics and progressively move to advanced concepts."
+        },
+        {
+            "question": "What cloud providers will I learn to use with Terraform?",
+            "answer": "You will learn to use Terraform with popular cloud providers like AWS, Azure, and Google Cloud. The course covers cross-cloud provisioning and management."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need Terraform installed on your machine, along with access to cloud accounts (AWS, Azure, Google Cloud). We will guide you through setting up these tools."
+        },
+        {
+            "question": "What is the duration of the course?",
+            "answer": "The course duration is 4 months, with live sessions and recorded content to help you learn at your own pace."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Getting Started with Terraform",
+            "submodule": [
+                {
+                    "name": "Introduction to Terraform",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Overview of Infrastructure as Code",
+                            "description": [
+                                "Introduction to Infrastructure as Code (IaC)",
+                                "Why Terraform? Use cases and benefits",
+                                "Setting up Terraform environment"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Terraform Configuration",
+                            "description": [
+                                "Writing Terraform configuration files",
+                                "Understanding providers, resources, and variables",
+                                "Running Terraform commands (init, plan, apply)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Intermediate Terraform Concepts",
+            "submodule": [
+                {
+                    "name": "Provisioning Infrastructure",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Managing Resources with Terraform",
+                            "description": [
+                                "Creating and managing resources like EC2, VPC, and S3 on AWS",
+                                "Provisioning resources on Azure and Google Cloud",
+                                "Managing multiple resources in a single configuration file"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Modules",
+                            "description": [
+                                "Using built-in Terraform modules",
+                                "Creating reusable and shareable Terraform modules",
+                                "Best practices for module organization"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Terraform Features",
+            "submodule": [
+                {
+                    "name": "State Management and Collaboration",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Terraform State",
+                            "description": [
+                                "Understanding Terraform state files",
+                                "Configuring remote backends for state storage",
+                                "Collaborating with team members on infrastructure projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Advanced Terraform Commands",
+                            "description": [
+                                "Terraform workspaces and state management",
+                                "Managing infrastructure changes with Terraform",
+                                "Handling errors and troubleshooting Terraform configurations"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Terraform with CI/CD",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Integrating Terraform with CI/CD Pipelines",
+                            "description": [
+                                "Automating Terraform workflows with Jenkins and GitLab CI",
+                                "Using Terraform with Docker containers and Kubernetes",
+                                "Testing Terraform configurations in CI/CD pipelines"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

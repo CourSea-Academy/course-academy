@@ -1,0 +1,224 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Power BI Mastery",
+    "roleName": "Data Analyst / Business Intelligence Developer",
+    "description": "Master Power BI to transform data into actionable insights. This comprehensive course covers data visualization, dashboard creation, DAX functions, Power Query, and advanced reporting techniques to help you create compelling, data-driven stories.",
+    "price": "40000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides in-depth knowledge of Power BI, covering the entire process from importing data to creating advanced reports and dashboards. Learn how to use Power Query for data transformation, apply DAX for complex calculations, and design visually compelling reports for business decision-makers.",
+    "highlights": [
+        {
+            "name": "Data Transformation with Power Query",
+            "description": "Learn how to import, clean, and transform data using Power Query Editor."
+        },
+        {
+            "name": "Data Modeling with DAX",
+            "description": "Master Data Analysis Expressions (DAX) to create powerful formulas for reports."
+        },
+        {
+            "name": "Interactive Dashboards",
+            "description": "Create interactive and visually appealing dashboards for business insights."
+        },
+        {
+            "name": "Power BI Service and Power BI Desktop",
+            "description": "Learn how to publish and share reports using Power BI Service and integrate with Power BI Desktop."
+        },
+        {
+            "name": "Advanced Reporting Techniques",
+            "description": "Explore advanced reporting capabilities such as drill-through, bookmarks, and custom visuals."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Data Analyst",
+            "description": "Analyze data and create interactive reports and dashboards for business analysis using Power BI."
+        },
+        {
+            "title": "Business Intelligence Developer",
+            "description": "Design, develop, and deploy BI solutions using Power BI for decision-making and reporting."
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Work with large datasets to derive insights and create reports that inform strategic decisions."
+        },
+        {
+            "title": "Report Developer",
+            "description": "Create data-driven reports and dashboards to support business intelligence initiatives."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with Power BI for this course?",
+            "answer": "No prior experience is required. The course starts with the basics and progresses to advanced features."
+        },
+        {
+            "question": "What tools will I need for this course?",
+            "answer": "You will need a computer with Power BI Desktop installed. Power BI Service is available online for sharing reports."
+        },
+        {
+            "question": "What kind of projects will I work on during the course?",
+            "answer": "You will create interactive dashboards, data reports for various business cases, and work on real-world datasets."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "Can I share my Power BI reports online?",
+            "answer": "Yes, you will learn how to publish reports to Power BI Service and share them with stakeholders."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Power BI",
+            "submodule": [
+                {
+                    "name": "Getting Started with Power BI",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Power BI",
+                            "description": [
+                                "Overview of Power BI tools and features",
+                                "Setting up Power BI Desktop and Power BI Service",
+                                "Understanding Power BI’s role in business intelligence"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Navigating Power BI Desktop",
+                            "description": [
+                                "Overview of Power BI Desktop interface",
+                                "Creating your first report",
+                                "Connecting to data sources"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Transformation and Modeling",
+            "submodule": [
+                {
+                    "name": "Power Query and Data Transformation",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Using Power Query Editor",
+                            "description": [
+                                "Importing data from different sources",
+                                "Transforming and cleaning data",
+                                "Using query steps and applied transformations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Modeling in Power BI",
+                            "description": [
+                                "Creating relationships between tables",
+                                "Building data models for reporting",
+                                "Using calculated columns and measures"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Analysis and DAX",
+            "submodule": [
+                {
+                    "name": "Advanced Data Modeling with DAX",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to DAX",
+                            "description": [
+                                "Understanding Data Analysis Expressions (DAX)",
+                                "Creating simple and calculated columns",
+                                "Using basic DAX functions"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Advanced DAX Functions",
+                            "description": [
+                                "Implementing time intelligence functions",
+                                "Using complex DAX expressions for analysis",
+                                "Optimizing DAX formulas for performance"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Visualizing Data in Power BI",
+            "submodule": [
+                {
+                    "name": "Creating Visualizations",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Basic Visualizations",
+                            "description": [
+                                "Creating charts, tables, and maps",
+                                "Using slicers and filters for interactive reports",
+                                "Customizing visual styles and formatting"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Advanced Visualizations",
+                            "description": [
+                                "Using custom visuals from the marketplace",
+                                "Creating dynamic dashboards with bookmarks",
+                                "Implementing drill-through functionality"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Publishing and Sharing Reports",
+            "submodule": [
+                {
+                    "name": "Power BI Service and Collaboration",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Publishing to Power BI Service",
+                            "description": [
+                                "Publishing reports to Power BI Service",
+                                "Managing workspaces and data sets",
+                                "Collaborating with team members"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Sharing and Security",
+                            "description": [
+                                "Configuring report security",
+                                "Sharing reports and dashboards with stakeholders",
+                                "Setting up data refresh schedules"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

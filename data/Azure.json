@@ -1,0 +1,216 @@
+{
+    "hashtag": "In Demand",
+    "title": "Azure Mastery",
+    "roleName": "Cloud Solutions Architect",
+    "description": "Dive deep into Microsoft Azure, one of the leading cloud platforms, and learn to design, deploy, and manage scalable, secure, and resilient cloud applications. This course covers both foundational and advanced concepts to prepare you for Azure certifications and real-world scenarios.",
+    "price": "62000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Hands-On Labs",
+            "description": "Real-world Azure scenarios and projects"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive course is designed to build expertise in Microsoft Azure. Whether you're new to cloud computing or an experienced IT professional, this course equips you with the skills needed to succeed in roles such as Cloud Architect, Azure Administrator, or DevOps Engineer.",
+    "highlights": [
+        {
+            "name": "Azure Core Services",
+            "description": "Understand the essential services like Virtual Machines, Storage, and Networking."
+        },
+        {
+            "name": "Cloud Solution Design",
+            "description": "Architect secure, scalable, and resilient cloud solutions."
+        },
+        {
+            "name": "Azure DevOps",
+            "description": "Implement CI/CD pipelines and automation with Azure DevOps."
+        },
+        {
+            "name": "Serverless Computing",
+            "description": "Develop serverless applications using Azure Functions and Logic Apps."
+        },
+        {
+            "name": "Cost Optimization",
+            "description": "Learn how to monitor, analyze, and optimize Azure costs effectively."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Azure Solutions Architect",
+            "description": "Expert in designing and implementing Azure-based solutions."
+        },
+        {
+            "title": "Cloud Engineer",
+            "description": "Skilled in managing cloud infrastructure on Microsoft Azure."
+        },
+        {
+            "title": "Azure DevOps Engineer",
+            "description": "Specialist in DevOps practices using Azure tools like Pipelines and Repos."
+        },
+        {
+            "title": "Cloud Security Specialist",
+            "description": "Focused on securing Azure cloud environments and applications."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Azure Mastery course?",
+            "answer": "The course spans four months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need prior experience with Azure?",
+            "answer": "No prior experience is required. The course is designed for all skill levels."
+        },
+        {
+            "question": "Will the course prepare me for Azure certification exams?",
+            "answer": "Yes, the course includes preparation for certifications such as AZ-104 and AZ-305."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Azure Fundamentals",
+            "submodule": [
+                {
+                    "name": "Getting Started",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Azure",
+                            "description": [
+                                "Overview of cloud computing and Azure",
+                                "Azure global infrastructure and services",
+                                "Setting up an Azure account and portal navigation",
+                                "Understanding Azure's pricing and cost management"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Core Azure Services",
+                            "description": [
+                                "Understanding Azure Virtual Machines and compute services",
+                                "Storage solutions: Blob, File, and Disk Storage",
+                                "Networking basics with Azure Virtual Network and VPN",
+                                "Introduction to Azure Resource Manager (ARM)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Azure Concepts",
+            "submodule": [
+                {
+                    "name": "Cloud Solution Design",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Designing Scalable Architectures",
+                            "description": [
+                                "Architecting for performance and scalability",
+                                "Implementing high availability and disaster recovery",
+                                "Using Azure Load Balancer and Traffic Manager",
+                                "Monitoring solutions with Azure Monitor and Log Analytics"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data and Storage Solutions",
+                            "description": [
+                                "Implementing Azure SQL and Cosmos DB",
+                                "Data analytics with Azure Data Lake and Synapse",
+                                "Caching strategies with Azure Redis Cache",
+                                "Backup and recovery solutions using Azure Backup"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Azure DevOps and Serverless",
+            "submodule": [
+                {
+                    "name": "DevOps",
+                    "chapters": [
+                        {
+                            "module": "Module 5: Implementing Azure DevOps",
+                            "description": [
+                                "Setting up CI/CD pipelines with Azure Pipelines",
+                                "Version control using Azure Repos",
+                                "Infrastructure as Code with Azure Resource Manager (ARM) templates",
+                                "Monitoring and troubleshooting DevOps workflows"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Serverless Computing",
+                    "chapters": [
+                        {
+                            "module": "Module 6: Developing Serverless Applications",
+                            "description": [
+                                "Introduction to Azure Functions and serverless concepts",
+                                "Workflow automation with Azure Logic Apps",
+                                "Event-driven architectures with Event Grid and Service Bus",
+                                "Best practices for serverless applications"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Optimization and Real-World Scenarios",
+            "submodule": [
+                {
+                    "name": "Cost Management",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Optimizing Azure Costs",
+                            "description": [
+                                "Understanding Azure pricing models",
+                                "Analyzing costs with Azure Cost Management",
+                                "Using Reserved Instances and Spot Instances",
+                                "Setting up budget alerts and cost policies"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Real-World Scenarios",
+                    "chapters": [
+                        {
+                            "module": "Module 8: Practical Use Cases",
+                            "description": [
+                                "Deploying a multi-tier web application on Azure",
+                                "Building a data pipeline with Azure Data Factory",
+                                "Migrating on-premise applications to Azure",
+                                "Securing applications with Azure Security Center and Sentinel"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

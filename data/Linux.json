@@ -1,0 +1,220 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Linux System Administration Mastery",
+    "roleName": "Linux System Administrator",
+    "description": "Master Linux system administration to manage, configure, and secure Linux-based systems. This comprehensive course covers everything from basic Linux commands to advanced system administration skills, providing you with the tools to manage servers and work with Linux-based environments.",
+    "price": "35000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides a deep dive into Linux system administration, equipping you with the skills to manage servers, troubleshoot issues, automate tasks, and secure Linux environments. You'll learn essential Linux commands, package management, user management, and system monitoring techniques.",
+    "highlights": [
+        {
+            "name": "Linux Fundamentals",
+            "description": "Understand Linux architecture, commands, and file system structure."
+        },
+        {
+            "name": "System Administration Tools",
+            "description": "Learn tools for system monitoring, process management, and automation."
+        },
+        {
+            "name": "Networking & Security",
+            "description": "Master networking commands, firewalls, and securing Linux systems."
+        },
+        {
+            "name": "Shell Scripting & Automation",
+            "description": "Automate administrative tasks with bash scripting and cron jobs."
+        },
+        {
+            "name": "Linux in Production",
+            "description": "Manage production environments with Linux servers, troubleshooting, and performance tuning."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Linux System Administrator",
+            "description": "Manage and configure Linux-based systems and servers, ensuring smooth operation and troubleshooting."
+        },
+        {
+            "title": "Cloud Engineer",
+            "description": "Design and implement cloud solutions with Linux-based environments."
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Automate system configurations and manage Linux-based server environments for CI/CD pipelines."
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "description": "Ensure the reliability and uptime of systems by managing Linux-based infrastructures."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with Linux for this course?",
+            "answer": "No prior experience is required. The course covers basic to advanced Linux administration skills."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will configure and manage Linux servers, automate tasks with shell scripts, set up firewalls, and troubleshoot system issues."
+        },
+        {
+            "question": "Will the course cover advanced Linux topics?",
+            "answer": "Yes, the course includes advanced topics such as system security, process management, networking, and performance tuning."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need a Linux environment (either virtual machine or cloud-based), along with text editors like Vim or Nano, and knowledge of basic networking tools."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Linux Basics",
+            "submodule": [
+                {
+                    "name": "Introduction to Linux",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Getting Started with Linux",
+                            "description": [
+                                "Understanding the Linux architecture",
+                                "Installing a Linux distribution (Ubuntu, CentOS, etc.)",
+                                "Navigating the Linux file system and directory structure"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Linux Commands",
+                            "description": [
+                                "File manipulation commands (cp, mv, rm, ls, etc.)",
+                                "Understanding file permissions and ownership",
+                                "Working with users and groups in Linux"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Text Processing and Editors",
+                            "description": [
+                                "Using text editors (Vim, Nano)",
+                                "File searching and text processing with grep, awk, sed"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "System Administration",
+            "submodule": [
+                {
+                    "name": "System Management",
+                    "chapters": [
+                        {
+                            "module": "Module 1: User and Group Management",
+                            "description": [
+                                "Creating, modifying, and deleting users and groups",
+                                "Managing user permissions and access control"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Package Management",
+                            "description": [
+                                "Installing, upgrading, and removing software packages",
+                                "Managing dependencies with apt, yum, and dpkg"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: System Monitoring and Logs",
+                            "description": [
+                                "Monitoring system resources with top, ps, and free",
+                                "Analyzing system logs and troubleshooting"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Networking & Security",
+            "submodule": [
+                {
+                    "name": "Networking Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Configuring Network Interfaces",
+                            "description": [
+                                "Setting up network interfaces",
+                                "Configuring IP addresses, DNS, and DHCP"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Firewall Configuration",
+                            "description": [
+                                "Understanding firewalls and iptables",
+                                "Configuring firewall rules and managing access"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Secure Linux Systems",
+                            "description": [
+                                "Securing SSH access",
+                                "Configuring sudo and SELinux"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Topics",
+            "submodule": [
+                {
+                    "name": "System Optimization & Automation",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Performance Tuning",
+                            "description": [
+                                "Analyzing and optimizing system performance",
+                                "Managing CPU, memory, and disk utilization"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Automating System Administration",
+                            "description": [
+                                "Creating and managing cron jobs",
+                                "Writing shell scripts to automate tasks"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Backup and Recovery",
+                            "description": [
+                                "Setting up system backups and restores",
+                                "Using tools like rsync and tar for backup automation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

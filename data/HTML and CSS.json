@@ -1,0 +1,174 @@
+{
+    "hashtag": "Trending Skills",
+    "title": "HTML and CSS Mastery",
+    "roleName": "Frontend Development Specialist",
+    "description": "Learn the foundations of web development with HTML and CSS. This course will enable you to create responsive, visually appealing websites and user interfaces, covering everything from basic syntax to advanced styling techniques.",
+    "price": "36000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "2 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-relevant",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "No Prior Experience Required",
+            "description": "Beginner-friendly"
+        }
+    ],
+    "about": "This course is tailored for beginners and aspiring web developers. By mastering HTML and CSS, you will gain the ability to structure and style websites effectively, implement responsive design principles, and build visually compelling user experiences.",
+    "highlights": [
+        {
+            "name": "HTML Basics",
+            "description": "Learn the structure of web pages, semantic elements, and attributes."
+        },
+        {
+            "name": "CSS Fundamentals",
+            "description": "Master the basics of styling, selectors, and properties."
+        },
+        {
+            "name": "Responsive Design",
+            "description": "Create mobile-friendly websites using Flexbox, Grid, and Media Queries."
+        },
+        {
+            "name": "Advanced CSS",
+            "description": "Explore animations, transitions, and pseudo-elements."
+        },
+        {
+            "name": "CSS Frameworks",
+            "description": "Introduction to frameworks like Bootstrap and Tailwind CSS."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Frontend Developer",
+            "description": "Specialize in creating structured and visually engaging web pages."
+        },
+        {
+            "title": "UI/UX Designer",
+            "description": "Design user interfaces that are both functional and visually appealing."
+        },
+        {
+            "title": "Web Developer",
+            "description": "Build responsive, accessible websites for various industries."
+        },
+        {
+            "title": "Freelance Web Designer",
+            "description": "Offer web design services using foundational web technologies."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need any prior coding experience to join this course?",
+            "answer": "No, this course is beginner-friendly and starts with the basics."
+        },
+        {
+            "question": "What kind of projects will I build?",
+            "answer": "You will work on responsive web pages, interactive landing pages, and portfolio websites."
+        },
+        {
+            "question": "Will I learn how to make my websites responsive?",
+            "answer": "Yes, the course includes responsive design techniques using CSS Grid and Flexbox."
+        },
+        {
+            "question": "Will I get a certificate after completing the course?",
+            "answer": "Yes, you will receive a certificate upon successful completion of the course."
+        },
+        {
+            "question": "What tools will I need for this course?",
+            "answer": "You will need a text editor (like VS Code) and a modern web browser."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "HTML Essentials",
+            "submodule": [
+                {
+                    "name": "HTML Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to HTML",
+                            "description": [
+                                "Overview of web development",
+                                "Structure of an HTML document",
+                                "Common HTML tags and attributes",
+                                "Semantic HTML and best practices"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Forms and Tables",
+                            "description": [
+                                "Creating forms for user input",
+                                "Input types and validation",
+                                "Building tables for data presentation",
+                                "Accessible web forms and tables"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "CSS Fundamentals",
+            "submodule": [
+                {
+                    "name": "CSS Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Styling with CSS",
+                            "description": [
+                                "Introduction to CSS syntax and rules",
+                                "Applying colors, fonts, and text styles",
+                                "Box model and layout properties"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Responsive Design",
+                            "description": [
+                                "Introduction to Flexbox and Grid",
+                                "Media queries for different devices",
+                                "Building mobile-first designs"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Topics",
+            "submodule": [
+                {
+                    "name": "CSS Techniques",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Animations and Transitions",
+                            "description": [
+                                "Creating CSS animations and keyframes",
+                                "Using transitions for smooth effects",
+                                "Hover effects and interactive designs"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Frameworks and Preprocessors",
+                            "description": [
+                                "Introduction to CSS frameworks",
+                                "Using Bootstrap for rapid prototyping",
+                                "Introduction to preprocessors like SASS"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

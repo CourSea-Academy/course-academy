@@ -1,0 +1,242 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Machine Learning Mastery",
+    "roleName": "Machine Learning Engineer",
+    "description": "Master machine learning concepts and techniques to build intelligent systems. This comprehensive course covers everything from basic machine learning algorithms to advanced deep learning models, empowering you to develop predictive models and deploy machine learning solutions.",
+    "price": "60000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "6 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course dives deep into machine learning, covering essential algorithms, techniques, and frameworks. From data preprocessing to building sophisticated machine learning models, you'll gain hands-on experience in creating predictive solutions for various domains including finance, healthcare, and more.",
+    "highlights": [
+        {
+            "name": "Supervised Learning Algorithms",
+            "description": "Learn algorithms like linear regression, decision trees, and support vector machines."
+        },
+        {
+            "name": "Unsupervised Learning",
+            "description": "Understand clustering and dimensionality reduction techniques like k-means and PCA."
+        },
+        {
+            "name": "Deep Learning",
+            "description": "Master deep learning techniques including neural networks, CNNs, and RNNs."
+        },
+        {
+            "name": "Model Evaluation & Tuning",
+            "description": "Learn techniques for model validation, cross-validation, and hyperparameter tuning."
+        },
+        {
+            "name": "Real-world Machine Learning Projects",
+            "description": "Work on projects involving text analysis, image classification, and predictive analytics."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Machine Learning Engineer",
+            "description": "Design and implement machine learning models for predictive analytics and automation."
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Analyze large datasets to extract insights and build models for decision-making."
+        },
+        {
+            "title": "AI Researcher",
+            "description": "Conduct research to advance machine learning techniques and algorithms."
+        },
+        {
+            "title": "Data Analyst",
+            "description": "Analyze and interpret data to support business decisions using machine learning tools."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need a strong background in mathematics for this course?",
+            "answer": "While a basic understanding of mathematics is helpful, the course covers all the mathematical concepts needed for machine learning."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will work on projects such as house price prediction, image classification, sentiment analysis, and more."
+        },
+        {
+            "question": "Will the course cover deep learning techniques?",
+            "answer": "Yes, the course includes deep learning techniques including neural networks, convolutional neural networks, and recurrent neural networks."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be awarded upon successful completion of the course."
+        },
+        {
+            "question": "What tools and libraries will be used in this course?",
+            "answer": "We will use Python, TensorFlow, Keras, Scikit-learn, and Pandas for building machine learning models."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Machine Learning",
+            "submodule": [
+                {
+                    "name": "Machine Learning Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Machine Learning",
+                            "description": [
+                                "Understanding machine learning and its types (supervised, unsupervised, reinforcement learning)",
+                                "Overview of machine learning algorithms and tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Preprocessing",
+                            "description": [
+                                "Handling missing data and outliers",
+                                "Data scaling and normalization",
+                                "Feature engineering and selection"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Model Evaluation",
+                            "description": [
+                                "Evaluating models using accuracy, precision, recall, F1-score",
+                                "Cross-validation techniques and performance metrics"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Supervised Learning",
+            "submodule": [
+                {
+                    "name": "Regression and Classification",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Linear and Logistic Regression",
+                            "description": [
+                                "Understanding and implementing linear regression",
+                                "Binary and multi-class classification with logistic regression"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Decision Trees and Random Forest",
+                            "description": [
+                                "Building and visualizing decision trees",
+                                "Understanding ensemble learning with Random Forests"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Support Vector Machines (SVM)",
+                            "description": [
+                                "Understanding the concept of hyperplanes and margins",
+                                "Implementing SVM for classification and regression tasks"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Unsupervised Learning",
+            "submodule": [
+                {
+                    "name": "Clustering and Dimensionality Reduction",
+                    "chapters": [
+                        {
+                            "module": "Module 1: K-Means Clustering",
+                            "description": [
+                                "Understanding and implementing K-means algorithm",
+                                "Choosing the right number of clusters"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Principal Component Analysis (PCA)",
+                            "description": [
+                                "Understanding PCA for dimensionality reduction",
+                                "Implementing PCA for data visualization"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Hierarchical Clustering",
+                            "description": [
+                                "Understanding agglomerative and divisive clustering methods",
+                                "Implementing hierarchical clustering"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Deep Learning",
+            "submodule": [
+                {
+                    "name": "Neural Networks and Advanced Architectures",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Neural Networks",
+                            "description": [
+                                "Understanding the structure and training of neural networks",
+                                "Backpropagation and optimization algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Convolutional Neural Networks (CNNs)",
+                            "description": [
+                                "Understanding CNNs for image classification",
+                                "Building and training CNNs using Keras"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Recurrent Neural Networks (RNNs)",
+                            "description": [
+                                "Introduction to RNNs and their applications in time-series data",
+                                "Building RNNs with LSTM for sequential data"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Model Deployment and Real-world Applications",
+            "submodule": [
+                {
+                    "name": "Machine Learning in Production",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Model Deployment",
+                            "description": [
+                                "Techniques for deploying machine learning models to production",
+                                "Using cloud platforms for deployment (AWS, Google Cloud, Azure)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Real-World Applications",
+                            "description": [
+                                "Applications in natural language processing (NLP), computer vision, and predictive analytics"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

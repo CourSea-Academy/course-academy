@@ -1,0 +1,2706 @@
+{
+    "hashtag": "In Demand",
+    "title": "DevOps and Cloud Engineering",
+    "roleName": "DevOps Professional",
+    "description": "Master the principles and practices of DevOps and cloud engineering to streamline your software development lifecycle and scale applications in the cloud. This course covers everything from continuous integration and continuous delivery (CI/CD) to cloud infrastructure management, preparing you to build and maintain resilient, scalable systems.",
+    "price": "50000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        }, 
+        {
+            "name": "4 Months",
+            "description" : "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description" : "Delivery Mode"
+        },
+        {
+            "name": "Industry relevant",
+            "description" : "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner level",
+            "description" : "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive course is designed for aspiring DevOps and cloud engineers. Whether you're a beginner or an experienced professional, this course will equip you with the skills and knowledge to excel in DevOps practices and cloud engineering.",
+    "highlights": [
+        {"name": "CI/CD Pipelines",
+        "description":"Learn to automate your build, test, and deployment processes."},
+        {"name": "Infrastructure as Code",
+        "description": "Master tools like Terraform and Ansible."},
+        {"name": "Cloud Platforms",
+        "description":"Gain expertise in AWS, Azure, and Google Cloud."},
+        {"name": "Monitoring and Logging",
+        "description":"Implement robust monitoring and logging solutions."},
+        {"name": "Real-World Projects",
+        "description":"Work on real-world projects that demonstrate practical applications."},
+        {"name": "Security and Compliance",
+        "description":"Ensure your systems are secure and compliant."}
+    ],
+    "roles": [
+        {
+        "title": "DevOps Engineer",
+        "description": "DevOps Engineer skilled in CI/CD pipelines, Docker, Kubernetes, and Jenkins, optimizing workflows and deployment processes in cloud environments."
+        },
+        {
+        "title": "Cloud Architect",
+        "description": "Cloud Architect with expertise in AWS, Azure, and Google Cloud, specializing in designing secure, scalable, and cost-effective cloud infrastructures."
+        },
+        {
+        "title": "Site Reliability Engineer",
+        "description": "Site Reliability Engineer focused on monitoring, troubleshooting, and automating systems to ensure high availability and scalability of applications."
+        },
+        {
+        "title": "Infrastructure Engineer",
+        "description": "Infrastructure Engineer with experience in IaaS, PaaS, and Terraform, managing cloud infrastructure and maintaining robust deployment environments."
+        }
+    ],
+    "faq":[
+        {
+            "question": "What is the duration of the DevOps and Cloud Engineering course?",
+            "answer": "The course spans six months from the start date."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need to install any specific software before starting the course?",
+            "answer": "Yes, you will be provided a list of required software after enrollment."
+        },
+        {
+            "question": "What are the prerequisites for enrolling in the course?",
+            "answer": "Basic knowledge of Linux, networking, and cloud technologies is recommended."
+        }
+    ],
+        "curriculum": [
+            {
+            "module": "Programming",
+            "submodule": [
+                {
+                    "name": "Python",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Python",
+                            "description": [
+                                "Overview of Python and its features",
+                                "Installing Python and setting up the development environment",
+                                "Python syntax and first program",
+                                "Indentation, keywords, identifiers, and input/output"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Python Basic Constructs",
+                            "description": [
+                                "Variables and memory management",
+                                "Data types, operators, type conversions",
+                                "Comments and implicit/explicit conversions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Control Flow",
+                            "description": [
+                                "Conditional statements (if-else)",
+                                "Loops (for, while, nested)",
+                                "Break, pass, and continue statements"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Python Functions",
+                            "description": [
+                                "Defining, calling functions",
+                                "Lambda functions, recursion",
+                                "Variable scope, *args, and **kwargs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Python Strings",
+                            "description": [
+                                "String methods and formatting",
+                                "Escape sequences and manipulations"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Data Structures",
+                            "description": [
+                                "Lists, tuples, sets, dictionaries",
+                                "Comprehensions for lists and dictionaries"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Object-Oriented Programming",
+                            "description": [
+                                "Classes, objects, inheritance, and encapsulation",
+                                "Dunder methods and advanced concepts"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Exception Handling",
+                            "description": [
+                                "Error handling (try, catch, finally)",
+                                "File handling and custom exceptions"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Python Concepts",
+                            "description": [
+                                "Iterators, generators, decorators",
+                                "Multithreading, multiprocessing",
+                                "Regular expressions and advanced data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Python for Web Development",
+                            "description": [
+                                "Basics of Flask/Django",
+                                "API creation, form handling, and database integration"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Python for Data Analysis",
+                            "description": [
+                                "Pandas, NumPy, and Matplotlib",
+                                "Data visualization and statistics"
+                            ]
+                        }
+                    
+                    ]
+                }
+            ]
+        },
+            {
+            "module": "DSA",
+            "submodule": [
+                {
+                    "name": "Data Structures",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Data Structures",
+                            "description": [
+                                "Overview of data structures and their importance in programming",
+                                "Classification of data structures: linear vs. non-linear",
+                                "Understanding abstract data types (ADTs)",
+                                "Real-world applications of data structures",
+                                "Introduction to algorithm efficiency and complexity analysis",
+                                "Choosing the right data structure for a problem"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Arrays and Strings",
+                            "description": [
+                                "Understanding arrays and their operations",
+                                "Advantages and limitations of arrays",
+                                "Multi-dimensional arrays and their use cases",
+                                "Working with strings as a data structure",
+                                "String operations: concatenation, search, and manipulation",
+                                "Common problems: reverse, palindrome, and substring search"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Linked Lists",
+                            "description": [
+                                "Introduction to linked lists and their types: singly, doubly, and circular",
+                                "Operations on linked lists: insertion, deletion, and traversal",
+                                "Advantages and disadvantages of linked lists vs. arrays",
+                                "Implementing linked lists in code",
+                                "Real-world applications of linked lists",
+                                "Complexity analysis of linked list operations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Stacks and Queues",
+                            "description": [
+                                "Understanding stack data structure and its operations",
+                                "Applications of stacks: expression evaluation and backtracking",
+                                "Introduction to queues and their types: simple, circular, and priority queues",
+                                "Operations on queues: enqueue, dequeue, and peek",
+                                "Implementing stacks and queues using arrays and linked lists",
+                                "Use cases of stacks and queues in real-world scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Trees",
+                            "description": [
+                                "Understanding tree structures and terminology",
+                                "Binary trees and their traversal methods: in-order, pre-order, post-order",
+                                "Binary search trees (BST): properties and operations",
+                                "Balanced trees: AVL and Red-Black trees",
+                                "Heaps and their applications in priority queues",
+                                "Real-world applications of tree data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graphs",
+                            "description": [
+                                "Introduction to graph data structure and terminology",
+                                "Graph representations: adjacency matrix and adjacency list",
+                                "Graph traversal techniques: depth-first search (DFS) and breadth-first search (BFS)",
+                                "Weighted graphs and shortest path algorithms",
+                                "Detecting cycles and connectivity in graphs",
+                                "Applications of graphs in networking, pathfinding, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Hashing and Hash Tables",
+                            "description": [
+                                "Understanding hashing and hash functions",
+                                "Introduction to hash tables and their operations",
+                                "Collision resolution techniques: chaining and open addressing",
+                                "Applications of hash tables in caching, dictionaries, and indexing",
+                                "Implementing hash tables in code",
+                                "Advantages and limitations of hashing"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Data Structures",
+                            "description": [
+                                "Introduction to tries and their use cases in text processing",
+                                "Understanding segment trees and Fenwick trees",
+                                "Disjoint sets (Union-Find) and their applications",
+                                "Sparse tables for range queries",
+                                "Graph-based data structures: adjacency sets and incidence matrices",
+                                "Applications of advanced data structures in competitive programming"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Algorithms",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Algorithms",
+                            "description": [
+                                "Understanding the importance of algorithms in problem-solving",
+                                "Overview of algorithm design and analysis",
+                                "Key characteristics of algorithms: correctness, efficiency, and scalability",
+                                "Classification of algorithms: sorting, searching, graph algorithms, etc.",
+                                "Introduction to time and space complexity",
+                                "Understanding Big-O, Big-Theta, and Big-Omega notations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Sorting and Searching Algorithms",
+                            "description": [
+                                "Overview of sorting algorithms: bubble sort, selection sort, insertion sort",
+                                "Efficient sorting algorithms: merge sort, quick sort, heap sort",
+                                "Comparing sorting algorithms: stability, efficiency, and use cases",
+                                "Linear search and binary search techniques",
+                                "Applications of sorting and searching in real-world scenarios",
+                                "Understanding sorting algorithms’ time complexity"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Divide and Conquer Algorithms",
+                            "description": [
+                                "Introduction to the divide and conquer approach",
+                                "Classic examples: merge sort, quick sort, and binary search",
+                                "Understanding recurrence relations and their solutions",
+                                "Applications of divide and conquer in computational problems",
+                                "Optimizations and challenges in divide and conquer algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Dynamic Programming",
+                            "description": [
+                                "Understanding the principles of dynamic programming",
+                                "Solving overlapping subproblems and optimal substructure",
+                                "Classic problems: Fibonacci, knapsack problem, and longest common subsequence",
+                                "Top-down (memoization) vs. bottom-up (tabulation) approaches",
+                                "Applications of dynamic programming in optimization problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Greedy Algorithms",
+                            "description": [
+                                "Understanding the greedy algorithm paradigm",
+                                "Key properties: greedy-choice property and optimal substructure",
+                                "Classic examples: activity selection, Huffman coding, and minimum spanning tree",
+                                "Greedy vs. dynamic programming: differences and applications",
+                                "Analyzing and implementing greedy algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graph Algorithms",
+                            "description": [
+                                "Introduction to graphs and their representations",
+                                "Depth-first search (DFS) and breadth-first search (BFS)",
+                                "Shortest path algorithms: Dijkstra’s and Bellman-Ford",
+                                "Minimum spanning tree algorithms: Kruskal’s and Prim’s",
+                                "Applications of graph algorithms in real-world scenarios",
+                                "Understanding graph traversal and connectivity"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Backtracking and Recursion",
+                            "description": [
+                                "Understanding the concept of backtracking",
+                                "Classic problems: N-Queens, Sudoku, and Hamiltonian cycle",
+                                "Recursion fundamentals and its role in algorithm design",
+                                "Memoization and pruning techniques in backtracking",
+                                "Applications and limitations of backtracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Topics and Optimization",
+                            "description": [
+                                "Introduction to randomized algorithms",
+                                "Understanding and solving NP-complete problems",
+                                "Branch and bound techniques",
+                                "Approximation algorithms for intractable problems",
+                                "Parallel algorithms and their applications",
+                                "Real-world applications of advanced algorithms"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Database",
+            "submodule": [
+                {
+                "name": "SQL",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Databases",
+                        "description": [
+                            "Overview of databases and their importance in data management",
+                            "Types of databases (Relational and Non-Relational)",
+                            "DBMS architecture and its role in modern applications",
+                            "Setting up and configuring a database management system"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Database Design Concepts",
+                        "description": [
+                            "Data modeling and understanding the relational database model",
+                            "Entities, attributes, and relationships",
+                            "Keys and constraints in relational databases",
+                            "Data types and functional dependencies",
+                            "Normalization (1NF, 2NF, 3NF) and denormalization"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Create, Alter, and Drop Databases and Tables",
+                        "description": [
+                            "Creating and dropping databases and tables",
+                            "Altering tables and creating relationships",
+                            "Understanding character sets and collations"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Insert, Update, and Delete Data",
+                        "description": [
+                            "Inserting single and multiple rows",
+                            "Using subqueries in updates",
+                            "Deleting rows and restoring databases"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Retrieving Data From a Single Table",
+                        "description": [
+                            "SELECT clause, FROM clause, WHERE clause",
+                            "Relational and logical operators",
+                            "IN, BETWEEN, and LIKE operators",
+                            "REGEXP operator and sorting with ORDER BY",
+                            "LIMIT clause for paginated results"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Retrieving Data From Multiple Tables",
+                        "description": [
+                            "Inner joins and outer joins (left, right, full)",
+                            "Compound join conditions and USING clause",
+                            "Self joins, cross joins, and unions"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Subqueries and Complex Queries",
+                        "description": [
+                            "Writing subqueries (correlated subqueries, in SELECT, FROM, WHERE clauses)",
+                            "Using EXISTS and NOT EXISTS operators",
+                            "ALL and ANY keywords for comparisons"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Summarizing Data and Essential Functions",
+                        "description": [
+                            "DISTINCT keyword for unique results",
+                            "Aggregate functions and GROUP BY clause",
+                            "HAVING clause and ROLLUP operator",
+                            "Built-in functions: string, numeric, date functions",
+                            "Conditional logic with IFNULL, COALESCE, IF, and CASE"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Views, Stored Procedures, and Triggers",
+                        "description": [
+                            "Creating, altering, and dropping views",
+                            "Stored procedures and functions (parameters and variables)",
+                            "Creating triggers and handling events"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Transactions and Concurrency",
+                        "description": [
+                            "Understanding ACID properties",
+                            "Concurrency and locking mechanisms",
+                            "Transaction isolation levels and handling deadlocks"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Indexing for High Performance",
+                        "description": [
+                            "Creating and managing indexes (full-text, composite, covering indexes)",
+                            "Using indexes for sorting and optimizing queries",
+                            "Index maintenance and scenarios when indexes are ignored"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Securing Databases",
+                        "description": [
+                            "Creating, viewing, and dropping users",
+                            "Granting, revoking, and managing privileges",
+                            "Password management and database security"
+                        ]
+                    }
+                ]
+                
+            }
+            ]
+        },
+        {
+            "module": "Linux",
+            "submodule": [
+                {
+                    "name": "Linux Commands",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Linux",
+                            "description": [
+                                "Overview of Linux operating system and distributions",
+                                "Understanding the Linux file system hierarchy",
+                                "Basic Linux shell and terminal introduction",
+                                "Key differences between Linux and other operating systems",
+                                "Importance of Linux commands in system administration"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Linux Commands",
+                            "description": [
+                                "Navigating the file system with 'ls', 'cd', and 'pwd'",
+                                "Creating, copying, moving, and deleting files with 'touch', 'cp', 'mv', and 'rm'",
+                                "Viewing and editing files using 'cat', 'nano', and 'vi'",
+                                "Checking disk usage with 'df' and 'du'",
+                                "Using 'man' and 'help' for command documentation"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: User and Group Management",
+                            "description": [
+                                "Creating and managing users with 'useradd', 'usermod', and 'passwd'",
+                                "Managing groups with 'groupadd', 'groupmod', and 'gpasswd'",
+                                "Switching users with 'su' and 'sudo'",
+                                "Setting file permissions using 'chmod' and ownership with 'chown'",
+                                "Understanding user roles and access levels"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Process Management",
+                            "description": [
+                                "Listing processes with 'ps' and 'top'",
+                                "Killing processes using 'kill' and 'pkill'",
+                                "Monitoring system performance with 'htop' and 'vmstat'",
+                                "Scheduling tasks with 'cron' and 'at'",
+                                "Managing background processes with 'jobs', 'bg', and 'fg'"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Networking Commands",
+                            "description": [
+                                "Checking network configuration with 'ifconfig' and 'ip'",
+                                "Testing connectivity with 'ping' and 'traceroute'",
+                                "Viewing open ports with 'netstat' and 'ss'",
+                                "Downloading files using 'wget' and 'curl'",
+                                "Managing network connections with 'nmcli'"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: File Archiving and Compression",
+                            "description": [
+                                "Creating and extracting archives with 'tar'",
+                                "Compressing files using 'gzip', 'bzip2', and 'zip'",
+                                "Decompressing files with 'gunzip', 'bunzip2', and 'unzip'",
+                                "Viewing archive contents without extraction",
+                                "Combining archiving and compression for efficient storage"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Disk and Storage Management",
+                            "description": [
+                                "Partitioning and formatting disks with 'fdisk' and 'mkfs'",
+                                "Mounting and unmounting file systems using 'mount' and 'umount'",
+                                "Checking disk health with 'fsck' and 'e2fsck'",
+                                "Monitoring disk I/O with 'iostat'",
+                                "Managing swap space with 'swapon' and 'swapoff'"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Linux Commands",
+                            "description": [
+                                "Using 'find' and 'locate' to search for files",
+                                "Filtering and processing text with 'grep', 'awk', and 'sed'",
+                                "Writing scripts using 'bash' and executing them",
+                                "Customizing the shell environment with 'alias' and 'export'",
+                                "Automating tasks with shell scripting and variables"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: System Security and Permissions",
+                            "description": [
+                                "Understanding SELinux and AppArmor",
+                                "Setting advanced permissions with 'setfacl' and 'getfacl'",
+                                "Using 'ssh' for secure remote access",
+                                "Managing firewalls with 'iptables' and 'ufw'",
+                                "Monitoring system logs for security events using 'dmesg' and 'journalctl'"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Troubleshooting and Maintenance",
+                            "description": [
+                                "Diagnosing system issues with 'dmesg' and 'systemctl'",
+                                "Recovering files with 'fsck' and data recovery tools",
+                                "Monitoring system logs with 'tail' and 'less'",
+                                "Updating and upgrading software using package managers ('apt', 'yum')",
+                                "Creating system backups with 'rsync' and snapshots"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shell Scripting",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Shell Scripting",
+                            "description": [
+                                "Overview of shell scripting and its applications",
+                                "Understanding different types of shells (Bash, Zsh, etc.)",
+                                "Setting up the environment for shell scripting",
+                                "Writing and executing your first shell script",
+                                "Understanding the importance of the shebang (#!)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Shell Commands and Syntax",
+                            "description": [
+                                "Using basic Linux commands in scripts (ls, cd, pwd, etc.)",
+                                "Working with variables and environment variables",
+                                "Using echo and printf for output",
+                                "Understanding quotes (single, double, and backticks)",
+                                "Using comments to document scripts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Control Structures",
+                            "description": [
+                                "Using conditional statements (if-else, elif)",
+                                "Working with loops (for, while, until)",
+                                "Switch-case statements for decision-making",
+                                "Break and continue statements in loops",
+                                "Nesting loops and conditionals for complex logic"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Input and Output Handling",
+                            "description": [
+                                "Reading user input with 'read'",
+                                "Redirecting input and output using '>', '>>', and '<'",
+                                "Understanding and using file descriptors",
+                                "Error handling with 'stderr' and 'exit codes'",
+                                "Working with pipes ('|') and process substitution"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Working with Files and Directories",
+                            "description": [
+                                "Creating, deleting, and manipulating files and directories",
+                                "Using 'find' and 'grep' for file searches",
+                                "Understanding and modifying file permissions",
+                                "Automating file operations in scripts",
+                                "Processing and transforming text files with 'awk' and 'sed'"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Functions in Shell Scripts",
+                            "description": [
+                                "Defining and calling functions",
+                                "Passing arguments to functions",
+                                "Using return values in functions",
+                                "Understanding local vs. global variables",
+                                "Organizing reusable code with functions"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Shell Scripting Concepts",
+                            "description": [
+                                "Working with arrays and associative arrays",
+                                "Using regular expressions for pattern matching",
+                                "Scripting with positional parameters and special variables",
+                                "Understanding process management with '&' and 'jobs'",
+                                "Working with cron jobs for task scheduling"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Debugging and Optimizing Scripts",
+                            "description": [
+                                "Debugging scripts using 'set -x' and 'set -e'",
+                                "Identifying common errors and troubleshooting",
+                                "Improving script performance with best practices",
+                                "Using shellcheck to analyze script syntax",
+                                "Handling edge cases and error scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Real-World Applications",
+                            "description": [
+                                "Automating system administration tasks",
+                                "Creating backup and restore scripts",
+                                "Scripting for log analysis and monitoring",
+                                "Interfacing with APIs using 'curl' and 'wget'",
+                                "Building deployment pipelines with shell scripts"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Integrating Shell Scripting with Other Tools",
+                            "description": [
+                                "Using shell scripts in conjunction with Python and Perl",
+                                "Interfacing with databases using shell commands",
+                                "Integrating with DevOps tools like Jenkins and Docker",
+                                "Executing shell scripts in cloud environments",
+                                "Creating hybrid workflows with shell and external tools"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Tools",
+            "submodule": [
+                {
+                    "name": "Docker",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Docker",
+                            "description": [
+                                "Understanding the concept of containerization",
+                                "Overview of Docker and its ecosystem",
+                                "Key differences between containers and virtual machines",
+                                "Installing and setting up Docker",
+                                "Basic Docker terminology: images, containers, volumes, and networks"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Docker Images",
+                            "description": [
+                                "Understanding Docker images and their structure",
+                                "Using Docker Hub and private registries",
+                                "Pulling and running pre-built images",
+                                "Building custom images with Dockerfiles",
+                                "Optimizing image layers for performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Managing Docker Containers",
+                            "description": [
+                                "Creating and running containers",
+                                "Starting, stopping, and restarting containers",
+                                "Inspecting and monitoring running containers",
+                                "Understanding container logs and debugging",
+                                "Managing container persistence with volumes"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Networking in Docker",
+                            "description": [
+                                "Understanding Docker networking basics",
+                                "Working with bridge, host, and overlay networks",
+                                "Connecting containers to custom networks",
+                                "Linking containers for inter-container communication",
+                                "Configuring ports and network isolation"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Docker Compose",
+                            "description": [
+                                "Overview of Docker Compose and its use cases",
+                                "Writing a docker-compose.yml file",
+                                "Managing multi-container applications",
+                                "Scaling services with Docker Compose",
+                                "Environment variable management in Compose"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Docker Volumes and Storage",
+                            "description": [
+                                "Understanding data persistence in Docker",
+                                "Using volumes to share data between containers",
+                                "Managing volume lifecycle and cleanup",
+                                "Working with bind mounts and tmpfs mounts",
+                                "Best practices for data storage in Docker"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Dockerizing Applications",
+                            "description": [
+                                "Dockerizing a simple web application",
+                                "Using multi-stage builds for optimized images",
+                                "Understanding entrypoint and CMD instructions",
+                                "Handling application dependencies in containers",
+                                "Testing and debugging Dockerized applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Docker in DevOps Workflows",
+                            "description": [
+                                "Integrating Docker with CI/CD pipelines",
+                                "Using Docker with Jenkins, GitLab CI, and GitHub Actions",
+                                "Container orchestration basics with Kubernetes",
+                                "Automating builds and deployments using Docker",
+                                "Best practices for DevOps with Docker"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Docker Concepts",
+                            "description": [
+                                "Understanding Docker Swarm for container orchestration",
+                                "Securing Docker containers and images",
+                                "Optimizing Docker performance for production",
+                                "Using Docker secrets and config management",
+                                "Monitoring and logging Docker containers"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Real-World Use Cases and Best Practices",
+                            "description": [
+                                "Deploying microservices with Docker",
+                                "Building scalable APIs using Docker",
+                                "Working with databases and caching in containers",
+                                "Troubleshooting and resolving common Docker issues",
+                                "Implementing best practices for container management"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kubernetes",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Kubernetes",
+                            "description": [
+                                "Overview of Kubernetes and container orchestration",
+                                "Understanding the Kubernetes architecture",
+                                "Key components: nodes, pods, and clusters",
+                                "Installing and setting up Kubernetes locally (Minikube, Kind)",
+                                "Understanding Kubernetes use cases in modern DevOps"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Kubernetes Pods",
+                            "description": [
+                                "Introduction to Kubernetes Pods and their lifecycle",
+                                "Creating and managing Pods using YAML configurations",
+                                "Multi-container Pods and communication",
+                                "Debugging and troubleshooting Pods",
+                                "Understanding init containers and sidecar patterns"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Kubernetes Deployments and ReplicaSets",
+                            "description": [
+                                "Defining and creating Kubernetes Deployments",
+                                "Scaling applications with ReplicaSets",
+                                "Rolling updates and rollbacks for deployments",
+                                "Managing application availability and versioning",
+                                "Using deployment strategies effectively"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Services and Networking in Kubernetes",
+                            "description": [
+                                "Understanding Kubernetes Services and their types",
+                                "Exposing applications with NodePort, ClusterIP, and LoadBalancer",
+                                "Using Ingress controllers for HTTP and HTTPS traffic",
+                                "Configuring DNS within Kubernetes clusters",
+                                "Networking policies and security in Kubernetes"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: ConfigMaps and Secrets",
+                            "description": [
+                                "Using ConfigMaps to manage application configuration",
+                                "Securing sensitive data with Kubernetes Secrets",
+                                "Mounting ConfigMaps and Secrets as environment variables or files",
+                                "Best practices for managing configuration data",
+                                "Versioning and updating ConfigMaps and Secrets"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Kubernetes Storage and Persistent Volumes",
+                            "description": [
+                                "Understanding Persistent Volumes (PVs) and Persistent Volume Claims (PVCs)",
+                                "Working with Storage Classes and dynamic provisioning",
+                                "Using hostPath, NFS, and cloud-based storage",
+                                "Data persistence strategies for stateful applications",
+                                "Managing volume lifecycle and backups"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Monitoring and Logging in Kubernetes",
+                            "description": [
+                                "Introduction to monitoring Kubernetes clusters",
+                                "Using tools like Prometheus and Grafana",
+                                "Centralized logging with Fluentd and Elasticsearch",
+                                "Debugging applications using Kubernetes logs",
+                                "Setting up health checks (readiness and liveness probes)"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Security in Kubernetes",
+                            "description": [
+                                "Understanding Kubernetes security principles",
+                                "Role-Based Access Control (RBAC) and authentication",
+                                "Securing workloads with network policies",
+                                "Using Pod Security Policies and security contexts",
+                                "Image security and vulnerability scanning"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Kubernetes Concepts",
+                            "description": [
+                                "Introduction to StatefulSets for stateful applications",
+                                "Understanding DaemonSets and their use cases",
+                                "Jobs and CronJobs for batch processing",
+                                "Custom Resources and Operators",
+                                "Autoscaling with Horizontal Pod Autoscaler (HPA) and Vertical Pod Autoscaler (VPA)"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Kubernetes in Production",
+                            "description": [
+                                "Best practices for deploying Kubernetes in production",
+                                "Cluster management and upgrades",
+                                "Integrating Kubernetes with CI/CD pipelines",
+                                "Using Helm for application packaging and deployment",
+                                "High availability and disaster recovery strategies"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Real-World Use Cases and Ecosystem Tools",
+                            "description": [
+                                "Building and deploying microservices with Kubernetes",
+                                "Using Kubernetes with service meshes like Istio or Linkerd",
+                                "Exploring cloud-managed Kubernetes services (EKS, AKS, GKE)",
+                                "Container orchestration beyond Kubernetes",
+                                "Hands-on projects and case studies"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jenkins",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Jenkins",
+                            "description": [
+                                "Overview of Jenkins and its role in CI/CD pipelines",
+                                "Understanding Jenkins architecture and components",
+                                "Key features and benefits of using Jenkins",
+                                "Installing and setting up Jenkins on different platforms",
+                                "Jenkins plugins and their significance"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Jenkins Configuration and Management",
+                            "description": [
+                                "Setting up Jenkins projects and jobs",
+                                "Understanding freestyle and pipeline jobs",
+                                "Configuring system settings and global tools",
+                                "Managing Jenkins users and security",
+                                "Using Jenkinsfile for pipeline configuration"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Continuous Integration with Jenkins",
+                            "description": [
+                                "Integrating source code repositories with Jenkins (Git, SVN)",
+                                "Automating build processes with Maven and Gradle",
+                                "Triggering builds using webhooks and polling",
+                                "Setting up post-build actions and notifications",
+                                "Managing build artifacts and storage"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Continuous Delivery and Deployment",
+                            "description": [
+                                "Setting up pipelines for continuous delivery",
+                                "Automating deployment to staging and production",
+                                "Using Jenkins with Docker for containerized deployments",
+                                "Integrating Jenkins with Kubernetes for orchestration",
+                                "Rollback strategies and deployment best practices"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Jenkins Pipelines and Groovy Scripting",
+                            "description": [
+                                "Understanding Jenkins declarative and scripted pipelines",
+                                "Writing Jenkinsfile for pipeline jobs",
+                                "Using Groovy scripting for advanced pipeline features",
+                                "Managing multi-branch pipelines",
+                                "Pipeline visualization and troubleshooting"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Jenkins Plugins and Integrations",
+                            "description": [
+                                "Exploring essential Jenkins plugins for CI/CD",
+                                "Integrating Jenkins with version control systems",
+                                "Integrating Jenkins with testing tools like Selenium and JUnit",
+                                "Using Jenkins with monitoring tools like Prometheus",
+                                "Managing plugin updates and compatibility"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Automated Testing with Jenkins",
+                            "description": [
+                                "Setting up automated testing frameworks with Jenkins",
+                                "Running unit tests, integration tests, and functional tests",
+                                "Generating test reports and dashboards",
+                                "Integrating Jenkins with testing frameworks (TestNG, JUnit)",
+                                "Debugging and resolving test failures"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Jenkins Security and Best Practices",
+                            "description": [
+                                "Securing Jenkins using Role-Based Access Control (RBAC)",
+                                "Configuring credentials and secrets management",
+                                "Backup and restore strategies for Jenkins",
+                                "Ensuring Jenkins availability with distributed builds",
+                                "Performance optimization and best practices"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Scaling Jenkins for Enterprise Use",
+                            "description": [
+                                "Setting up Jenkins master-slave architecture",
+                                "Configuring distributed builds with agents",
+                                "Using Jenkins in cloud environments",
+                                "Handling large-scale projects and job configurations",
+                                "Monitoring and managing Jenkins performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Jenkins in Real-World Scenarios",
+                            "description": [
+                                "CI/CD implementation in DevOps workflows",
+                                "Using Jenkins with Docker and Kubernetes",
+                                "Case studies of Jenkins in production environments",
+                                "Migrating legacy pipelines to Jenkins",
+                                "Hands-on projects and exercises"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Terraform",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Terraform",
+                            "description": [
+                                "Overview of Infrastructure as Code (IaC)",
+                                "Introduction to Terraform and its features",
+                                "Understanding the Terraform workflow",
+                                "Installing and configuring Terraform",
+                                "Terraform CLI basics and key commands"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Terraform Configuration and Syntax",
+                            "description": [
+                                "Understanding Terraform configuration files",
+                                "Defining providers and resources",
+                                "Using variables and outputs for dynamic configurations",
+                                "Working with resource dependencies",
+                                "Best practices for structuring Terraform projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: State Management in Terraform",
+                            "description": [
+                                "Understanding the Terraform state file",
+                                "Configuring and managing remote state storage",
+                                "State locking and concurrency control",
+                                "Using `terraform import` to manage existing resources",
+                                "Handling state file drift and troubleshooting"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Modules and Reusability",
+                            "description": [
+                                "Introduction to Terraform modules",
+                                "Creating reusable and shareable modules",
+                                "Using community modules from the Terraform Registry",
+                                "Organizing and versioning modules",
+                                "Best practices for modular design"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Managing Infrastructure at Scale",
+                            "description": [
+                                "Using workspaces for managing multiple environments",
+                                "Understanding resource graphs and parallelism",
+                                "Handling large-scale deployments",
+                                "Terraform strategies for collaboration in teams",
+                                "Integrating Terraform with CI/CD pipelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Terraform Provisioners and Dynamic Resources",
+                            "description": [
+                                "Understanding provisioners and their use cases",
+                                "Using local and remote-exec provisioners",
+                                "Configuring dynamic blocks and resource configurations",
+                                "Creating complex infrastructure with loops and conditionals",
+                                "Best practices for managing sensitive data with provisioners"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Terraform Features",
+                            "description": [
+                                "Working with Terraform data sources",
+                                "Using lifecycle rules for resource management",
+                                "Configuring provider aliases and multiple providers",
+                                "Debugging and troubleshooting Terraform configurations",
+                                "Understanding and using Terraform Cloud/Enterprise"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Security and Compliance in Terraform",
+                            "description": [
+                                "Securing sensitive data with Terraform Vault",
+                                "Managing secrets and environment variables",
+                                "Using Terraform Sentinel for policy enforcement",
+                                "Compliance as code with Terraform",
+                                "Best practices for secure infrastructure provisioning"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Multi-Cloud Management with Terraform",
+                            "description": [
+                                "Using Terraform for multi-cloud deployments",
+                                "Configuring resources across AWS, Azure, and Google Cloud",
+                                "Managing cloud-specific Terraform providers",
+                                "Cost optimization strategies using Terraform",
+                                "Real-world use cases and examples"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Case Studies",
+                            "description": [
+                                "Building a complete infrastructure on AWS with Terraform",
+                                "Implementing a CI/CD pipeline with Terraform and Jenkins",
+                                "Deploying containerized applications using Terraform and Kubernetes",
+                                "Automating disaster recovery setups with Terraform",
+                                "Analyzing case studies of Terraform in production"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Git",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Git",
+                            "description": [
+                                "Overview of version control systems (VCS)",
+                                "Introduction to Git and its importance",
+                                "Installing and configuring Git",
+                                "Understanding Git's architecture and workflows",
+                                "Basic Git commands: init, status, add, and commit",
+                                "The concept of the staging area and commit history",
+                                "Setting up a .gitignore file"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Repositories",
+                            "description": [
+                                "Creating and initializing a repository",
+                                "Cloning remote repositories",
+                                "Understanding the working directory, staging area, and local repository",
+                                "Navigating repository history using git log",
+                                "Undoing changes with git checkout, git reset, and git revert",
+                                "Removing files and folders from tracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Branching and Merging",
+                            "description": [
+                                "Understanding branches and their importance",
+                                "Creating and switching branches",
+                                "Merging branches and resolving conflicts",
+                                "Using git stash for temporary changes",
+                                "Deleting branches: local and remote",
+                                "Exploring branch visualization tools: git log and gitk"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Remote Repositories",
+                            "description": [
+                                "Linking local repositories to remote servers",
+                                "Pushing changes to remote repositories",
+                                "Pulling changes from remote repositories",
+                                "Fetching updates and syncing branches",
+                                "Working with remote tracking branches",
+                                "Collaborating with others using Git"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Git Features",
+                            "description": [
+                                "Rebasing branches and interactive rebase",
+                                "Cherry-picking specific commits",
+                                "Working with tags: creating and managing",
+                                "Using Git hooks for automation",
+                                "Managing submodules for nested repositories",
+                                "Exploring Git worktrees for multiple working directories"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Troubleshooting and Best Practices",
+                            "description": [
+                                "Debugging issues with git diff and git bisect",
+                                "Handling merge conflicts effectively",
+                                "Optimizing repository performance",
+                                "Cleaning up repositories with git gc and git prune",
+                                "Understanding Git best practices for teams",
+                                "Maintaining a clean and organized commit history"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GitHub",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GitHub",
+                            "description": [
+                                "Understanding Git and GitHub: Key differences and use cases",
+                                "Setting up a GitHub account and configuring Git",
+                                "Overview of GitHub's interface and key features",
+                                "Creating and managing repositories",
+                                "Cloning repositories to local machines",
+                                "Understanding branches and branching workflows",
+                                "Introduction to commits and commit messages",
+                                "Viewing and comparing code changes (diffs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Collaboration and Workflow",
+                            "description": [
+                                "Forking repositories and creating pull requests",
+                                "Code reviews and merging changes",
+                                "Managing issues and labels",
+                                "Using milestones and project boards for task management",
+                                "Introduction to GitHub Actions for CI/CD",
+                                "Collaborating with teams using GitHub discussions",
+                                "Resolving merge conflicts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced GitHub Features",
+                            "description": [
+                                "Customizing repositories with README files and Markdown",
+                                "Using GitHub Pages for static site hosting",
+                                "Managing access and permissions for repositories",
+                                "Creating and using templates for issues and pull requests",
+                                "Exploring GitHub GraphQL API for advanced workflows",
+                                "Monitoring repository activity and insights",
+                                "Automating tasks with webhooks and integrations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Best Practices and Security",
+                            "description": [
+                                "Writing clear and concise commit messages",
+                                "Structuring branches for effective collaboration",
+                                "Implementing code reviews and quality checks",
+                                "Setting up repository security and access controls",
+                                "Using Dependabot for dependency management",
+                                "Backing up and archiving repositories"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ansible",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Ansible",
+                            "description": [
+                                "Understanding Configuration Management and Automation",
+                                "Introduction to Ansible and its key features",
+                                "Setting up Ansible and basic prerequisites",
+                                "Understanding Ansible architecture and components",
+                                "Introduction to YAML for Ansible Playbooks"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Ansible Inventory and Ad-Hoc Commands",
+                            "description": [
+                                "Understanding the Ansible inventory file",
+                                "Configuring static and dynamic inventories",
+                                "Working with ad-hoc commands for quick tasks",
+                                "Managing groups and host variables",
+                                "Best practices for organizing inventory files"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Ansible Playbooks",
+                            "description": [
+                                "Introduction to Playbooks and their structure",
+                                "Writing and running your first Playbook",
+                                "Understanding tasks, modules, and handlers",
+                                "Using variables, loops, and conditionals",
+                                "Debugging and error handling in Playbooks"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Ansible Modules",
+                            "description": [
+                                "Overview of Ansible modules and their use cases",
+                                "Managing files, packages, and services with modules",
+                                "Working with cloud modules for AWS, Azure, and GCP",
+                                "Using custom modules and community-contributed modules",
+                                "Exploring Ansible Galaxy for reusable modules"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Role-Based Automation with Ansible",
+                            "description": [
+                                "Understanding and creating Ansible roles",
+                                "Organizing Playbooks with roles",
+                                "Using dependencies and role variables",
+                                "Sharing and using roles from Ansible Galaxy",
+                                "Best practices for designing reusable roles"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Ansible Vault and Security",
+                            "description": [
+                                "Introduction to Ansible Vault for managing sensitive data",
+                                "Encrypting and decrypting sensitive files",
+                                "Using Vault in Playbooks and roles",
+                                "Best practices for securing Ansible projects",
+                                "Handling SSH keys and access management"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Ansible Concepts",
+                            "description": [
+                                "Using Ansible facts for dynamic configurations",
+                                "Working with plugins: callback, lookup, and filter plugins",
+                                "Managing complex workflows with Ansible Tower/AWX",
+                                "Using tags for selective task execution",
+                                "Error recovery and task retries in Playbooks"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Ansible for Cloud and DevOps",
+                            "description": [
+                                "Provisioning cloud resources with Ansible",
+                                "Integrating Ansible with Docker and Kubernetes",
+                                "Deploying applications using CI/CD pipelines with Ansible",
+                                "Automating infrastructure scaling with Ansible",
+                                "Case studies of Ansible in DevOps workflows"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Troubleshooting and Optimization",
+                            "description": [
+                                "Debugging Ansible Playbooks and modules",
+                                "Understanding and resolving common errors",
+                                "Improving Playbook performance and efficiency",
+                                "Analyzing Ansible logs for troubleshooting",
+                                "Optimizing Ansible workflows for large environments"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Configuring a multi-node web server using Ansible",
+                                "Setting up a CI/CD pipeline with Ansible and Jenkins",
+                                "Deploying containerized applications with Ansible and Docker",
+                                "Automating database backups and restores using Ansible",
+                                "Implementing security patches across a large fleet of servers"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Prometheus",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Prometheus",
+                            "description": [
+                                "Overview of Prometheus and its role in monitoring and alerting",
+                                "Prometheus architecture and components",
+                                "Installing and configuring Prometheus",
+                                "Understanding the Prometheus data model",
+                                "Setting up and running Prometheus server"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Prometheus Metrics and Queries",
+                            "description": [
+                                "Understanding Prometheus metrics types: counters, gauges, histograms, and summaries",
+                                "Writing and collecting metrics from applications",
+                                "Introduction to PromQL (Prometheus Query Language)",
+                                "Basic queries and expressions in PromQL",
+                                "Using Prometheus UI to explore metrics and run queries"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Prometheus Scraping and Exporters",
+                            "description": [
+                                "Understanding Prometheus scraping model",
+                                "Setting up Prometheus to scrape metrics from targets",
+                                "Introduction to exporters for different systems (Node Exporter, Blackbox Exporter, etc.)",
+                                "Configuring custom exporters for your applications",
+                                "Best practices for scraping and metrics collection"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Alerting with Prometheus and Alertmanager",
+                            "description": [
+                                "Setting up Prometheus alerting rules",
+                                "Introduction to Alertmanager for alert processing",
+                                "Configuring Alertmanager with Prometheus for alerting workflows",
+                                "Grouping, routing, and inhibiting alerts in Alertmanager",
+                                "Integrating Prometheus alerts with notification channels (email, Slack, etc.)"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Prometheus Storage and Retention",
+                            "description": [
+                                "Understanding data retention and storage in Prometheus",
+                                "Configuring Prometheus storage backends and retention policies",
+                                "Optimizing storage performance in large-scale environments",
+                                "Using remote storage for Prometheus data",
+                                "Handling time series data and downsampling"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Visualizing Data with Prometheus and Grafana",
+                            "description": [
+                                "Integrating Prometheus with Grafana for visualizing metrics",
+                                "Setting up Grafana dashboards for Prometheus metrics",
+                                "Creating custom visualizations and panels",
+                                "Using Grafana's Prometheus data source for advanced queries",
+                                "Best practices for creating meaningful monitoring dashboards"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Scaling and High Availability in Prometheus",
+                            "description": [
+                                "Designing Prometheus for high availability and scalability",
+                                "Configuring Prometheus with federation for multi-cluster monitoring",
+                                "Scaling Prometheus with sharding and clustering",
+                                "Using Thanos and Cortex for long-term storage and high availability",
+                                "Best practices for managing Prometheus at scale"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Prometheus and Kubernetes Monitoring",
+                            "description": [
+                                "Introduction to monitoring Kubernetes with Prometheus",
+                                "Setting up Prometheus on Kubernetes using Helm",
+                                "Scraping metrics from Kubernetes clusters and services",
+                                "Monitoring containerized applications with Prometheus",
+                                "Configuring Prometheus and Alertmanager in Kubernetes environments"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Prometheus Topics",
+                            "description": [
+                                "Using Prometheus for distributed tracing and observability",
+                                "Building and managing custom metrics in Prometheus",
+                                "Prometheus Operator for Kubernetes management",
+                                "Understanding Prometheus' limitations and potential workarounds",
+                                "Automating Prometheus configurations using APIs and tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Setting up Prometheus to monitor a multi-tier web application",
+                                "Building a full-stack monitoring solution with Prometheus and Grafana",
+                                "Implementing alerts for service health, resource usage, and failures",
+                                "Integrating Prometheus monitoring with cloud platforms (AWS, GCP, Azure)",
+                                "Handling large-scale alerting and monitoring with Prometheus and Kubernetes"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Puppet",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Puppet",
+                            "description": [
+                                "Overview of Puppet and its role in configuration management",
+                                "Understanding Puppet's architecture and components",
+                                "Installing Puppet and setting up a basic Puppet environment",
+                                "Introduction to Puppet manifests and resources",
+                                "Running Puppet agent and master setup"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Puppet Language Basics",
+                            "description": [
+                                "Understanding Puppet's declarative language",
+                                "Writing Puppet manifests and using resources",
+                                "Variables, classes, and definitions in Puppet",
+                                "Conditional statements and loops in Puppet",
+                                "Best practices for writing clean and maintainable Puppet code"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Puppet Resource Management",
+                            "description": [
+                                "Understanding Puppet resources and their types (file, package, service, etc.)",
+                                "Managing system packages, services, and files with Puppet",
+                                "Using resource parameters and attributes",
+                                "Ensuring idempotency with Puppet resources",
+                                "Testing and validating Puppet code for correct resource management"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Puppet Modules and Classes",
+                            "description": [
+                                "Creating and managing Puppet modules",
+                                "Understanding the structure of a Puppet module",
+                                "Using classes and defining reusable configurations",
+                                "Organizing code with module dependencies",
+                                "Publishing and using third-party Puppet modules from the Puppet Forge"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Puppet Templates and Facts",
+                            "description": [
+                                "Using Puppet templates with Embedded Ruby (ERB)",
+                                "Understanding facts and gathering system information",
+                                "Defining custom facts in Puppet",
+                                "Using templates to manage dynamic configuration files",
+                                "Best practices for writing and using templates in Puppet"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Puppet Orchestration and Automation",
+                            "description": [
+                                "Introduction to Puppet orchestration and automation",
+                                "Using Puppet Bolt for orchestration and automation tasks",
+                                "Managing multiple nodes with Puppet Enterprise and open-source Puppet",
+                                "Automating deployments and configuration management with Puppet",
+                                "Integrating Puppet with CI/CD pipelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Puppet and Cloud Infrastructure",
+                            "description": [
+                                "Using Puppet for managing cloud infrastructure (AWS, Azure, GCP)",
+                                "Provisioning virtual machines and instances with Puppet",
+                                "Managing cloud-specific resources with Puppet (buckets, volumes, etc.)",
+                                "Scaling infrastructure and services using Puppet",
+                                "Best practices for managing hybrid environments with Puppet"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Puppet Reporting and Monitoring",
+                            "description": [
+                                "Configuring Puppet to send reports and monitor configurations",
+                                "Using Puppet Enterprise for enhanced reporting and dashboard views",
+                                "Understanding Puppet's reporting data structure",
+                                "Integrating Puppet reporting with third-party monitoring tools",
+                                "Troubleshooting and resolving configuration management issues"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Puppet Topics",
+                            "description": [
+                                "Understanding and implementing Puppet's role-based access control (RBAC)",
+                                "Using PuppetDB for managing node data and queries",
+                                "Advanced use cases for custom facts and resource types",
+                                "Managing large-scale infrastructures with Puppet in enterprise environments",
+                                "Optimizing Puppet runs for performance and scalability"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Automating the setup of a LAMP stack using Puppet",
+                                "Creating a multi-node configuration with Puppet and scaling infrastructure",
+                                "Implementing continuous delivery workflows with Puppet and Jenkins",
+                                "Configuring a multi-cloud environment with Puppet and ensuring consistency",
+                                "Troubleshooting and optimizing Puppet configurations in production environments"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Maven",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Maven",
+                            "description": [
+                                "Overview of Maven and its role in build automation",
+                                "Understanding Maven's architecture and components",
+                                "Setting up Maven on your system",
+                                "Basic Maven commands and their uses",
+                                "Introduction to Maven's POM (Project Object Model)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Maven Project Structure",
+                            "description": [
+                                "Understanding the structure of a Maven project",
+                                "Introduction to the 'src' folder and 'target' folder",
+                                "Working with `pom.xml` file",
+                                "Defining project dependencies and plugins in POM",
+                                "Understanding the Maven Standard Directory Layout"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Maven Dependencies",
+                            "description": [
+                                "Understanding Maven's dependency management system",
+                                "Adding dependencies to the `pom.xml` file",
+                                "Using Maven repositories (Central, Local, Remote)",
+                                "Handling transitive dependencies in Maven",
+                                "Managing versions of dependencies and resolving conflicts"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Maven Plugins",
+                            "description": [
+                                "Introduction to Maven plugins and their role in the build lifecycle",
+                                "Commonly used Maven plugins (Compiler, Surefire, JAR, WAR, Clean)",
+                                "Creating and configuring custom Maven plugins",
+                                "Using plugin configurations in the `pom.xml` file",
+                                "Running Maven goals and phases with plugins"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Maven Build Lifecycle",
+                            "description": [
+                                "Understanding Maven build lifecycle phases",
+                                "The default lifecycle: compile, test, package, install, deploy",
+                                "Customizing build phases with goals",
+                                "Binding plugins to specific lifecycle phases",
+                                "Using Maven profiles to customize builds for different environments"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Maven Repository Management",
+                            "description": [
+                                "Introduction to Maven repositories: local, remote, and central",
+                                "Setting up and configuring a local Maven repository",
+                                "Using a private repository with Maven",
+                                "Deploying and retrieving artifacts to/from a Maven repository",
+                                "Managing repository access and credentials"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Maven for Multi-module Projects",
+                            "description": [
+                                "Understanding multi-module Maven projects",
+                                "Creating and configuring parent and child modules",
+                                "Inheritance and aggregation in multi-module projects",
+                                "Building and deploying multi-module projects with Maven",
+                                "Handling module dependencies and versioning"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Maven and Continuous Integration",
+                            "description": [
+                                "Integrating Maven with Jenkins for Continuous Integration",
+                                "Running Maven builds as part of CI/CD pipelines",
+                                "Automating testing, building, and deployment with Maven",
+                                "Configuring Jenkins to run Maven goals and phases",
+                                "Best practices for CI/CD with Maven and Jenkins"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Maven Features",
+                            "description": [
+                                "Using Maven profiles to manage different build configurations",
+                                "Integrating with version control systems (e.g., Git) for automated builds",
+                                "Optimizing Maven build performance",
+                                "Customizing the Maven lifecycle and plugin configurations",
+                                "Using external tool integrations with Maven"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Creating a simple Maven project from scratch",
+                                "Building and deploying a Java application with Maven",
+                                "Managing a multi-module Maven project for a web application",
+                                "Setting up a CI pipeline for Maven with Jenkins",
+                                "Automating testing, building, and deployment in a real-world Maven setup"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SonarQube",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to SonarQube",
+                            "description": [
+                                "Overview of SonarQube and its role in continuous code quality analysis",
+                                "Understanding the SonarQube architecture",
+                                "Installing and setting up SonarQube",
+                                "Configuring SonarQube for a local development environment",
+                                "SonarQube interface overview: dashboards, issues, and reports"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Setting Up SonarQube Projects",
+                            "description": [
+                                "Creating and configuring SonarQube projects",
+                                "Setting up SonarQube for Java, .NET, and other languages",
+                                "Understanding the `sonar-project.properties` file",
+                                "Linking SonarQube with a version control system (Git, SVN)",
+                                "Configuring project properties for analysis"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Integrating SonarQube with Build Tools",
+                            "description": [
+                                "Integrating SonarQube with Maven, Gradle, and Ant",
+                                "Using the SonarQube Scanner for continuous analysis",
+                                "Running SonarQube analysis in build tools",
+                                "Automating analysis with Jenkins and other CI/CD tools",
+                                "Configuring SonarQube plugin in Jenkins"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: SonarQube Rules and Quality Gates",
+                            "description": [
+                                "Understanding SonarQube rules and rule sets",
+                                "Customizing coding standards and rules for your project",
+                                "Defining and managing quality gates in SonarQube",
+                                "Using quality profiles and custom quality gates for different languages",
+                                "Analyzing code against quality gates during builds"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: SonarQube Metrics and Reports",
+                            "description": [
+                                "Understanding SonarQube metrics: code coverage, complexity, duplication",
+                                "Generating and interpreting SonarQube reports",
+                                "Tracking technical debt and its impact on the project",
+                                "Using SonarQube dashboards for insights into code quality",
+                                "Configuring and customizing dashboards for specific needs"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced Features of SonarQube",
+                            "description": [
+                                "Integrating SonarQube with GitHub, GitLab, Bitbucket for pull request analysis",
+                                "Using SonarQube for multiple branches and version analysis",
+                                "Managing project history and version analysis",
+                                "Advanced configuration options and setting up automated analysis",
+                                "Securing and managing access control for SonarQube users"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: SonarQube for Static Code Analysis",
+                            "description": [
+                                "Performing static code analysis with SonarQube",
+                                "Analyzing various types of issues: bugs, vulnerabilities, code smells",
+                                "Understanding the impact of static analysis on software quality",
+                                "Detecting and resolving technical debt using SonarQube",
+                                "Automating static analysis as part of the software development lifecycle"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: SonarQube Security Features",
+                            "description": [
+                                "Configuring SonarQube to detect security vulnerabilities",
+                                "Using SonarQube to identify potential security risks in code",
+                                "Setting up SonarQube to work with security plugins",
+                                "Reviewing security rules and best practices for secure coding",
+                                "Integrating SonarQube security analysis with build pipelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: SonarQube Administration and Maintenance",
+                            "description": [
+                                "Managing SonarQube server and database configurations",
+                                "Backing up and restoring SonarQube data",
+                                "Configuring authentication and user roles",
+                                "Managing SonarQube plugins and extensions",
+                                "Monitoring and troubleshooting SonarQube performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Setting up SonarQube for a real project with Java, JavaScript, or Python",
+                                "Integrating SonarQube into a Jenkins CI/CD pipeline",
+                                "Configuring SonarQube to analyze pull requests in GitHub/GitLab",
+                                "Creating custom quality gates and profiles for specific teams",
+                                "Using SonarQube to monitor and improve an ongoing project’s code quality"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Cloud",
+            "submodule": [
+                {
+                    "name": "AWS",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to AWS",
+                            "description": [
+                                "Overview of AWS and its cloud services",
+                                "Understanding the AWS global infrastructure: Regions and Availability Zones",
+                                "AWS core services: EC2, S3, RDS, Lambda, and more",
+                                "Creating and managing an AWS account",
+                                "Navigating the AWS Management Console"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: AWS Compute Services",
+                            "description": [
+                                "Introduction to EC2 instances and types",
+                                "Launching, configuring, and managing EC2 instances",
+                                "Scaling EC2 instances using Auto Scaling and Load Balancers",
+                                "Introduction to AWS Lambda and serverless computing",
+                                "Working with Elastic Beanstalk for application deployment"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: AWS Storage Services",
+                            "description": [
+                                "Understanding AWS storage options: S3, EBS, EFS, and Glacier",
+                                "Creating and managing S3 buckets for object storage",
+                                "Working with EBS volumes for persistent storage",
+                                "Setting up and managing EFS for scalable file storage",
+                                "Using Glacier for archival and long-term storage"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: AWS Networking and Content Delivery",
+                            "description": [
+                                "Setting up and managing Virtual Private Cloud (VPC)",
+                                "Configuring subnets, route tables, and internet gateways",
+                                "Working with Elastic Load Balancer (ELB) and Auto Scaling",
+                                "Content delivery with CloudFront",
+                                "Introduction to Route 53 for DNS management"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: AWS Security and Identity Management",
+                            "description": [
+                                "Understanding AWS IAM (Identity and Access Management)",
+                                "Creating and managing IAM users, groups, and roles",
+                                "Implementing AWS Security best practices",
+                                "Using AWS KMS for encryption and key management",
+                                "Setting up AWS CloudTrail for logging and monitoring"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: AWS Database Services",
+                            "description": [
+                                "Introduction to RDS (Relational Database Service)",
+                                "Setting up and managing MySQL, PostgreSQL, and SQL Server on RDS",
+                                "Understanding DynamoDB for NoSQL databases",
+                                "Using Amazon Redshift for data warehousing",
+                                "Managing database backups and scaling on AWS"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: AWS DevOps and Automation Tools",
+                            "description": [
+                                "Introduction to AWS DevOps services: CodeCommit, CodeDeploy, and CodePipeline",
+                                "Automating infrastructure provisioning with AWS CloudFormation",
+                                "Monitoring and managing applications with Amazon CloudWatch",
+                                "Using AWS Systems Manager for configuration management",
+                                "CI/CD pipeline implementation with AWS services"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: AWS Monitoring and Logging",
+                            "description": [
+                                "Using CloudWatch for monitoring and alerting",
+                                "Configuring CloudWatch Logs for application logging",
+                                "Using AWS X-Ray for debugging and tracing",
+                                "Introduction to AWS Trusted Advisor for recommendations",
+                                "Setting up AWS CloudTrail for auditing"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: AWS Cost Management and Optimization",
+                            "description": [
+                                "Understanding AWS pricing models and cost structures",
+                                "Using the AWS Cost Explorer for cost analysis",
+                                "Setting up AWS Budgets for cost management",
+                                "Implementing cost-saving practices with Reserved Instances",
+                                "Understanding AWS Free Tier and how to optimize usage"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Deploying a web application using EC2, S3, and RDS",
+                                "Building a serverless application using AWS Lambda and API Gateway",
+                                "Setting up and managing a highly available web application architecture",
+                                "Implementing AWS security best practices in a real-world environment",
+                                "Automating infrastructure and application deployments with CloudFormation"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GCP",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GCP",
+                            "description": [
+                                "Overview of Google Cloud Platform and its services",
+                                "Understanding GCP's global infrastructure: Regions and Zones",
+                                "Creating and managing a GCP account",
+                                "Navigating the Google Cloud Console",
+                                "Introduction to the Google Cloud SDK and Cloud Shell"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: GCP Compute Services",
+                            "description": [
+                                "Introduction to Google Compute Engine (GCE) and VM instances",
+                                "Creating and managing Compute Engine instances",
+                                "Scaling compute resources with Instance Groups and Load Balancing",
+                                "Introduction to Google Kubernetes Engine (GKE)",
+                                "Deploying serverless applications with Google Cloud Functions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: GCP Storage Services",
+                            "description": [
+                                "Overview of Google Cloud Storage options: GCS, Persistent Disks, and Filestore",
+                                "Creating and managing Cloud Storage buckets for object storage",
+                                "Working with Persistent Disks for virtual machine storage",
+                                "Using Filestore for managed file storage",
+                                "Understanding and using Cloud Storage for backups and archival"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: GCP Networking and Content Delivery",
+                            "description": [
+                                "Setting up and managing Google Cloud Virtual Private Cloud (VPC)",
+                                "Configuring subnets, firewalls, and IP routing",
+                                "Using Cloud Load Balancing for distributing traffic",
+                                "Introduction to Google Cloud CDN (Content Delivery Network)",
+                                "Configuring Google Cloud DNS for domain management"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: GCP Security and Identity Management",
+                            "description": [
+                                "Introduction to Identity and Access Management (IAM) in GCP",
+                                "Managing IAM roles, policies, and permissions",
+                                "Configuring GCP Security best practices",
+                                "Using Cloud Identity-Aware Proxy (IAP) for application access management",
+                                "Data encryption in GCP with Cloud Key Management"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: GCP Database Services",
+                            "description": [
+                                "Overview of Cloud SQL for managed relational databases",
+                                "Working with Cloud Spanner for globally distributed databases",
+                                "Using Firestore for NoSQL document databases",
+                                "Introduction to BigQuery for data analytics and data warehousing",
+                                "Setting up and managing databases for scalability and performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: GCP DevOps and Automation Tools",
+                            "description": [
+                                "Introduction to Google Cloud DevOps services: Cloud Build, Cloud Source Repositories, and Cloud Deployment Manager",
+                                "Using Cloud Pub/Sub for messaging and event-driven architecture",
+                                "Automating infrastructure provisioning with Terraform in GCP",
+                                "Managing deployments and infrastructure with Google Cloud Operations Suite (formerly Stackdriver)",
+                                "CI/CD pipeline implementation with GCP tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: GCP Monitoring and Logging",
+                            "description": [
+                                "Using Google Cloud Monitoring for infrastructure and application monitoring",
+                                "Configuring Cloud Logging to capture and analyze logs",
+                                "Setting up Google Cloud Trace and Profiler for performance optimization",
+                                "Introduction to Google Cloud Error Reporting and Debugger",
+                                "Integrating Cloud Monitoring with third-party tools for observability"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: GCP Cost Management and Optimization",
+                            "description": [
+                                "Understanding GCP pricing models and cost estimation",
+                                "Using Google Cloud Billing and Cost Management Tools",
+                                "Setting up budgets and alerts for cost tracking",
+                                "Optimizing GCP resources with Autoscaler and Preemptible VMs",
+                                "Using Google Cloud's pricing calculator for resource planning"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Deploying a web application using Compute Engine, Cloud Storage, and Cloud SQL",
+                                "Building and deploying a scalable application with Kubernetes Engine (GKE)",
+                                "Setting up a serverless architecture with Google Cloud Functions and Pub/Sub",
+                                "Implementing GCP security best practices in a production environment",
+                                "Automating infrastructure provisioning using Cloud Deployment Manager and Terraform"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Azure",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Azure",
+                            "description": [
+                                "Overview of Microsoft Azure and its services",
+                                "Understanding Azure's global infrastructure: Regions and Availability Zones",
+                                "Creating and managing an Azure account",
+                                "Navigating the Azure Portal and Azure Cloud Shell",
+                                "Introduction to Azure CLI and PowerShell for management"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Azure Compute Services",
+                            "description": [
+                                "Introduction to Azure Virtual Machines (VMs) and their management",
+                                "Scaling compute resources with Azure Virtual Machine Scale Sets",
+                                "Deploying and managing applications with Azure App Service",
+                                "Introduction to Azure Kubernetes Service (AKS)",
+                                "Working with Azure Functions for serverless computing"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Azure Storage Services",
+                            "description": [
+                                "Overview of Azure Storage accounts and services",
+                                "Creating and managing Blob Storage for unstructured data",
+                                "Using Azure Disk Storage for VM and persistent storage",
+                                "Introduction to Azure File Storage and Azure NetApp Files",
+                                "Using Azure Table and Queue Storage for NoSQL data"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Azure Networking and Content Delivery",
+                            "description": [
+                                "Setting up and managing Azure Virtual Network (VNet)",
+                                "Configuring subnets, Network Security Groups (NSG), and routing",
+                                "Using Azure Load Balancer and Azure Traffic Manager for traffic distribution",
+                                "Configuring Azure CDN (Content Delivery Network) for global delivery",
+                                "Setting up Azure DNS for domain management and name resolution"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Azure Security and Identity Management",
+                            "description": [
+                                "Introduction to Azure Active Directory (AAD) for identity management",
+                                "Managing user and group access with Azure Role-Based Access Control (RBAC)",
+                                "Setting up Azure Multi-Factor Authentication (MFA) for security",
+                                "Using Azure Key Vault for managing secrets and certificates",
+                                "Implementing security best practices with Azure Security Center"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Azure Database Services",
+                            "description": [
+                                "Introduction to Azure SQL Database for managed relational databases",
+                                "Setting up and managing Cosmos DB for globally distributed NoSQL databases",
+                                "Working with Azure Database for MySQL and PostgreSQL",
+                                "Using Azure Cache for Redis to improve performance",
+                                "Integrating Azure Synapse Analytics for data warehousing and analytics"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Azure DevOps and Automation",
+                            "description": [
+                                "Introduction to Azure DevOps services: Repos, Pipelines, and Boards",
+                                "Setting up CI/CD pipelines using Azure Pipelines",
+                                "Managing source code with Azure Repos",
+                                "Automating infrastructure provisioning with Azure Resource Manager (ARM) Templates",
+                                "Using Azure Automation and Logic Apps for workflow automation"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Azure Monitoring and Management",
+                            "description": [
+                                "Introduction to Azure Monitor for application and infrastructure monitoring",
+                                "Using Azure Log Analytics for log collection and analysis",
+                                "Setting up Azure Application Insights for performance monitoring",
+                                "Configuring alerts and automation for resource management",
+                                "Using Azure Cost Management and Billing for cost optimization"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Azure AI and Machine Learning Services",
+                            "description": [
+                                "Introduction to Azure AI and Machine Learning services",
+                                "Using Azure Cognitive Services for vision, speech, and language processing",
+                                "Setting up and managing Azure Machine Learning for custom models",
+                                "Creating and deploying machine learning models with Azure ML Studio",
+                                "Exploring Azure Bot Services for building intelligent bots"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-On Projects and Real-World Scenarios",
+                            "description": [
+                                "Deploying a web application with Azure App Service and Azure SQL Database",
+                                "Building and managing a containerized application using Azure Kubernetes Service (AKS)",
+                                "Implementing serverless architecture using Azure Functions and Azure Logic Apps",
+                                "Configuring security best practices in a production environment with Azure Security Center",
+                                "Automating resource provisioning using ARM templates and Azure DevOps"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "System Design",
+            "submodule": [
+                {
+                    "name": "Distributed Systems",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Distributed Systems",
+                            "description": [
+                                "Overview of distributed systems and their importance",
+                                "Characteristics and challenges of distributed systems",
+                                "Communication models: Synchronous vs Asynchronous",
+                                "Key concepts: Latency, fault tolerance, consistency, and scalability",
+                                "Types of distributed systems: Client-server, peer-to-peer, and cloud-based systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Networking and Communication Protocols",
+                            "description": [
+                                "Introduction to networking in distributed systems",
+                                "Communication protocols: HTTP, RPC, REST, gRPC, and WebSockets",
+                                "Message passing and serialization formats: JSON, Protocol Buffers, Avro",
+                                "Synchronization in distributed systems: Clock synchronization and NTP",
+                                "Handling communication failures: Retries, timeouts, and message queues"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Consistency, Availability, and Partition Tolerance (CAP Theorem)",
+                            "description": [
+                                "Understanding the CAP theorem and its implications",
+                                "Trade-offs between consistency, availability, and partition tolerance",
+                                "Types of consistency: Strong, eventual, and causal consistency",
+                                "Designing for high availability and fault tolerance",
+                                "Implementing distributed consensus algorithms: Paxos and Raft"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Distributed Databases and Storage Systems",
+                            "description": [
+                                "Introduction to distributed databases: NoSQL vs SQL databases",
+                                "Data partitioning and sharding techniques",
+                                "Replication strategies and leader election in distributed storage systems",
+                                "Distributed file systems: HDFS, Ceph, and Google File System",
+                                "Eventual consistency in distributed databases: Techniques and trade-offs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Distributed Algorithms and Fault Tolerance",
+                            "description": [
+                                "Overview of distributed algorithms",
+                                "Leader election algorithms: Bully algorithm, Raft consensus",
+                                "Fault tolerance in distributed systems: Redundancy and replication",
+                                "Distributed state machine replication",
+                                "Checkpointing and logging in distributed systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Distributed System Design Patterns",
+                            "description": [
+                                "Introduction to distributed system design patterns",
+                                "Event-driven architecture and message queues",
+                                "Sharding and partitioning for scalability",
+                                "CQRS (Command Query Responsibility Segregation) pattern",
+                                "Saga pattern for managing distributed transactions"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Security in Distributed Systems",
+                            "description": [
+                                "Securing communication in distributed systems: SSL/TLS, encryption",
+                                "Authentication and authorization in distributed environments",
+                                "Managing secrets and credentials with vault systems",
+                                "Distributed denial-of-service (DDoS) protection and mitigation",
+                                "Building secure distributed applications with OAuth, JWT, and API security"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Monitoring, Logging, and Performance Optimization",
+                            "description": [
+                                "Monitoring distributed systems: Metrics, logs, and tracing",
+                                "Distributed tracing with tools like Jaeger and Zipkin",
+                                "Centralized logging with ELK stack (Elasticsearch, Logstash, Kibana)",
+                                "Performance bottlenecks and latency analysis in distributed systems",
+                                "Designing for scalability and high throughput in distributed applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Building a scalable distributed application with microservices",
+                                "Designing a fault-tolerant and high-available distributed system",
+                                "Implementing a distributed database with replication and sharding",
+                                "Setting up monitoring and alerting for a distributed system",
+                                "Implementing security and encryption in a distributed environment"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Design Patterns",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Design Patterns",
+                            "description": [
+                                "Overview of design patterns and their importance in software engineering",
+                                "The role of design patterns in improving code reusability and maintainability",
+                                "Classification of design patterns: Creational, Structural, and Behavioral",
+                                "Understanding the SOLID principles of object-oriented design",
+                                "Design pattern catalog and their applicability"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Creational Design Patterns",
+                            "description": [
+                                "Singleton pattern: Ensuring a single instance",
+                                "Factory method pattern: Creating objects without specifying the exact class",
+                                "Abstract factory pattern: Creating families of related objects",
+                                "Builder pattern: Constructing complex objects step by step",
+                                "Prototype pattern: Creating new objects by cloning existing ones"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Structural Design Patterns",
+                            "description": [
+                                "Adapter pattern: Converting one interface to another",
+                                "Bridge pattern: Decoupling abstraction from implementation",
+                                "Composite pattern: Composing objects into tree-like structures",
+                                "Decorator pattern: Adding responsibilities to objects dynamically",
+                                "Facade pattern: Providing a simplified interface to a complex system",
+                                "Flyweight pattern: Sharing objects to reduce memory consumption",
+                                "Proxy pattern: Controlling access to an object"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Behavioral Design Patterns",
+                            "description": [
+                                "Chain of responsibility pattern: Passing requests along a chain of handlers",
+                                "Command pattern: Encapsulating requests as objects",
+                                "Interpreter pattern: Designing a grammar and interpreter for a language",
+                                "Iterator pattern: Iterating over elements in a collection",
+                                "Mediator pattern: Defining an object that controls the interactions between other objects",
+                                "Memento pattern: Capturing and restoring an object's state",
+                                "Observer pattern: Defining a one-to-many dependency between objects",
+                                "State pattern: Allowing an object to alter its behavior when its internal state changes",
+                                "Strategy pattern: Defining a family of algorithms and selecting one at runtime",
+                                "Template method pattern: Defining the structure of an algorithm with steps to be implemented by subclasses",
+                                "Visitor pattern: Defining a new operation without changing the classes of the elements it operates on"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Concurrency Patterns",
+                            "description": [
+                                "Introduction to concurrency and parallelism in design patterns",
+                                "Thread pool pattern: Managing a pool of worker threads for executing tasks",
+                                "Producer-Consumer pattern: Decoupling tasks from task execution",
+                                "Read-Write Lock pattern: Managing concurrent access to resources",
+                                "Future and Promise patterns: Deferring the result of a computation"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Design Pattern Applications",
+                            "description": [
+                                "Applying design patterns to real-world systems",
+                                "Refactoring legacy systems using design patterns",
+                                "Designing flexible and scalable systems with design patterns",
+                                "Pattern-driven development: Best practices and anti-patterns",
+                                "Identifying and solving common design problems with patterns"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Designing an application using creational design patterns",
+                                "Implementing a complex system using structural design patterns",
+                                "Building a collaborative application using behavioral design patterns",
+                                "Optimizing concurrent systems using concurrency patterns",
+                                "Refactoring an existing codebase using appropriate design patterns"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Scaling",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Scaling",
+                            "description": [
+                                "Understanding the need for scaling in modern applications",
+                                "Types of scaling: Vertical vs Horizontal scaling",
+                                "Overview of scalability and its impact on performance",
+                                "Key principles of scaling: Load balancing, redundancy, and fault tolerance",
+                                "Scalability vs performance: How they are related but different"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Vertical Scaling (Scaling Up)",
+                            "description": [
+                                "Understanding vertical scaling and when to apply it",
+                                "Benefits and limitations of vertical scaling",
+                                "Increasing CPU, memory, and storage to scale vertically",
+                                "Managing performance bottlenecks in vertically scaled systems",
+                                "Best practices for vertical scaling and optimization"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Horizontal Scaling (Scaling Out)",
+                            "description": [
+                                "Understanding horizontal scaling and its advantages",
+                                "Designing systems that scale horizontally: Distributed architectures",
+                                "Sharding data and load balancing across multiple nodes",
+                                "Auto-scaling techniques in cloud environments",
+                                "Challenges in horizontal scaling: Consistency, partition tolerance, and state management"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Load Balancing and Traffic Distribution",
+                            "description": [
+                                "Introduction to load balancing and its importance in scaling",
+                                "Types of load balancers: Round-robin, least connections, IP-hash",
+                                "Global load balancing for multi-region applications",
+                                "Configuring and managing load balancers: HAProxy, Nginx, and cloud-based load balancers",
+                                "Handling failure scenarios and retries in load balancing"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Database Scaling Strategies",
+                            "description": [
+                                "Scaling databases: Sharding, partitioning, and replication",
+                                "Optimizing read and write operations with replication",
+                                "Choosing between SQL vs NoSQL for scalable databases",
+                                "Handling distributed transactions and consistency in databases",
+                                "Caching strategies for database scaling: Redis, Memcached"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Caching and Content Delivery Networks (CDNs)",
+                            "description": [
+                                "Introduction to caching and its role in scaling applications",
+                                "In-memory caching strategies with tools like Redis and Memcached",
+                                "Using Content Delivery Networks (CDNs) for faster content delivery",
+                                "Caching best practices: Cache invalidation and TTL (Time-to-Live)",
+                                "Distributed caching and managing cache consistency across nodes"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Microservices and Scalability",
+                            "description": [
+                                "Overview of microservices architecture and scalability benefits",
+                                "Designing scalable microservices with fault tolerance",
+                                "API Gateway and service discovery in microservices",
+                                "Handling communication between microservices: REST, gRPC, and message brokers",
+                                "Scaling microservices independently based on demand"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Scaling in the Cloud",
+                            "description": [
+                                "Cloud-based scaling strategies: Using IaaS, PaaS, and SaaS",
+                                "Elastic scaling and auto-scaling in cloud environments",
+                                "Managing resources and costs in scalable cloud applications",
+                                "Cloud services for scaling: AWS, Azure, Google Cloud",
+                                "Hybrid and multi-cloud scaling strategies"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Monitoring and Performance Optimization for Scalable Systems",
+                            "description": [
+                                "Monitoring scalability metrics: Latency, throughput, and error rates",
+                                "Scaling bottlenecks and identifying performance issues",
+                                "Tools for monitoring scalable systems: Prometheus, Grafana, Datadog",
+                                "Optimizing resource utilization and cost-effectiveness in scalable systems",
+                                "Best practices for managing large-scale systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Building a horizontally scalable web application",
+                                "Designing a microservices architecture that scales with traffic",
+                                "Implementing load balancing and auto-scaling in the cloud",
+                                "Scaling a database and integrating caching for high performance",
+                                "Optimizing a real-world application for scalability and performance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Caching",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Caching",
+                            "description": [
+                                "What is caching and why is it important in application performance?",
+                                "Understanding cache hit vs. cache miss",
+                                "Types of caches: Memory, disk, and distributed caches",
+                                "Cache eviction policies: LRU, LFU, FIFO",
+                                "Benefits of caching in reducing database load and improving response time"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: In-Memory Caching",
+                            "description": [
+                                "Introduction to in-memory caching and its advantages",
+                                "Using Redis and Memcached for in-memory caching",
+                                "Setting up and configuring Redis and Memcached",
+                                "When to use in-memory caching vs. other caching techniques",
+                                "Best practices for using in-memory caches effectively"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Distributed Caching",
+                            "description": [
+                                "What is distributed caching and when to use it?",
+                                "Designing a scalable cache system with Redis or Hazelcast",
+                                "Data consistency and cache synchronization in distributed systems",
+                                "Configuring clustering and partitioning in distributed caches",
+                                "Handling cache failures and fallbacks in distributed environments"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Caching Strategies",
+                            "description": [
+                                "Cache-aside strategy: When and how to use it",
+                                "Write-through vs. write-behind caching",
+                                "Read-through caching: How it works and when to apply it",
+                                "Lazy loading vs eager loading in caching systems",
+                                "Time-to-live (TTL) and cache invalidation strategies"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Cache Expiration and Eviction",
+                            "description": [
+                                "Understanding cache expiration and TTL (Time-to-Live)",
+                                "Different eviction policies: LRU, LFU, FIFO, and more",
+                                "Configuring cache expiration and eviction strategies",
+                                "Cache bursting and preventing stale data in the cache",
+                                "Handling expired cache data and cache misses"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Caching in Web Applications",
+                            "description": [
+                                "Caching HTTP responses: Using cache-control headers",
+                                "Edge caching with Content Delivery Networks (CDNs)",
+                                "Browser-side caching for static assets",
+                                "Setting up page caching, object caching, and fragment caching in web applications",
+                                "Optimizing caching for dynamic content and personalized responses"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Caching Concepts",
+                            "description": [
+                                "Cache coherence and consistency in distributed caching systems",
+                                "Implementing hierarchical caching: Multi-level caches",
+                                "Using Bloom filters for cache optimization",
+                                "Handling cache penetration and cache stampede",
+                                "Integrating caching with microservices architectures"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Caching in Databases",
+                            "description": [
+                                "Caching strategies for databases: Query result caching and object caching",
+                                "Using database-level caching in MySQL, PostgreSQL, and NoSQL databases",
+                                "Database query optimization with caching",
+                                "Distributed caching for NoSQL databases like MongoDB and Cassandra",
+                                "Best practices for integrating caching with relational and non-relational databases"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Monitoring and Troubleshooting Cache Performance",
+                            "description": [
+                                "Monitoring cache hit/miss ratio and cache performance",
+                                "Setting up monitoring tools for caching systems: Redis monitoring with RedisInsight, Prometheus, Grafana",
+                                "Troubleshooting common caching issues: Cache invalidation, consistency problems",
+                                "Analyzing cache performance and tuning cache size",
+                                "Identifying and resolving cache-related bottlenecks"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Hands-on Projects and Real-World Scenarios",
+                            "description": [
+                                "Building a caching system for a high-performance web application",
+                                "Implementing Redis as a cache in a microservices architecture",
+                                "Using Memcached to cache API responses in a distributed environment",
+                                "Configuring cache expiration and eviction in a real-world project",
+                                "Optimizing a database with caching to improve read performance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Event Driven Architecture",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Event Driven Architecture",
+                            "description": [
+                                "Understanding the concept of Event Driven Architecture (EDA)",
+                                "Key components of EDA: Events, Event Producers, Event Consumers, and Event Channels",
+                                "When to use EDA and the benefits it provides",
+                                "Differences between Event Driven and Request-Response architectures",
+                                "Types of events: Domain events, Command events, and Notification events"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Core Concepts and Terminologies",
+                            "description": [
+                                "What is an event in the context of EDA?",
+                                "Event producers vs. event consumers",
+                                "Event channels and Event brokers",
+                                "Asynchronous messaging in EDA",
+                                "Event-driven workflows and event orchestration"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Event Types and Event Processing",
+                            "description": [
+                                "Synchronous vs. Asynchronous Event Processing",
+                                "Event Streams and Event Queues",
+                                "Eventual consistency in Event Driven systems",
+                                "Real-time event processing and event-driven messaging patterns",
+                                "Handling and processing different types of events: Data, State, and Command events"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Event-driven Communication Patterns",
+                            "description": [
+                                "Publish-Subscribe pattern: Key concepts and benefits",
+                                "Point-to-Point communication in event-driven systems",
+                                "Event-based communication with message queues and topics",
+                                "Event brokering and Event streaming platforms",
+                                "Example platforms: Apache Kafka, RabbitMQ, AWS EventBridge, Google Cloud Pub/Sub"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Event Sourcing",
+                            "description": [
+                                "What is Event Sourcing and why it’s important in EDA?",
+                                "Storing events as the source of truth in event-driven systems",
+                                "Event replay and rebuilding state from events",
+                                "Event stores and the role of event log",
+                                "Event Sourcing vs. Traditional CRUD approaches"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: CQRS (Command Query Responsibility Segregation)",
+                            "description": [
+                                "Introduction to CQRS and its relationship with EDA",
+                                "Separation of command and query models in event-driven systems",
+                                "Benefits of CQRS in scaling and performance optimization",
+                                "Implementing CQRS with Event Sourcing",
+                                "When and how to apply CQRS in an event-driven architecture"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Designing Event-Driven Systems",
+                            "description": [
+                                "Principles of designing event-driven systems",
+                                "Event modeling: Designing events and event schemas",
+                                "Event-driven microservices architecture",
+                                "Handling data consistency and eventual consistency in EDA",
+                                "Transaction boundaries and idempotency in event-driven systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Event Processing Frameworks and Tools",
+                            "description": [
+                                "Using Apache Kafka for event streaming",
+                                "Leveraging RabbitMQ for message queuing",
+                                "AWS Lambda and event-driven serverless architecture",
+                                "Event-driven frameworks: Spring Cloud Stream, NATS, Azure Event Grid",
+                                "Tools for building and scaling event-driven systems"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Event-Driven System Challenges and Best Practices",
+                            "description": [
+                                "Eventual consistency vs. strong consistency",
+                                "Handling event failures and retries",
+                                "Scaling event-driven systems and handling large volumes of events",
+                                "Monitoring and tracing events in an event-driven system",
+                                "Error handling, dead-letter queues, and message durability"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Real-World Applications and Case Studies",
+                            "description": [
+                                "Event-driven architecture in real-time applications: E-commerce, IoT, and Social Media",
+                                "Case studies of EDA implementations in large-scale systems",
+                                "Event-driven microservices architecture in production",
+                                "Building a scalable and fault-tolerant event-driven system",
+                                "Lessons learned from real-world event-driven architectures"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Microservice Architecture",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Microservice Architecture",
+                            "description": [
+                                "Overview of Microservice Architecture",
+                                "Difference between Monolithic and Microservice Architectures",
+                                "Benefits of Microservices: Scalability, Flexibility, and Fault Tolerance",
+                                "Key Characteristics of Microservices: Independency, Loose Coupling, and Modularity",
+                                "When to use Microservices and when to avoid them"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Core Concepts and Principles",
+                            "description": [
+                                "Understanding the principles of Microservice design",
+                                "Bounded Contexts and Domain-Driven Design",
+                                "Service Discovery in Microservices",
+                                "Loose Coupling and Service Independence",
+                                "Inter-Service Communication and API Gateway"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Microservice Communication",
+                            "description": [
+                                "Synchronous vs. Asynchronous Communication",
+                                "REST APIs and HTTP-based Communication",
+                                "Message Queues, Pub/Sub, and Event-driven Communication",
+                                "Protocol Buffers, gRPC, and Thrift",
+                                "API Gateway pattern and its role in communication"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Data Management in Microservices",
+                            "description": [
+                                "Decentralized Data Management in Microservices",
+                                "Database per Service and Database Integration Strategies",
+                                "Event Sourcing and CQRS in Microservices",
+                                "Handling Distributed Transactions and Data Consistency",
+                                "Data Replication and Eventual Consistency"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Microservice Design Patterns",
+                            "description": [
+                                "Decomposition Strategies: By Business Capability and By Subdomain",
+                                "API Gateway Pattern",
+                                "Service Discovery and Load Balancing Patterns",
+                                "Circuit Breaker and Retry Patterns",
+                                "Sidecar Pattern for Cross-Cutting Concerns"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Microservice Security",
+                            "description": [
+                                "Authentication and Authorization in Microservices",
+                                "OAuth2 and JWT for securing Microservice APIs",
+                                "Secure inter-service communication (TLS, mTLS)",
+                                "Microservice Security Best Practices",
+                                "Service Mesh for Security and Traffic Management"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Microservice Deployment and CI/CD",
+                            "description": [
+                                "Containerization with Docker for Microservices",
+                                "Orchestrating Microservices with Kubernetes",
+                                "Continuous Integration and Continuous Deployment (CI/CD) in Microservices",
+                                "Automated Testing in Microservices",
+                                "Deployment Strategies: Blue/Green, Canary, and Rolling Deployments"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Monitoring and Logging in Microservices",
+                            "description": [
+                                "Centralized Logging in Microservices",
+                                "Distributed Tracing and OpenTracing",
+                                "Monitoring Microservices with Prometheus and Grafana",
+                                "Health Checks, Metrics, and Alerts",
+                                "Debugging Microservices in a Distributed System"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Scaling and Fault Tolerance in Microservices",
+                            "description": [
+                                "Horizontal Scaling of Microservices",
+                                "Handling Failures with Fault Tolerance Patterns",
+                                "Rate Limiting, Load Balancing, and Service Mesh",
+                                "Handling Service Degradation and Backpressure",
+                                "Ensuring High Availability and Redundancy"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Best Practices and Real-World Case Studies",
+                            "description": [
+                                "Best Practices for Designing and Building Microservices",
+                                "Microservices in Cloud Environments: AWS, Azure, and GCP",
+                                "Case Studies: Real-World Implementations of Microservices",
+                                "Lessons Learned and Common Pitfalls",
+                                "Future Trends in Microservice Architecture"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+
+}

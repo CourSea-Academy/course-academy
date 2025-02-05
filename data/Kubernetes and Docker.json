@@ -1,0 +1,239 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Kubernetes & Docker Mastery for DevOps",
+    "roleName": "DevOps Engineer",
+    "description": "Master Docker and Kubernetes to efficiently manage containerized applications at scale. This comprehensive course covers everything from containerization with Docker to container orchestration with Kubernetes, equipping you with the skills to implement modern DevOps practices and manage cloud-native applications.",
+    "price": "45000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course offers a deep dive into Docker and Kubernetes, teaching you how to containerize applications, manage containers at scale with Kubernetes, and deploy containerized applications in production environments. Learn the concepts, tools, and best practices for effective DevOps implementation.",
+    "highlights": [
+        {
+            "name": "Docker Fundamentals",
+            "description": "Understand Docker concepts, containerization, and how to create, manage, and deploy containers."
+        },
+        {
+            "name": "Kubernetes Essentials",
+            "description": "Learn how to manage containerized applications with Kubernetes and scale them for production environments."
+        },
+        {
+            "name": "Container Orchestration",
+            "description": "Master the orchestration of multi-container applications with Kubernetes for high availability and scalability."
+        },
+        {
+            "name": "CI/CD with Docker and Kubernetes",
+            "description": "Implement Continuous Integration and Continuous Deployment pipelines using Docker and Kubernetes."
+        },
+        {
+            "name": "Cloud Deployment with Kubernetes",
+            "description": "Deploy and manage Kubernetes clusters on cloud platforms like AWS, Azure, and Google Cloud."
+        }
+    ],
+    "roles": [
+        {
+            "title": "DevOps Engineer",
+            "description": "Responsible for managing containerized applications and orchestrating them using Kubernetes and Docker."
+        },
+        {
+            "title": "Cloud Engineer",
+            "description": "Design and implement cloud-native solutions using Docker and Kubernetes."
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "description": "Ensure the reliability, availability, and scalability of applications using Kubernetes and Docker."
+        },
+        {
+            "title": "Containerization Specialist",
+            "description": "Focus on containerizing applications and orchestrating them with Kubernetes for production deployment."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with containerization for this course?",
+            "answer": "No prior experience is required. This course covers everything from the basics of Docker to advanced Kubernetes concepts."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will build and deploy containerized applications using Docker, create Kubernetes clusters, and automate deployment pipelines."
+        },
+        {
+            "question": "Will the course cover cloud-native Kubernetes management?",
+            "answer": "Yes, the course includes lessons on deploying and managing Kubernetes clusters on cloud platforms such as AWS, Azure, and Google Cloud."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need Docker, Kubernetes (kubectl), a cloud platform account (AWS, GCP, or Azure), and an IDE like VS Code."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Docker Fundamentals",
+            "submodule": [
+                {
+                    "name": "Getting Started with Docker",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Containers and Docker",
+                            "description": [
+                                "What is containerization and why it is important?",
+                                "Setting up Docker on your local machine",
+                                "Understanding Docker architecture"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Docker Images and Containers",
+                            "description": [
+                                "Creating Docker images",
+                                "Running and managing Docker containers",
+                                "Docker networking and volumes"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Docker Compose",
+                            "description": [
+                                "Using Docker Compose to manage multi-container applications",
+                                "Defining and running multi-container applications with YAML files"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Kubernetes Essentials",
+            "submodule": [
+                {
+                    "name": "Kubernetes Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Kubernetes",
+                            "description": [
+                                "Understanding the need for Kubernetes in container orchestration",
+                                "Setting up a local Kubernetes environment with Minikube",
+                                "Kubernetes architecture overview"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Kubernetes Pods and Services",
+                            "description": [
+                                "Creating and managing Pods in Kubernetes",
+                                "Exposing services and deploying applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Managing Kubernetes Deployments",
+                            "description": [
+                                "Scaling applications in Kubernetes",
+                                "Updating and rolling back deployments",
+                                "Health checks and readiness probes"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Kubernetes Features",
+            "submodule": [
+                {
+                    "name": "Kubernetes for Production",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Kubernetes Networking",
+                            "description": [
+                                "Understanding Kubernetes networking and services",
+                                "Setting up and managing Ingress controllers"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Kubernetes Storage",
+                            "description": [
+                                "Configuring persistent storage for containers",
+                                "Using Kubernetes volumes for data management"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Kubernetes Security",
+                            "description": [
+                                "Managing secrets and config maps in Kubernetes",
+                                "Configuring role-based access control (RBAC)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "CI/CD with Docker and Kubernetes",
+            "submodule": [
+                {
+                    "name": "Automating Deployment Pipelines",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to CI/CD",
+                            "description": [
+                                "Overview of Continuous Integration and Continuous Deployment",
+                                "Setting up a CI/CD pipeline with Jenkins and Docker"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Automating Kubernetes Deployments",
+                            "description": [
+                                "Automating Kubernetes application deployments with Helm",
+                                "Configuring Kubernetes clusters with CI/CD tools"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Cloud Deployment with Kubernetes",
+            "submodule": [
+                {
+                    "name": "Managing Kubernetes on Cloud Platforms",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Kubernetes on AWS",
+                            "description": [
+                                "Setting up an EKS (Elastic Kubernetes Service) cluster",
+                                "Deploying applications to AWS using Kubernetes"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Kubernetes on Google Cloud",
+                            "description": [
+                                "Creating and managing Kubernetes clusters on Google Cloud",
+                                "Deploying applications using Google Kubernetes Engine (GKE)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

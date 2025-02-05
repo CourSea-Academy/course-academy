@@ -1,0 +1,232 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Python Programming Mastery",
+    "roleName": "Software Developer / Data Scientist",
+    "description": "Master Python programming to develop robust applications and data-driven solutions. This comprehensive course covers core Python concepts, libraries for data science, web development, automation, and more to equip you with the skills needed for real-world projects.",
+    "price": "30000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides a deep dive into Python programming, covering everything from basic syntax and data structures to advanced topics like web development, data analysis, and machine learning. Learn to use popular Python libraries like NumPy, Pandas, Flask, and Django to build real-world applications.",
+    "highlights": [
+        {
+            "name": "Core Python Concepts",
+            "description": "Understand Python syntax, data structures, and object-oriented programming."
+        },
+        {
+            "name": "Data Science with Python",
+            "description": "Learn how to analyze data using libraries like NumPy, Pandas, and Matplotlib."
+        },
+        {
+            "name": "Web Development with Python",
+            "description": "Build dynamic web applications using Flask and Django frameworks."
+        },
+        {
+            "name": "Automation and Scripting",
+            "description": "Write scripts to automate tasks and improve productivity."
+        },
+        {
+            "name": "Machine Learning with Python",
+            "description": "Apply machine learning algorithms and data preprocessing techniques using libraries like scikit-learn."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Python Developer",
+            "description": "Develop software applications and automate tasks using Python."
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Analyze and interpret complex data using Python and data science libraries."
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Build complete web applications using Python-based backend frameworks like Django."
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "description": "Develop and deploy machine learning models using Python and scikit-learn."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior programming experience for this course?",
+            "answer": "No prior experience is required. The course starts with basic Python concepts and gradually progresses to advanced topics."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will work on projects such as a web scraper, a Python-based REST API, a data analysis project, and a machine learning model."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need Python installed on your system, along with an IDE like PyCharm or Visual Studio Code."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "Can I use Python for machine learning and data analysis?",
+            "answer": "Yes, Python is one of the most popular languages for machine learning and data analysis, and this course covers those topics in detail."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Python Programming",
+            "submodule": [
+                {
+                    "name": "Getting Started with Python",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Python Basics",
+                            "description": [
+                                "Overview of Python syntax and installation",
+                                "Variables, data types, and operators",
+                                "Control structures: loops and conditionals"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Functions and Modules",
+                            "description": [
+                                "Defining and calling functions",
+                                "Function parameters and return values",
+                                "Importing and using Python modules"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Data Structures",
+                            "description": [
+                                "Lists, tuples, and dictionaries",
+                                "Sets and collections module",
+                                "Understanding list comprehensions"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Python Concepts",
+            "submodule": [
+                {
+                    "name": "Object-Oriented Programming",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Classes and Objects",
+                            "description": [
+                                "Defining classes and creating objects",
+                                "Encapsulation, inheritance, and polymorphism",
+                                "Using magic methods and operator overloading"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Error Handling and File I/O",
+                            "description": [
+                                "Working with exceptions",
+                                "Handling file operations (read/write)",
+                                "Using context managers (with statements)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Data Science with Python",
+            "submodule": [
+                {
+                    "name": "Working with Data",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Data Analysis",
+                            "description": [
+                                "Using NumPy for numerical data",
+                                "Working with Pandas DataFrames",
+                                "Cleaning and preprocessing data"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Data Visualization",
+                            "description": [
+                                "Creating visualizations with Matplotlib",
+                                "Using Seaborn for statistical plots",
+                                "Interactive plots with Plotly"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Web Development with Python",
+            "submodule": [
+                {
+                    "name": "Building Web Applications",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Flask",
+                            "description": [
+                                "Setting up a Flask project",
+                                "Building routes and handling requests",
+                                "Rendering templates with Jinja2"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Introduction to Django",
+                            "description": [
+                                "Setting up a Django project",
+                                "Building models, views, and templates",
+                                "Implementing authentication and authorization"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Machine Learning with Python",
+            "submodule": [
+                {
+                    "name": "Applying Machine Learning",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Machine Learning",
+                            "description": [
+                                "Understanding supervised vs unsupervised learning",
+                                "Preprocessing data for machine learning",
+                                "Using scikit-learn for machine learning models"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Model Evaluation and Optimization",
+                            "description": [
+                                "Evaluating model performance with metrics",
+                                "Cross-validation and hyperparameter tuning",
+                                "Working with decision trees and random forests"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

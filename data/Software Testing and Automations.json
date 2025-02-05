@@ -1,0 +1,1983 @@
+{
+    "hashtag": "In Demand",
+    "title": "Software Testing and Automations",
+    "roleName": "Software Testing Professional",
+    "description": "Gain expertise in software testing and automation, ensuring the highest quality in software development. This course covers manual testing, automation frameworks, and advanced testing techniques to help you deliver robust, error-free software applications.",
+    "price": "40000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        }, 
+        {
+            "name": "3 Months",
+            "description" : "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description" : "Delivery Mode"
+        },
+        {
+            "name": "Industry relevant",
+            "description" : "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner level",
+            "description" : "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive course is designed for aspiring software testers and automation engineers. Whether you're a beginner or an experienced professional, this course will equip you with the skills and knowledge to excel in software testing and automation.",
+    "highlights": [
+        {"name": "Manual Testing",
+        "description":"Learn the fundamentals of manual testing and best practices."},
+        {"name": "Automation Testing",
+        "description": "Master automation frameworks like Selenium, JUnit, and TestNG."},
+        {"name": "Performance Testing",
+        "description":"Gain expertise in performance testing tools like JMeter."},
+        {"name": "API Testing",
+        "description":"Learn how to test APIs using tools like Postman and REST Assured."},
+        {"name": "Real-World Projects",
+        "description":"Work on real-world projects that demonstrate practical applications."},
+        {"name": "Continuous Testing",
+        "description":"Integrate testing into CI/CD pipelines for continuous quality assurance."}
+    ],
+    "roles": [
+        {
+        "title": "Quality Assurance Engineer",
+        "description": "QA Engineer with expertise in manual and automated testing, ensuring software reliability and performance using tools like Selenium and JIRA."
+        },
+        {
+        "title": "Automation Tester",
+        "description": "Automation Tester skilled in writing test scripts using Java, Python, and frameworks like Selenium, Appium, and Cypress to ensure continuous delivery."
+        },
+        {
+        "title": "Performance Tester",
+        "description": "Performance Tester specializing in tools like JMeter and LoadRunner, focusing on identifying and resolving application bottlenecks under varying workloads."
+        },
+        {
+        "title": "DevOps Tester",
+        "description": "DevOps Tester with experience in CI/CD pipelines, automating testing processes, and enhancing software quality in Agile environments."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Software Testing and Automations course?",
+            "answer": "The course spans six months from the start date."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need to install any specific software before starting the course?",
+            "answer": "Yes, you will be provided a list of required testing tools and automation frameworks after enrollment."
+        },
+        {
+            "question": "What are the prerequisites for enrolling in the course?",
+            "answer": "Basic knowledge of programming and software development concepts is recommended."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "DSA",
+            "submodule": [
+                {
+                    "name": "Data Structures",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Data Structures",
+                            "description": [
+                                "Overview of data structures and their importance in programming",
+                                "Classification of data structures: linear vs. non-linear",
+                                "Understanding abstract data types (ADTs)",
+                                "Real-world applications of data structures",
+                                "Introduction to algorithm efficiency and complexity analysis",
+                                "Choosing the right data structure for a problem"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Arrays and Strings",
+                            "description": [
+                                "Understanding arrays and their operations",
+                                "Advantages and limitations of arrays",
+                                "Multi-dimensional arrays and their use cases",
+                                "Working with strings as a data structure",
+                                "String operations: concatenation, search, and manipulation",
+                                "Common problems: reverse, palindrome, and substring search"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Linked Lists",
+                            "description": [
+                                "Introduction to linked lists and their types: singly, doubly, and circular",
+                                "Operations on linked lists: insertion, deletion, and traversal",
+                                "Advantages and disadvantages of linked lists vs. arrays",
+                                "Implementing linked lists in code",
+                                "Real-world applications of linked lists",
+                                "Complexity analysis of linked list operations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Stacks and Queues",
+                            "description": [
+                                "Understanding stack data structure and its operations",
+                                "Applications of stacks: expression evaluation and backtracking",
+                                "Introduction to queues and their types: simple, circular, and priority queues",
+                                "Operations on queues: enqueue, dequeue, and peek",
+                                "Implementing stacks and queues using arrays and linked lists",
+                                "Use cases of stacks and queues in real-world scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Trees",
+                            "description": [
+                                "Understanding tree structures and terminology",
+                                "Binary trees and their traversal methods: in-order, pre-order, post-order",
+                                "Binary search trees (BST): properties and operations",
+                                "Balanced trees: AVL and Red-Black trees",
+                                "Heaps and their applications in priority queues",
+                                "Real-world applications of tree data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graphs",
+                            "description": [
+                                "Introduction to graph data structure and terminology",
+                                "Graph representations: adjacency matrix and adjacency list",
+                                "Graph traversal techniques: depth-first search (DFS) and breadth-first search (BFS)",
+                                "Weighted graphs and shortest path algorithms",
+                                "Detecting cycles and connectivity in graphs",
+                                "Applications of graphs in networking, pathfinding, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Hashing and Hash Tables",
+                            "description": [
+                                "Understanding hashing and hash functions",
+                                "Introduction to hash tables and their operations",
+                                "Collision resolution techniques: chaining and open addressing",
+                                "Applications of hash tables in caching, dictionaries, and indexing",
+                                "Implementing hash tables in code",
+                                "Advantages and limitations of hashing"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Data Structures",
+                            "description": [
+                                "Introduction to tries and their use cases in text processing",
+                                "Understanding segment trees and Fenwick trees",
+                                "Disjoint sets (Union-Find) and their applications",
+                                "Sparse tables for range queries",
+                                "Graph-based data structures: adjacency sets and incidence matrices",
+                                "Applications of advanced data structures in competitive programming"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Algorithms",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Algorithms",
+                            "description": [
+                                "Understanding the importance of algorithms in problem-solving",
+                                "Overview of algorithm design and analysis",
+                                "Key characteristics of algorithms: correctness, efficiency, and scalability",
+                                "Classification of algorithms: sorting, searching, graph algorithms, etc.",
+                                "Introduction to time and space complexity",
+                                "Understanding Big-O, Big-Theta, and Big-Omega notations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Sorting and Searching Algorithms",
+                            "description": [
+                                "Overview of sorting algorithms: bubble sort, selection sort, insertion sort",
+                                "Efficient sorting algorithms: merge sort, quick sort, heap sort",
+                                "Comparing sorting algorithms: stability, efficiency, and use cases",
+                                "Linear search and binary search techniques",
+                                "Applications of sorting and searching in real-world scenarios",
+                                "Understanding sorting algorithms’ time complexity"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Divide and Conquer Algorithms",
+                            "description": [
+                                "Introduction to the divide and conquer approach",
+                                "Classic examples: merge sort, quick sort, and binary search",
+                                "Understanding recurrence relations and their solutions",
+                                "Applications of divide and conquer in computational problems",
+                                "Optimizations and challenges in divide and conquer algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Dynamic Programming",
+                            "description": [
+                                "Understanding the principles of dynamic programming",
+                                "Solving overlapping subproblems and optimal substructure",
+                                "Classic problems: Fibonacci, knapsack problem, and longest common subsequence",
+                                "Top-down (memoization) vs. bottom-up (tabulation) approaches",
+                                "Applications of dynamic programming in optimization problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Greedy Algorithms",
+                            "description": [
+                                "Understanding the greedy algorithm paradigm",
+                                "Key properties: greedy-choice property and optimal substructure",
+                                "Classic examples: activity selection, Huffman coding, and minimum spanning tree",
+                                "Greedy vs. dynamic programming: differences and applications",
+                                "Analyzing and implementing greedy algorithms"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graph Algorithms",
+                            "description": [
+                                "Introduction to graphs and their representations",
+                                "Depth-first search (DFS) and breadth-first search (BFS)",
+                                "Shortest path algorithms: Dijkstra’s and Bellman-Ford",
+                                "Minimum spanning tree algorithms: Kruskal’s and Prim’s",
+                                "Applications of graph algorithms in real-world scenarios",
+                                "Understanding graph traversal and connectivity"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Backtracking and Recursion",
+                            "description": [
+                                "Understanding the concept of backtracking",
+                                "Classic problems: N-Queens, Sudoku, and Hamiltonian cycle",
+                                "Recursion fundamentals and its role in algorithm design",
+                                "Memoization and pruning techniques in backtracking",
+                                "Applications and limitations of backtracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Topics and Optimization",
+                            "description": [
+                                "Introduction to randomized algorithms",
+                                "Understanding and solving NP-complete problems",
+                                "Branch and bound techniques",
+                                "Approximation algorithms for intractable problems",
+                                "Parallel algorithms and their applications",
+                                "Real-world applications of advanced algorithms"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Programming",
+            "submodule": [
+                {
+                    "name": "Python",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Python",
+                            "description": [
+                                "Overview of Python and its features",
+                                "Installing Python and setting up the development environment",
+                                "Python syntax and first program",
+                                "Indentation, keywords, identifiers, and input/output"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Python Basic Constructs",
+                            "description": [
+                                "Variables and memory management",
+                                "Data types, operators, type conversions",
+                                "Comments and implicit/explicit conversions"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Control Flow",
+                            "description": [
+                                "Conditional statements (if-else)",
+                                "Loops (for, while, nested)",
+                                "Break, pass, and continue statements"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Python Functions",
+                            "description": [
+                                "Defining, calling functions",
+                                "Lambda functions, recursion",
+                                "Variable scope, *args, and **kwargs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Python Strings",
+                            "description": [
+                                "String methods and formatting",
+                                "Escape sequences and manipulations"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Data Structures",
+                            "description": [
+                                "Lists, tuples, sets, dictionaries",
+                                "Comprehensions for lists and dictionaries"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Object-Oriented Programming",
+                            "description": [
+                                "Classes, objects, inheritance, and encapsulation",
+                                "Dunder methods and advanced concepts"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Exception Handling",
+                            "description": [
+                                "Error handling (try, catch, finally)",
+                                "File handling and custom exceptions"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Advanced Python Concepts",
+                            "description": [
+                                "Iterators, generators, decorators",
+                                "Multithreading, multiprocessing",
+                                "Regular expressions and advanced data structures"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Python for Web Development",
+                            "description": [
+                                "Basics of Flask/Django",
+                                "API creation, form handling, and database integration"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: Python for Data Analysis",
+                            "description": [
+                                "Pandas, NumPy, and Matplotlib",
+                                "Data visualization and statistics"
+                            ]
+                        }
+                    
+                    ]
+                },
+                {
+                "name": "Java",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Java",
+                        "description": [
+                            "Java history, features, and architecture",
+                            "Setting up JDK, JRE, JVM",
+                            "Control Flow",
+                            "Writing and running the first program"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Variables and Data Types",
+                        "description": [
+                            "Primitive and reference data types",
+                            "Type casting and conversions"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Operators and Expressions",
+                        "description": [
+                            "Arithmetic, assignment, comparison, logical operators"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Control Flow",
+                        "description": [
+                            "Conditional statements",
+                            "Loops (for, while, do-while)",
+                            "Break and continue"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Arrays",
+                        "description": [
+                            "Single and multidimensional arrays",
+                            "Array manipulation"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Object-Oriented Programming",
+                        "description": [
+                            "Classes, constructors, inheritance, polymorphism",
+                            "Abstract classes and interfaces"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Exception Handling",
+                        "description": [
+                            "Handling exceptions with try-catch",
+                            "Custom exceptions and finally"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Input and Output",
+                        "description": [
+                            "File handling, streams, and serialization"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Collections Framework",
+                        "description": [
+                            "Lists, sets, queues, maps",
+                            "Iterating over collections"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Multithreading",
+                        "description": [
+                            "Thread creation and management"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: JDBC and Database Access",
+                        "description": [
+                            "Connecting to databases, executing queries"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Java Design Patterns",
+                        "description": [
+                            "Key patterns like Singleton, Factory"
+                        ]
+                    }
+                   
+                ]
+                }
+            ]
+        },
+        {
+            "module": "Database",
+            "submodule": [
+                {
+                "name": "SQL",
+                "chapters": [
+                    {
+                        "module": "Module 1: Introduction to Databases",
+                        "description": [
+                            "Overview of databases and their importance in data management",
+                            "Types of databases (Relational and Non-Relational)",
+                            "DBMS architecture and its role in modern applications",
+                            "Setting up and configuring a database management system"
+                        ]
+                    },
+                    {
+                        "module": "Module 2: Database Design Concepts",
+                        "description": [
+                            "Data modeling and understanding the relational database model",
+                            "Entities, attributes, and relationships",
+                            "Keys and constraints in relational databases",
+                            "Data types and functional dependencies",
+                            "Normalization (1NF, 2NF, 3NF) and denormalization"
+                        ]
+                    },
+                    {
+                        "module": "Module 3: Create, Alter, and Drop Databases and Tables",
+                        "description": [
+                            "Creating and dropping databases and tables",
+                            "Altering tables and creating relationships",
+                            "Understanding character sets and collations"
+                        ]
+                    },
+                    {
+                        "module": "Module 4: Insert, Update, and Delete Data",
+                        "description": [
+                            "Inserting single and multiple rows",
+                            "Using subqueries in updates",
+                            "Deleting rows and restoring databases"
+                        ]
+                    },
+                    {
+                        "module": "Module 5: Retrieving Data From a Single Table",
+                        "description": [
+                            "SELECT clause, FROM clause, WHERE clause",
+                            "Relational and logical operators",
+                            "IN, BETWEEN, and LIKE operators",
+                            "REGEXP operator and sorting with ORDER BY",
+                            "LIMIT clause for paginated results"
+                        ]
+                    },
+                    {
+                        "module": "Module 6: Retrieving Data From Multiple Tables",
+                        "description": [
+                            "Inner joins and outer joins (left, right, full)",
+                            "Compound join conditions and USING clause",
+                            "Self joins, cross joins, and unions"
+                        ]
+                    },
+                    {
+                        "module": "Module 7: Subqueries and Complex Queries",
+                        "description": [
+                            "Writing subqueries (correlated subqueries, in SELECT, FROM, WHERE clauses)",
+                            "Using EXISTS and NOT EXISTS operators",
+                            "ALL and ANY keywords for comparisons"
+                        ]
+                    },
+                    {
+                        "module": "Module 8: Summarizing Data and Essential Functions",
+                        "description": [
+                            "DISTINCT keyword for unique results",
+                            "Aggregate functions and GROUP BY clause",
+                            "HAVING clause and ROLLUP operator",
+                            "Built-in functions: string, numeric, date functions",
+                            "Conditional logic with IFNULL, COALESCE, IF, and CASE"
+                        ]
+                    },
+                    {
+                        "module": "Module 9: Views, Stored Procedures, and Triggers",
+                        "description": [
+                            "Creating, altering, and dropping views",
+                            "Stored procedures and functions (parameters and variables)",
+                            "Creating triggers and handling events"
+                        ]
+                    },
+                    {
+                        "module": "Module 10: Transactions and Concurrency",
+                        "description": [
+                            "Understanding ACID properties",
+                            "Concurrency and locking mechanisms",
+                            "Transaction isolation levels and handling deadlocks"
+                        ]
+                    },
+                    {
+                        "module": "Module 11: Indexing for High Performance",
+                        "description": [
+                            "Creating and managing indexes (full-text, composite, covering indexes)",
+                            "Using indexes for sorting and optimizing queries",
+                            "Index maintenance and scenarios when indexes are ignored"
+                        ]
+                    },
+                    {
+                        "module": "Module 12: Securing Databases",
+                        "description": [
+                            "Creating, viewing, and dropping users",
+                            "Granting, revoking, and managing privileges",
+                            "Password management and database security"
+                        ]
+                    }
+                ]
+                
+            }
+            ]
+        },
+        {
+            "module": "Agile",
+            "submodule": [
+                {
+                    "name": "Agile",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Agile",
+                            "description": [
+                                "Understanding the principles and values of Agile",
+                                "History and evolution of Agile methodologies",
+                                "The Agile Manifesto and its impact on software development",
+                                "Key differences between Agile and traditional models",
+                                "Benefits of adopting Agile practices",
+                                "Overview of Agile frameworks: Scrum, Kanban, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Agile Frameworks and Methodologies",
+                            "description": [
+                                "Introduction to Scrum and its components",
+                                "Understanding Kanban and Lean principles",
+                                "Exploring Extreme Programming (XP)",
+                                "Scaled Agile Framework (SAFe) for enterprise applications",
+                                "When to choose specific Agile frameworks",
+                                "Combining multiple frameworks in hybrid approaches"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Agile Roles and Responsibilities",
+                            "description": [
+                                "Roles in Agile: Product Owner, Scrum Master, and Development Team",
+                                "Key responsibilities of each role",
+                                "Cross-functional teams and collaboration",
+                                "Stakeholder involvement and communication",
+                                "Leadership in an Agile environment",
+                                "How to build and empower Agile teams"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Agile Processes and Practices",
+                            "description": [
+                                "Sprint planning and backlog refinement",
+                                "Daily stand-ups and team synchronization",
+                                "Iteration reviews and retrospectives",
+                                "Continuous integration and delivery (CI/CD)",
+                                "Timeboxing and prioritization techniques",
+                                "Handling changes and feedback in Agile projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Agile Tools and Metrics",
+                            "description": [
+                                "Overview of popular Agile tools: Jira, Trello, Azure DevOps, etc.",
+                                "Tracking progress with burn-down and burn-up charts",
+                                "Understanding velocity and capacity planning",
+                                "Using Agile dashboards and reporting",
+                                "Assessing team performance with key metrics",
+                                "Automating workflows in Agile tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Agile in Practice",
+                            "description": [
+                                "Agile implementation strategies for organizations",
+                                "Handling challenges in Agile adoption",
+                                "Dealing with distributed and remote teams in Agile",
+                                "Agile project management in non-software industries",
+                                "Role of coaching and training in Agile transformation",
+                                "Real-life examples of successful Agile projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Agile Concepts",
+                            "description": [
+                                "Introduction to DevOps and its connection with Agile",
+                                "Exploring business agility and enterprise agility",
+                                "Agile contract management and budgeting",
+                                "Scaling Agile practices in large organizations",
+                                "Future trends in Agile methodologies",
+                                "Continuous improvement and innovation in Agile"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Test Design",
+            "submodule": [
+                {
+                    "name": "Black-box Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Black-box Testing",
+                            "description": [
+                                "Understanding the concept of Black-box Testing",
+                                "Key differences between Black-box and White-box Testing",
+                                "Advantages and limitations of Black-box Testing",
+                                "Roles of testers in Black-box Testing",
+                                "When to use Black-box Testing in the software development lifecycle",
+                                "Overview of real-world applications"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Black-box Testing Techniques",
+                            "description": [
+                                "Equivalence Partitioning: definition and examples",
+                                "Boundary Value Analysis: importance and implementation",
+                                "Decision Table Testing: identifying test cases",
+                                "State Transition Testing: mapping inputs to outputs",
+                                "Error Guessing: leveraging tester experience",
+                                "Combining multiple techniques for comprehensive coverage"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Types of Black-box Testing",
+                            "description": [
+                                "Functional Testing: verifying requirements and features",
+                                "Non-functional Testing: testing performance, usability, and reliability",
+                                "Regression Testing: ensuring unchanged functionality after updates",
+                                "Acceptance Testing: validating user needs and business requirements",
+                                "Smoke and Sanity Testing: quick checks for critical functionalities",
+                                "Compatibility Testing: cross-platform and cross-browser verification"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Tools for Black-box Testing",
+                            "description": [
+                                "Overview of popular tools: Selenium, Appium, and QTP",
+                                "Recording and automating test cases with tools",
+                                "Creating and executing test scripts",
+                                "Integrating Black-box Testing tools into CI/CD pipelines",
+                                "Comparing manual and automated Black-box Testing",
+                                "Best practices for selecting and using testing tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Writing Effective Black-box Test Cases",
+                            "description": [
+                                "Understanding test case design principles",
+                                "Identifying inputs, outputs, and expected results",
+                                "Defining preconditions and postconditions for test cases",
+                                "Creating traceability matrices for requirement coverage",
+                                "Prioritizing test cases based on risk and impact",
+                                "Documenting test cases for reusability"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Challenges and Solutions in Black-box Testing",
+                            "description": [
+                                "Common challenges in Black-box Testing",
+                                "Handling incomplete or ambiguous requirements",
+                                "Dealing with dynamic and complex applications",
+                                "Ensuring adequate test coverage with limited information",
+                                "Collaborating with developers and stakeholders",
+                                "Best practices for overcoming testing challenges"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Topics in Black-box Testing",
+                            "description": [
+                                "Exploring security testing and penetration testing",
+                                "Testing APIs and web services using Black-box techniques",
+                                "Incorporating exploratory testing into Black-box Testing",
+                                "Performance testing using Black-box approaches",
+                                "Testing in agile and DevOps environments",
+                                "Future trends in Black-box Testing"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "White-box Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to White-box Testing",
+                            "description": [
+                                "Understanding the concept of White-box Testing",
+                                "Key differences between White-box and Black-box Testing",
+                                "Importance of White-box Testing in the software development lifecycle",
+                                "Advantages and limitations of White-box Testing",
+                                "Roles and responsibilities of testers and developers",
+                                "Real-world applications of White-box Testing"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: White-box Testing Techniques",
+                            "description": [
+                                "Statement Coverage: ensuring all statements are executed",
+                                "Branch Coverage: verifying all code branches",
+                                "Path Coverage: testing all possible execution paths",
+                                "Condition Coverage: checking logical conditions",
+                                "Loop Testing: validating loops in the code",
+                                "Data Flow Testing: analyzing variable usage and flow"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Types of White-box Testing",
+                            "description": [
+                                "Unit Testing: testing individual components",
+                                "Integration Testing: verifying interactions between modules",
+                                "Regression Testing: ensuring updates don’t affect existing code",
+                                "Security Testing: identifying vulnerabilities in the code",
+                                "Mutation Testing: evaluating code changes for accuracy",
+                                "Static Code Analysis: inspecting code without execution"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Tools for White-box Testing",
+                            "description": [
+                                "Overview of popular tools: JUnit, NUnit, PyTest, and TestNG",
+                                "Automating unit and integration tests",
+                                "Code coverage analysis with tools like SonarQube and JaCoCo",
+                                "Static analysis tools for code quality assurance",
+                                "Debugging tools for White-box Testing",
+                                "Integrating White-box Testing tools into CI/CD pipelines"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Writing Effective Test Cases in White-box Testing",
+                            "description": [
+                                "Designing test cases based on code logic",
+                                "Identifying critical paths and edge cases",
+                                "Documenting preconditions, inputs, and expected outputs",
+                                "Prioritizing test cases for maximum coverage",
+                                "Creating reusable and maintainable test cases",
+                                "Incorporating White-box Testing into test suites"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Challenges and Best Practices in White-box Testing",
+                            "description": [
+                                "Overcoming challenges of limited tester knowledge",
+                                "Dealing with complex and large codebases",
+                                "Balancing time constraints and thorough testing",
+                                "Collaborating with developers for better code understanding",
+                                "Using code review and pair programming as testing aids",
+                                "Best practices for efficient and effective White-box Testing"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Topics in White-box Testing",
+                            "description": [
+                                "Understanding and implementing test-driven development (TDD)",
+                                "Behavior-driven development (BDD) with White-box principles",
+                                "Refactoring tests for legacy codebases",
+                                "Advanced debugging and root cause analysis",
+                                "White-box Testing in agile and DevOps environments",
+                                "Future trends in White-box Testing techniques and tools"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Grey-box Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Grey-box Testing",
+                            "description": [
+                                "Understanding the concept of Grey-box Testing",
+                                "Differences between Grey-box, White-box, and Black-box Testing",
+                                "Key benefits of combining both internal and external perspectives",
+                                "Importance of Grey-box Testing in the software development lifecycle",
+                                "Real-world applications and examples of Grey-box Testing",
+                                "Challenges in adopting Grey-box Testing"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Grey-box Testing Techniques",
+                            "description": [
+                                "Matrix Testing: verifying relationships between modules",
+                                "Regression Testing: using partial knowledge of the internal code",
+                                "Pattern-based Testing: identifying behavioral patterns in code",
+                                "Data Flow Testing: analyzing the movement of data",
+                                "Fault Injection Testing: introducing faults to test system robustness",
+                                "Session-based Testing: combining exploratory and scripted approaches"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Types of Grey-box Testing",
+                            "description": [
+                                "Penetration Testing: assessing security vulnerabilities",
+                                "Integration Testing: validating module interfaces with partial code knowledge",
+                                "End-to-End Testing: ensuring the entire system functions as expected",
+                                "UI/Backend Testing: examining both frontend behavior and backend logic",
+                                "API Testing: validating APIs with knowledge of their implementation",
+                                "Database Testing: testing queries and data integrity using schema knowledge"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Tools for Grey-box Testing",
+                            "description": [
+                                "Popular tools: Selenium, Postman, JMeter, and Burp Suite",
+                                "API testing tools and their application in Grey-box Testing",
+                                "Integrating automated testing frameworks with Grey-box principles",
+                                "Tools for monitoring logs and debugging issues",
+                                "Test management tools for combining manual and automated test cases",
+                                "Choosing the right tools for hybrid testing scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Writing Effective Grey-box Test Cases",
+                            "description": [
+                                "Identifying test scenarios combining external and internal views",
+                                "Mapping test cases to requirements and code structure",
+                                "Designing test cases for APIs, databases, and integrations",
+                                "Prioritizing test cases based on risk and complexity",
+                                "Ensuring coverage for both functional and non-functional aspects",
+                                "Documenting test cases for reproducibility and traceability"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Challenges and Best Practices in Grey-box Testing",
+                            "description": [
+                                "Balancing knowledge of internal code with external testing perspectives",
+                                "Handling incomplete or unclear system information",
+                                "Collaborating with developers and stakeholders for shared insights",
+                                "Ensuring comprehensive coverage with limited resources",
+                                "Maintaining the balance between manual and automated testing",
+                                "Best practices for implementing Grey-box Testing effectively"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Topics in Grey-box Testing",
+                            "description": [
+                                "Exploring hybrid testing strategies for complex systems",
+                                "Testing microservices with Grey-box approaches",
+                                "Security testing using Grey-box techniques",
+                                "Performance optimization through targeted Grey-box Testing",
+                                "Grey-box Testing in agile and DevOps workflows",
+                                "Future trends in Grey-box Testing methodologies"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Manual Testing",
+            "submodule": [
+                {
+                    "name": "Functional Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Functional Testing",
+                            "description": [
+                                "Understanding the concept of Functional Testing",
+                                "Importance of testing software functionality",
+                                "Differences between Functional and Non-Functional Testing",
+                                "Role of Functional Testing in the software development lifecycle",
+                                "Common misconceptions about Functional Testing",
+                                "Examples of Functional Testing scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Types of Functional Testing",
+                            "description": [
+                                "Unit Testing: verifying individual components",
+                                "Integration Testing: testing interactions between modules",
+                                "System Testing: ensuring the complete system works as intended",
+                                "Smoke Testing: checking critical functionalities",
+                                "Sanity Testing: validating minor fixes or changes",
+                                "Regression Testing: confirming that new changes do not break existing functionality",
+                                "User Acceptance Testing (UAT): testing from the end-user perspective"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Functional Testing Techniques",
+                            "description": [
+                                "Requirement-based Testing: aligning test cases with requirements",
+                                "Equivalence Partitioning: reducing the number of test cases while maintaining coverage",
+                                "Boundary Value Analysis: testing edge cases of input ranges",
+                                "Decision Table Testing: validating complex business logic",
+                                "State Transition Testing: testing workflows and states of the application",
+                                "Exploratory Testing: identifying potential issues without predefined cases"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Tools for Functional Testing",
+                            "description": [
+                                "Popular Functional Testing tools: Selenium, QTP, and TestComplete",
+                                "Automated vs. Manual Functional Testing tools",
+                                "Using JIRA and TestRail for managing test cases",
+                                "API Functional Testing tools: Postman, SoapUI, and RestAssured",
+                                "Integrating Functional Testing tools with CI/CD pipelines",
+                                "Choosing the right tools for your testing needs"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Writing Effective Test Cases for Functional Testing",
+                            "description": [
+                                "Understanding test case components: input, output, and validation",
+                                "Mapping test cases to functional requirements",
+                                "Prioritizing critical functionalities for testing",
+                                "Creating reusable and modular test cases",
+                                "Designing positive and negative test scenarios",
+                                "Documenting test cases for clarity and traceability"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Best Practices in Functional Testing",
+                            "description": [
+                                "Ensuring comprehensive coverage of requirements",
+                                "Collaboration with developers and stakeholders",
+                                "Balancing manual and automated Functional Testing",
+                                "Using exploratory techniques to uncover hidden issues",
+                                "Adopting a risk-based approach for prioritization",
+                                "Maintaining updated test cases for evolving requirements"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced Topics in Functional Testing",
+                            "description": [
+                                "Functional Testing in agile and DevOps environments",
+                                "Testing microservices and APIs for functionality",
+                                "Functional Testing for mobile and web applications",
+                                "Incorporating AI and machine learning in Functional Testing",
+                                "Performance optimization through Functional Testing",
+                                "Future trends in Functional Testing"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Regression Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Regression Testing",
+                            "description": [
+                                "Understanding the concept of Regression Testing",
+                                "Importance of ensuring software stability after changes",
+                                "Differences between Regression Testing and other testing types",
+                                "Role of Regression Testing in the software development lifecycle",
+                                "Common challenges in Regression Testing",
+                                "Examples of scenarios requiring Regression Testing"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Types of Regression Testing",
+                            "description": [
+                                "Corrective Regression Testing: verifying unchanged functionality",
+                                "Retest-all Regression Testing: testing the entire system",
+                                "Selective Regression Testing: focusing on specific areas affected by changes",
+                                "Progressive Regression Testing: testing with new test cases",
+                                "Complete Regression Testing: ensuring system-wide stability",
+                                "Partial Regression Testing: testing adjacent modules to the updated code"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: When to Perform Regression Testing",
+                            "description": [
+                                "After bug fixes or code changes",
+                                "Following the addition of new features",
+                                "Post-performance improvements or optimizations",
+                                "During environment or configuration updates",
+                                "After system integration or migration",
+                                "In preparation for major releases"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Strategies for Effective Regression Testing",
+                            "description": [
+                                "Prioritizing critical and high-risk areas for testing",
+                                "Creating a robust Regression Test Suite",
+                                "Using automation for repetitive test cases",
+                                "Incorporating Continuous Testing in CI/CD pipelines",
+                                "Balancing manual and automated Regression Testing",
+                                "Analyzing test results for efficient debugging"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Tools for Regression Testing",
+                            "description": [
+                                "Overview of Regression Testing tools: Selenium, Appium, and TestNG",
+                                "API Regression Testing tools: Postman, RestAssured, and SoapUI",
+                                "Test management tools: JIRA, TestRail, and Zephyr",
+                                "Integrating Regression Testing tools with build systems like Jenkins",
+                                "Exploring record-and-playback tools for quick test automation",
+                                "Criteria for selecting the right tools for your project"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Writing and Maintaining Regression Test Cases",
+                            "description": [
+                                "Identifying reusable test cases for regression",
+                                "Documenting test cases with input, expected output, and steps",
+                                "Prioritizing test cases based on risk and impact",
+                                "Updating test cases to align with new features and fixes",
+                                "Grouping test cases for modular execution",
+                                "Ensuring comprehensive coverage through traceability matrices"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Best Practices in Regression Testing",
+                            "description": [
+                                "Planning regression tests early in the development cycle",
+                                "Collaborating with developers and QA teams",
+                                "Leveraging test automation for repetitive tasks",
+                                "Regularly updating the Regression Test Suite",
+                                "Minimizing test execution time through optimization",
+                                "Monitoring and analyzing test outcomes to prevent regression defects"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Advanced Topics in Regression Testing",
+                            "description": [
+                                "Regression Testing in agile and DevOps workflows",
+                                "Testing microservices and distributed systems for regression",
+                                "Handling large Regression Test Suites efficiently",
+                                "Using AI and ML for predictive Regression Testing",
+                                "Regression Testing in mobile and cloud environments",
+                                "Future trends and innovations in Regression Testing"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Automation",
+            "submodule": [
+                {
+                    "name": "Selenium",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Selenium",
+                            "description": [
+                                "Understanding Selenium as a test automation framework",
+                                "Advantages of using Selenium for web application testing",
+                                "Components of Selenium: Selenium WebDriver, Selenium IDE, and Selenium Grid",
+                                "Overview of supported browsers and programming languages",
+                                "Setting up the Selenium environment",
+                                "Difference between Selenium and other test automation tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Selenium WebDriver Basics",
+                            "description": [
+                                "Understanding the role of WebDriver in Selenium",
+                                "Installing WebDriver for different browsers",
+                                "Navigating to URLs and interacting with web elements",
+                                "Understanding locators: ID, name, class, XPath, and CSS selectors",
+                                "Handling waits: implicit and explicit waits",
+                                "Performing basic assertions and validations"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced WebDriver Features",
+                            "description": [
+                                "Working with dynamic web elements",
+                                "Handling dropdowns, checkboxes, and radio buttons",
+                                "Performing actions using keyboard and mouse events",
+                                "Interacting with iframes and pop-ups",
+                                "Working with tables and dynamic data",
+                                "Taking screenshots during test execution"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Test Automation Frameworks with Selenium",
+                            "description": [
+                                "Introduction to test automation frameworks",
+                                "Understanding data-driven, keyword-driven, and hybrid frameworks",
+                                "Integrating Selenium with TestNG or JUnit",
+                                "Creating reusable functions and modular test scripts",
+                                "Implementing logging and reporting mechanisms",
+                                "Configuring parameterization for test cases"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Selenium Grid",
+                            "description": [
+                                "Introduction to Selenium Grid for distributed testing",
+                                "Setting up a Selenium Grid hub and nodes",
+                                "Executing tests on multiple browsers and platforms",
+                                "Configuring parallel test execution",
+                                "Benefits and challenges of using Selenium Grid",
+                                "Best practices for efficient Selenium Grid setup"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Handling Advanced Scenarios in Selenium",
+                            "description": [
+                                "Automating file uploads and downloads",
+                                "Testing APIs in conjunction with Selenium",
+                                "Dealing with AJAX and JavaScript-heavy applications",
+                                "Handling browser alerts and authentication dialogs",
+                                "Executing JavaScript commands using Selenium",
+                                "Debugging and troubleshooting Selenium scripts"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Integrating Selenium with Other Tools",
+                            "description": [
+                                "Integrating Selenium with CI/CD tools like Jenkins",
+                                "Using Maven or Gradle for project management",
+                                "Implementing Selenium tests with Docker containers",
+                                "Integrating Selenium with reporting tools like Allure and ExtentReports",
+                                "Using Selenium in conjunction with Appium for mobile testing",
+                                "Leveraging cloud-based testing platforms like BrowserStack and Sauce Labs"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Best Practices in Selenium Automation",
+                            "description": [
+                                "Writing maintainable and readable Selenium scripts",
+                                "Optimizing test scripts for performance",
+                                "Using version control systems like Git with Selenium projects",
+                                "Handling flaky tests and minimizing failures",
+                                "Ensuring compatibility across browsers and devices",
+                                "Regularly updating dependencies and WebDriver versions"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Future Trends and Innovations in Selenium",
+                            "description": [
+                                "Exploring Selenium 4 features and updates",
+                                "Using AI and ML in test automation",
+                                "Trends in cloud-based and headless browser testing",
+                                "Transitioning from manual to automated testing",
+                                "Future of Selenium in the evolving web development landscape",
+                                "Exploring alternative tools and their integration with Selenium"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Tools",
+            "submodule": [
+                {
+                    "name": "Jenkins",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Jenkins",
+                            "description": [
+                                "Understanding Continuous Integration and Continuous Deployment (CI/CD)",
+                                "Overview of Jenkins and its importance in CI/CD pipelines",
+                                "Jenkins architecture and components",
+                                "Features and benefits of Jenkins",
+                                "Installing and setting up Jenkins on various platforms",
+                                "Overview of the Jenkins user interface"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Jenkins Job Configuration",
+                            "description": [
+                                "Creating and configuring Jenkins jobs",
+                                "Understanding freestyle and pipeline jobs",
+                                "Configuring build triggers and schedules",
+                                "Working with source code repositories (Git, SVN, etc.)",
+                                "Executing shell scripts and batch commands",
+                                "Understanding and managing build history"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Jenkins Pipelines",
+                            "description": [
+                                "Introduction to Jenkins pipelines",
+                                "Difference between declarative and scripted pipelines",
+                                "Creating a simple pipeline using the Jenkinsfile",
+                                "Using pipeline stages, steps, and agents",
+                                "Integrating source control and build tools in pipelines",
+                                "Debugging and troubleshooting pipeline scripts"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Jenkins Plugins",
+                            "description": [
+                                "Understanding the role of plugins in Jenkins",
+                                "Installing and managing plugins",
+                                "Popular plugins for CI/CD pipelines (Git, Maven, Slack, etc.)",
+                                "Using plugins for testing, deployment, and reporting",
+                                "Updating and troubleshooting Jenkins plugins",
+                                "Customizing Jenkins with plugin configurations"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Automated Testing with Jenkins",
+                            "description": [
+                                "Integrating Jenkins with testing frameworks like JUnit and TestNG",
+                                "Running automated tests and collecting test reports",
+                                "Configuring Jenkins to handle failed tests",
+                                "Working with code quality tools like SonarQube",
+                                "Setting up post-build actions for test analysis",
+                                "Generating test reports and visualizations in Jenkins"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Deployment Automation with Jenkins",
+                            "description": [
+                                "Understanding deployment strategies in Jenkins",
+                                "Configuring Jenkins for container-based deployments (Docker, Kubernetes)",
+                                "Automating deployments to staging and production environments",
+                                "Integrating Jenkins with cloud platforms (AWS, Azure, GCP)",
+                                "Using Jenkins for rolling updates and blue-green deployments",
+                                "Ensuring zero-downtime deployments with Jenkins"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Securing Jenkins",
+                            "description": [
+                                "Understanding Jenkins security concepts",
+                                "Configuring authentication and authorization",
+                                "Using roles and permissions for access control",
+                                "Securing Jenkins pipelines and credentials",
+                                "Setting up SSL and HTTPS for Jenkins",
+                                "Monitoring and auditing Jenkins activity logs"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Jenkins for DevOps Workflows",
+                            "description": [
+                                "Using Jenkins for infrastructure as code (IaC) with tools like Terraform",
+                                "Integrating Jenkins with Ansible for configuration management",
+                                "Automating container builds with Docker and Jenkins",
+                                "Using Jenkins for multi-branch pipelines in Git workflows",
+                                "Implementing Jenkins in a microservices architecture",
+                                "Optimizing Jenkins for large-scale DevOps projects"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Scaling and Monitoring Jenkins",
+                            "description": [
+                                "Setting up distributed builds with Jenkins nodes",
+                                "Using Jenkins master-agent architecture",
+                                "Optimizing Jenkins performance with monitoring tools",
+                                "Integrating Jenkins with logging and monitoring systems (ELK, Prometheus, etc.)",
+                                "Handling high availability with Jenkins backups and failovers",
+                                "Best practices for scaling Jenkins in enterprise environments"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Best Practices and Advanced Topics",
+                            "description": [
+                                "Creating reusable and maintainable pipelines",
+                                "Version controlling Jenkins configurations with Jenkinsfile",
+                                "Migrating Jenkins jobs between servers",
+                                "Exploring Jenkins X for Kubernetes-native CI/CD",
+                                "Keeping Jenkins up-to-date with minimal disruption",
+                                "Future trends in CI/CD and Jenkins"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TestRail",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to TestRail",
+                            "description": [
+                                "Overview of TestRail and its role in test management",
+                                "Understanding TestRail's interface and navigation",
+                                "Key features and benefits of using TestRail",
+                                "Setting up TestRail for the first time",
+                                "TestRail editions and deployment options",
+                                "Introduction to user roles and permissions in TestRail"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Test Case Management",
+                            "description": [
+                                "Creating and organizing test cases",
+                                "Using test case templates for consistency",
+                                "Adding test steps, expected results, and attachments",
+                                "Grouping test cases using sections and sub-sections",
+                                "Tagging test cases for easy search and reporting",
+                                "Best practices for writing effective test cases"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Test Suites and Plans",
+                            "description": [
+                                "Understanding test suites and their purpose",
+                                "Creating and managing test suites",
+                                "Introduction to test plans and test runs",
+                                "Configuring test environments within a test plan",
+                                "Cloning and reusing test plans for efficiency",
+                                "Assigning test runs to team members"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Test Execution and Reporting",
+                            "description": [
+                                "Executing test cases and recording results",
+                                "Using bulk editing for quick updates",
+                                "Attaching evidence to test results",
+                                "Generating test reports and dashboards",
+                                "Using filters for custom reporting",
+                                "Exporting test execution data for external analysis"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Integration with Other Tools",
+                            "description": [
+                                "Integrating TestRail with issue tracking tools (e.g., JIRA, Bugzilla)",
+                                "Connecting TestRail with test automation frameworks",
+                                "Using TestRail API for custom integrations",
+                                "Syncing defects and test results with external tools",
+                                "Configuring webhooks for real-time notifications",
+                                "Managing continuous testing workflows with CI/CD integration"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Advanced Features in TestRail",
+                            "description": [
+                                "Using milestones to track project progress",
+                                "Customizing fields, statuses, and workflows",
+                                "Creating reusable configurations for test runs",
+                                "Managing shared steps across multiple test cases",
+                                "Analyzing historical test data for trends",
+                                "Configuring email notifications and alerts"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: TestRail Administration",
+                            "description": [
+                                "User and role management in TestRail",
+                                "Configuring global and project-specific settings",
+                                "Managing project access and permissions",
+                                "Backing up and restoring TestRail data",
+                                "Upgrading and maintaining TestRail",
+                                "Troubleshooting common issues in TestRail"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Best Practices and Optimization",
+                            "description": [
+                                "Organizing test cases for scalability and clarity",
+                                "Implementing naming conventions for consistency",
+                                "Streamlining test processes using templates and automation",
+                                "Improving collaboration with shared resources",
+                                "Optimizing test reporting for actionable insights",
+                                "Staying up-to-date with TestRail updates and features"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advance",
+            "submodule": [
+                {
+                    "name": "Performance Testing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Performance Testing",
+                            "description": [
+                                "Overview of performance testing and its importance in software development",
+                                "Different types of performance testing: Load Testing, Stress Testing, Spike Testing, Endurance Testing",
+                                "Performance testing vs functional testing",
+                                "Key performance metrics: response time, throughput, scalability, resource utilization",
+                                "Performance testing lifecycle",
+                                "Tools and frameworks used for performance testing"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Load Testing",
+                            "description": [
+                                "Understanding load testing and its goals",
+                                "Simulating virtual users to measure application performance under expected load",
+                                "Identifying system bottlenecks under normal load conditions",
+                                "Load testing best practices",
+                                "Tools for load testing (e.g., Apache JMeter, LoadRunner, Gatling)",
+                                "Analyzing load testing results"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Stress Testing",
+                            "description": [
+                                "Introduction to stress testing and its objectives",
+                                "Determining the system's breaking point and its behavior under extreme conditions",
+                                "Identifying critical failure points and performance degradation",
+                                "Stress testing best practices",
+                                "Common stress testing tools and their setup",
+                                "Analyzing stress testing results and system recovery"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Spike Testing",
+                            "description": [
+                                "What is spike testing and why is it important?",
+                                "Simulating sudden spikes in user traffic and its impact on system performance",
+                                "Identifying system stability during sudden load increases",
+                                "Best practices for spike testing",
+                                "Using tools like Apache JMeter, BlazeMeter for spike testing",
+                                "Evaluating system response to traffic spikes"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Endurance Testing",
+                            "description": [
+                                "Understanding endurance testing and its role in performance testing",
+                                "Simulating long-term usage scenarios to test for memory leaks and resource depletion",
+                                "Identifying performance degradation over time",
+                                "Best practices for endurance testing",
+                                "Tools for endurance testing",
+                                "Interpreting results from endurance tests"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Performance Test Design and Planning",
+                            "description": [
+                                "Designing effective performance test plans",
+                                "Defining performance criteria and success metrics",
+                                "Creating realistic user scenarios for testing",
+                                "Determining the right test environment for performance testing",
+                                "Setting up performance monitoring tools (e.g., New Relic, Dynatrace)",
+                                "Establishing performance benchmarks and targets"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Performance Testing Tools and Frameworks",
+                            "description": [
+                                "Overview of popular performance testing tools",
+                                "Introduction to Apache JMeter, LoadRunner, Gatling, NeoLoad, and others",
+                                "Installing and setting up performance testing tools",
+                                "Creating and running performance tests with tools",
+                                "Integrating performance testing tools with CI/CD pipelines",
+                                "Choosing the right performance testing tool for your application"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Analyzing and Interpreting Performance Test Results",
+                            "description": [
+                                "Understanding performance test reports and results",
+                                "Key performance indicators (KPIs) to focus on",
+                                "Analyzing response times, throughput, and resource usage",
+                                "Identifying bottlenecks, memory leaks, and performance issues",
+                                "Using data visualization tools to present performance test results",
+                                "Actionable insights and recommendations from performance testing"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Performance Optimization Techniques",
+                            "description": [
+                                "Identifying performance bottlenecks in different application layers (e.g., database, web servers, APIs)",
+                                "Optimizing application code and database queries",
+                                "Load balancing strategies and techniques",
+                                "Caching mechanisms to improve performance",
+                                "Cloud-based performance optimization strategies",
+                                "Optimizing infrastructure and network performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Best Practices for Performance Testing",
+                            "description": [
+                                "Establishing performance testing as part of the SDLC",
+                                "Automating performance tests in CI/CD pipelines",
+                                "Continuous performance monitoring in production",
+                                "Handling large-scale distributed systems performance testing",
+                                "Common pitfalls in performance testing and how to avoid them",
+                                "Maintaining performance testing best practices for consistent results"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "JMeter",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to JMeter",
+                            "description": [
+                                "Overview of JMeter and its role in performance testing",
+                                "Understanding JMeter's architecture and components",
+                                "Key features and advantages of JMeter",
+                                "Setting up JMeter: installation and basic configuration",
+                                "Exploring JMeter's user interface",
+                                "Differences between JMeter and other performance testing tools"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Getting Started with JMeter",
+                            "description": [
+                                "Creating your first test plan in JMeter",
+                                "Understanding thread groups and their configuration",
+                                "Simulating virtual users and configuring user load",
+                                "Setting up HTTP requests and samplers",
+                                "Working with timers, assertions, and listeners",
+                                "Saving and running JMeter test plans"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Performance Testing with JMeter",
+                            "description": [
+                                "Understanding different types of performance testing (load, stress, spike, etc.)",
+                                "Configuring JMeter for load testing",
+                                "Simulating real-world scenarios with multiple threads and loops",
+                                "Analyzing response times, throughput, and error rates",
+                                "Using listeners for test result visualization",
+                                "Best practices for performance testing with JMeter"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Advanced Features in JMeter",
+                            "description": [
+                                "Using regular expressions for dynamic parameterization",
+                                "Creating and managing CSV data sets for parameterized tests",
+                                "Testing APIs with JMeter: REST and SOAP",
+                                "Handling authentication and session management",
+                                "Using JMeter assertions to validate responses",
+                                "Customizing JMeter scripts with BeanShell and JSR223"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Distributed Testing with JMeter",
+                            "description": [
+                                "Understanding the concept of distributed testing",
+                                "Setting up JMeter master-slave configuration",
+                                "Running distributed load tests with multiple servers",
+                                "Analyzing results from distributed tests",
+                                "Handling challenges in distributed environments",
+                                "Best practices for scaling JMeter tests"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: JMeter Plugins and Extensions",
+                            "description": [
+                                "Overview of JMeter plugins and their benefits",
+                                "Installing and managing JMeter plugins",
+                                "Popular plugins for advanced testing (e.g., JSON extractor, Custom Thread Groups)",
+                                "Enhancing reporting with advanced listeners",
+                                "Integrating JMeter with third-party tools using plugins",
+                                "Extending JMeter functionality with custom plugins"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: JMeter for CI/CD Integration",
+                            "description": [
+                                "Integrating JMeter with Jenkins for automated testing",
+                                "Configuring JMeter in CI/CD pipelines",
+                                "Automating performance tests for nightly builds",
+                                "Using JMeter with containerized environments (Docker, Kubernetes)",
+                                "Generating automated reports for continuous monitoring",
+                                "Best practices for seamless CI/CD integration"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Analyzing JMeter Test Results",
+                            "description": [
+                                "Understanding JMeter’s result data structure",
+                                "Using listeners for real-time test monitoring",
+                                "Exporting test results to CSV, XML, and HTML formats",
+                                "Interpreting response time, error rates, and throughput metrics",
+                                "Visualizing test results with JMeter plugins",
+                                "Drawing actionable insights from performance data"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Best Practices and Optimization in JMeter",
+                            "description": [
+                                "Optimizing JMeter test plans for large-scale testing",
+                                "Reducing resource usage in distributed testing",
+                                "Debugging common JMeter errors and issues",
+                                "Creating reusable and maintainable test scripts",
+                                "Ensuring accuracy and reliability in test results",
+                                "Keeping JMeter updated with the latest features"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Real-World Applications of JMeter",
+                            "description": [
+                                "Case study: Load testing an e-commerce application",
+                                "Performance testing APIs with JMeter",
+                                "Testing database performance using JDBC Sampler",
+                                "Simulating mobile app traffic with JMeter",
+                                "Stress testing a web server with JMeter",
+                                "Future trends and advancements in JMeter"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "DevOps",
+            "submodule": [
+                {
+                    "name": "Linux",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Linux",
+                            "description": [
+                                "Overview of Linux and its distributions",
+                                "Understanding the Linux kernel and operating system",
+                                "Linux vs. other operating systems",
+                                "Installing Linux on various platforms",
+                                "Exploring Linux file systems and directory structure",
+                                "Key features and benefits of using Linux"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Linux Command Line Basics",
+                            "description": [
+                                "Introduction to the Linux shell and terminal",
+                                "Basic Linux commands: ls, cd, pwd, mkdir, rm",
+                                "Navigating the Linux file system",
+                                "Understanding command syntax and options",
+                                "Using man pages and help for command references",
+                                "Customizing the shell prompt"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: File and Directory Management",
+                            "description": [
+                                "Working with files: creation, editing, and deletion",
+                                "Managing directories and file paths",
+                                "File permissions and ownership in Linux",
+                                "Using chmod, chown, and chgrp commands",
+                                "Understanding symbolic and hard links",
+                                "File compression and archiving with tar, gzip, and zip"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Linux Processes and Task Management",
+                            "description": [
+                                "Understanding Linux processes and process IDs",
+                                "Using ps, top, and htop to monitor processes",
+                                "Killing and prioritizing processes with kill and nice",
+                                "Scheduling tasks with cron and at commands",
+                                "System logs and troubleshooting with journalctl",
+                                "Managing background and foreground processes"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Networking in Linux",
+                            "description": [
+                                "Basic networking concepts and Linux tools",
+                                "Configuring network interfaces and IP addresses",
+                                "Using ping, traceroute, and netstat for network diagnostics",
+                                "Working with SSH for secure remote access",
+                                "Transferring files with SCP and SFTP",
+                                "Introduction to firewalls and iptables"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: User and Group Management",
+                            "description": [
+                                "Understanding Linux users and groups",
+                                "Adding, deleting, and modifying user accounts",
+                                "Managing group memberships and permissions",
+                                "Using sudo for administrative tasks",
+                                "Password management and security policies",
+                                "Monitoring user activities and sessions"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Package Management",
+                            "description": [
+                                "Introduction to Linux package managers",
+                                "Installing, updating, and removing software",
+                                "Using apt, yum, and dnf for package management",
+                                "Understanding repositories and PPAs",
+                                "Building software from source in Linux",
+                                "Troubleshooting dependency issues"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Linux Security Basics",
+                            "description": [
+                                "Fundamentals of Linux security",
+                                "Understanding file and system security",
+                                "Setting up firewalls with UFW and iptables",
+                                "Using SELinux and AppArmor for enhanced security",
+                                "Creating secure backups of critical files",
+                                "Best practices for securing Linux servers"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Linux System Administration",
+                            "description": [
+                                "Roles and responsibilities of a Linux administrator",
+                                "Managing system resources: CPU, memory, and disk",
+                                "Automating tasks with shell scripts",
+                                "System monitoring tools: vmstat, iostat, and sar",
+                                "Setting up and managing Linux servers",
+                                "Backup and restore strategies in Linux"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: Advanced Linux Topics",
+                            "description": [
+                                "Introduction to kernel modules and customization",
+                                "Working with Docker and containers in Linux",
+                                "Virtualization with KVM and VirtualBox",
+                                "Linux for DevOps: CI/CD pipelines and automation",
+                                "Exploring advanced scripting with Bash and Python",
+                                "Future trends and advancements in Linux"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Git",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Git",
+                            "description": [
+                                "Overview of version control systems (VCS)",
+                                "Introduction to Git and its importance",
+                                "Installing and configuring Git",
+                                "Understanding Git's architecture and workflows",
+                                "Basic Git commands: init, status, add, and commit",
+                                "The concept of the staging area and commit history",
+                                "Setting up a .gitignore file"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with Repositories",
+                            "description": [
+                                "Creating and initializing a repository",
+                                "Cloning remote repositories",
+                                "Understanding the working directory, staging area, and local repository",
+                                "Navigating repository history using git log",
+                                "Undoing changes with git checkout, git reset, and git revert",
+                                "Removing files and folders from tracking"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Branching and Merging",
+                            "description": [
+                                "Understanding branches and their importance",
+                                "Creating and switching branches",
+                                "Merging branches and resolving conflicts",
+                                "Using git stash for temporary changes",
+                                "Deleting branches: local and remote",
+                                "Exploring branch visualization tools: git log and gitk"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Remote Repositories",
+                            "description": [
+                                "Linking local repositories to remote servers",
+                                "Pushing changes to remote repositories",
+                                "Pulling changes from remote repositories",
+                                "Fetching updates and syncing branches",
+                                "Working with remote tracking branches",
+                                "Collaborating with others using Git"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: Advanced Git Features",
+                            "description": [
+                                "Rebasing branches and interactive rebase",
+                                "Cherry-picking specific commits",
+                                "Working with tags: creating and managing",
+                                "Using Git hooks for automation",
+                                "Managing submodules for nested repositories",
+                                "Exploring Git worktrees for multiple working directories"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Troubleshooting and Best Practices",
+                            "description": [
+                                "Debugging issues with git diff and git bisect",
+                                "Handling merge conflicts effectively",
+                                "Optimizing repository performance",
+                                "Cleaning up repositories with git gc and git prune",
+                                "Understanding Git best practices for teams",
+                                "Maintaining a clean and organized commit history"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "GitHub",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to GitHub",
+                            "description": [
+                                "Understanding Git and GitHub: Key differences and use cases",
+                                "Setting up a GitHub account and configuring Git",
+                                "Overview of GitHub's interface and key features",
+                                "Creating and managing repositories",
+                                "Cloning repositories to local machines",
+                                "Understanding branches and branching workflows",
+                                "Introduction to commits and commit messages",
+                                "Viewing and comparing code changes (diffs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Collaboration and Workflow",
+                            "description": [
+                                "Forking repositories and creating pull requests",
+                                "Code reviews and merging changes",
+                                "Managing issues and labels",
+                                "Using milestones and project boards for task management",
+                                "Introduction to GitHub Actions for CI/CD",
+                                "Collaborating with teams using GitHub discussions",
+                                "Resolving merge conflicts"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Advanced GitHub Features",
+                            "description": [
+                                "Customizing repositories with README files and Markdown",
+                                "Using GitHub Pages for static site hosting",
+                                "Managing access and permissions for repositories",
+                                "Creating and using templates for issues and pull requests",
+                                "Exploring GitHub GraphQL API for advanced workflows",
+                                "Monitoring repository activity and insights",
+                                "Automating tasks with webhooks and integrations"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Best Practices and Security",
+                            "description": [
+                                "Writing clear and concise commit messages",
+                                "Structuring branches for effective collaboration",
+                                "Implementing code reviews and quality checks",
+                                "Setting up repository security and access controls",
+                                "Using Dependabot for dependency management",
+                                "Backing up and archiving repositories"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CI/CD",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to CI/CD",
+                            "description": [
+                                "Understanding the concepts of Continuous Integration (CI) and Continuous Delivery/Deployment (CD)",
+                                "Benefits of implementing CI/CD in software development",
+                                "CI/CD in Agile and DevOps methodologies",
+                                "Overview of CI/CD pipelines",
+                                "Tools and technologies used for CI/CD",
+                                "Key challenges and solutions in CI/CD implementation"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Continuous Integration (CI)",
+                            "description": [
+                                "Setting up a CI environment",
+                                "Automated testing in CI pipelines",
+                                "Version control system integration with CI tools",
+                                "Implementing build automation",
+                                "Managing dependencies in CI pipelines",
+                                "Best practices for successful CI implementation"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Continuous Delivery (CD)",
+                            "description": [
+                                "Understanding the concept of Continuous Delivery",
+                                "Building and packaging applications for deployment",
+                                "Automating release pipelines",
+                                "Staging environments and deployment strategies",
+                                "Rollback mechanisms for failed deployments",
+                                "Monitoring and feedback loops in Continuous Delivery"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Continuous Deployment",
+                            "description": [
+                                "Difference between Continuous Delivery and Continuous Deployment",
+                                "Implementing fully automated deployments",
+                                "Ensuring application stability with automated deployment",
+                                "Feature toggles and canary releases",
+                                "Blue-Green deployment strategy",
+                                "Best practices for Continuous Deployment"
+                            ]
+                        },
+                        {
+                            "module": "Module 5: CI/CD Tools and Platforms",
+                            "description": [
+                                "Introduction to popular CI/CD tools: Jenkins, GitLab CI/CD, CircleCI, Travis CI",
+                                "Comparison of different CI/CD tools",
+                                "Using containerization tools like Docker in CI/CD pipelines",
+                                "Orchestration with Kubernetes in CD pipelines",
+                                "Cloud-based CI/CD services: AWS CodePipeline, Azure DevOps, Google Cloud Build",
+                                "Integrating third-party tools for enhanced CI/CD workflows"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Security in CI/CD",
+                            "description": [
+                                "Securing CI/CD pipelines",
+                                "Implementing security scans in the CI process",
+                                "Protecting sensitive data and credentials",
+                                "Ensuring compliance with DevSecOps practices",
+                                "Integrating static and dynamic application security testing (SAST/DAST)",
+                                "Addressing vulnerabilities and risks in the deployment process"
+                            ]
+                        },
+                        {
+                            "module": "Module 7: Advanced CI/CD Concepts",
+                            "description": [
+                                "Infrastructure as Code (IaC) and its role in CI/CD",
+                                "Implementing CI/CD for microservices architecture",
+                                "Monitoring and observability in CI/CD pipelines",
+                                "Scaling CI/CD pipelines for large projects",
+                                "Using AI and machine learning in CI/CD",
+                                "Future trends and advancements in CI/CD"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Case Studies and Best Practices",
+                            "description": [
+                                "Real-world CI/CD pipeline implementations",
+                                "Lessons learned from successful CI/CD adoption",
+                                "Common pitfalls and how to avoid them",
+                                "Creating a culture of collaboration and automation",
+                                "Optimizing CI/CD pipelines for performance and reliability",
+                                "Practical tips for maintaining a robust CI/CD workflow"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Tableau Mastery: Data Visualization and Analytics",
+    "roleName": "Data Analyst / Business Intelligence Developer",
+    "description": "Master Tableau to visualize and analyze data, creating interactive dashboards and reports. This course covers the entire Tableau ecosystem, from data connections and calculations to advanced visualizations, empowering you to turn data into actionable insights for business decisions.",
+    "price": "35000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "In this comprehensive course, you'll learn how to work with Tableau's powerful data visualization features to create compelling reports and dashboards. From basic chart types to advanced calculated fields and interactive elements, this course will empower you to create data stories that resonate with your audience.",
+    "highlights": [
+        {
+            "name": "Getting Started with Tableau",
+            "description": "Learn the basics of Tableau Desktop, from setting up a project to importing and cleaning data."
+        },
+        {
+            "name": "Building Visualizations",
+            "description": "Create charts and graphs to represent data visually, including bar charts, line graphs, scatter plots, and more."
+        },
+        {
+            "name": "Advanced Dashboards",
+            "description": "Build interactive and dynamic dashboards using Tableau's advanced features like filters, parameters, and actions."
+        },
+        {
+            "name": "Data Connections and Management",
+            "description": "Learn how to connect Tableau to various data sources like Excel, SQL databases, and cloud-based platforms."
+        },
+        {
+            "name": "Data Calculations and Analytics",
+            "description": "Use calculated fields, table calculations, and other analytic features to derive insights from data."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Data Analyst",
+            "description": "Analyze data, build reports, and create visualizations to support decision-making within an organization."
+        },
+        {
+            "title": "Business Intelligence Developer",
+            "description": "Design, develop, and maintain BI solutions and dashboards that provide valuable business insights."
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Utilize Tableau for data exploration and visualization in combination with data science techniques to derive actionable insights."
+        },
+        {
+            "title": "Tableau Developer",
+            "description": "Develop and maintain custom Tableau visualizations and dashboards to meet business needs."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with Tableau for this course?",
+            "answer": "No, this course is suitable for beginners and will cover all the foundational concepts of Tableau."
+        },
+        {
+            "question": "What version of Tableau do I need?",
+            "answer": "You will need Tableau Desktop to follow along with the course. A free trial version is available for new users."
+        },
+        {
+            "question": "What data sources will I learn to connect to in this course?",
+            "answer": "You will learn to connect Tableau to a variety of data sources, including Excel, SQL databases, and cloud-based platforms like Google Analytics and Salesforce."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need a computer with Tableau Desktop installed. A free trial version is available on Tableau's official website."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Tableau",
+            "submodule": [
+                {
+                    "name": "Getting Started with Tableau",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Tableau Basics",
+                            "description": [
+                                "Introduction to Tableau interface and workspace",
+                                "Connecting to data sources (Excel, CSV, Database)",
+                                "Understanding Tableau Data Pane and Dimensions/Measures"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic Visualizations",
+                            "description": [
+                                "Creating basic charts: bar, line, pie, scatter plots",
+                                "Understanding marks, columns, and rows",
+                                "Building simple dashboards"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Intermediate Tableau Concepts",
+            "submodule": [
+                {
+                    "name": "Building Complex Visualizations",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Aggregating and Grouping Data",
+                            "description": [
+                                "Using aggregation functions in Tableau",
+                                "Grouping and sorting data",
+                                "Creating calculated fields and table calculations"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Combining Multiple Data Sources",
+                            "description": [
+                                "Joining and blending data from multiple sources",
+                                "Using relationships to combine data",
+                                "Data blending concepts and best practices"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Tableau Features",
+            "submodule": [
+                {
+                    "name": "Interactive Dashboards",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Parameters and Filters",
+                            "description": [
+                                "Creating interactive filters and parameters",
+                                "Using quick filters and dashboard actions",
+                                "Enhancing dashboards with parameter controls"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Advanced Data Calculations",
+                            "description": [
+                                "Using LOD (Level of Detail) calculations",
+                                "Advanced table calculations",
+                                "Creating custom calculations and aggregations"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Data Storytelling",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Designing Effective Dashboards",
+                            "description": [
+                                "Best practices for dashboard design",
+                                "Creating data-driven stories",
+                                "Optimizing dashboards for performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Tableau Server and Online",
+                            "description": [
+                                "Publishing dashboards to Tableau Server or Tableau Online",
+                                "Sharing and collaborating on visualizations",
+                                "Security and user permissions in Tableau Server"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

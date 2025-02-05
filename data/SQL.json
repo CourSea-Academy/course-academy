@@ -1,0 +1,188 @@
+{
+    "hashtag": "Career Essential",
+    "title": "SQL Mastery: From Basics to Advanced",
+    "roleName": "Database Administrator / Data Analyst",
+    "description": "Master SQL for database management and querying, and learn to work with relational databases like MySQL, PostgreSQL, and SQL Server. This course covers everything from basic queries to advanced topics like optimization, stored procedures, and joins, enabling you to efficiently interact with databases and extract valuable insights.",
+    "price": "30000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course will guide you through SQL basics, advanced querying techniques, and database management practices. From learning how to create, update, and manage databases to performing complex queries and optimizing them for performance, you'll gain the skills to work with SQL databases in real-world environments.",
+    "highlights": [
+        {
+            "name": "Basic SQL Queries",
+            "description": "Learn how to write simple queries to fetch, filter, and manipulate data using SELECT, WHERE, and other SQL clauses."
+        },
+        {
+            "name": "Joins and Subqueries",
+            "description": "Understand how to combine data from multiple tables using various types of joins and nested queries."
+        },
+        {
+            "name": "Data Manipulation",
+            "description": "Learn how to insert, update, and delete records from your database using SQL commands."
+        },
+        {
+            "name": "Database Design and Normalization",
+            "description": "Understand how to design and normalize databases to improve efficiency and reduce redundancy."
+        },
+        {
+            "name": "Stored Procedures & Triggers",
+            "description": "Learn how to create and use stored procedures, triggers, and functions to automate tasks and enhance database functionality."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Database Administrator",
+            "description": "Manage and maintain databases, ensuring their availability, performance, and security."
+        },
+        {
+            "title": "Data Analyst",
+            "description": "Extract, manipulate, and analyze data using SQL to support business decision-making."
+        },
+        {
+            "title": "Business Intelligence Developer",
+            "description": "Use SQL to develop reports, dashboards, and data models for business insights and analysis."
+        },
+        {
+            "title": "SQL Developer",
+            "description": "Develop, optimize, and manage SQL queries, scripts, and stored procedures for applications."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior database knowledge for this course?",
+            "answer": "No, this course is designed for beginners and will guide you from the very basics of SQL."
+        },
+        {
+            "question": "What databases will be covered in this course?",
+            "answer": "This course focuses on MySQL, PostgreSQL, and SQL Server, but the SQL concepts are applicable across various relational databases."
+        },
+        {
+            "question": "Will I learn about database optimization?",
+            "answer": "Yes, the course covers techniques for optimizing queries and ensuring efficient database performance."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need a computer with a database management system like MySQL, PostgreSQL, or SQL Server installed, and a text editor or SQL client."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to SQL",
+            "submodule": [
+                {
+                    "name": "SQL Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Databases",
+                            "description": [
+                                "Understanding databases and relational models",
+                                "Introduction to SQL and its role in managing data",
+                                "Setting up a database management system"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Basic SQL Queries",
+                            "description": [
+                                "Using SELECT to retrieve data",
+                                "Applying WHERE for filtering records",
+                                "Sorting data using ORDER BY"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Intermediate SQL Concepts",
+            "submodule": [
+                {
+                    "name": "Advanced Query Techniques",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Joins and Subqueries",
+                            "description": [
+                                "Inner, Left, Right, and Full Joins",
+                                "Using Subqueries to nest queries within queries",
+                                "Combining data from multiple tables"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Grouping and Aggregations",
+                            "description": [
+                                "Using GROUP BY to aggregate data",
+                                "Applying aggregate functions like COUNT, AVG, SUM, MIN, MAX"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced SQL Concepts",
+            "submodule": [
+                {
+                    "name": "Database Design and Optimization",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Database Normalization",
+                            "description": [
+                                "Understanding normalization and its forms (1NF, 2NF, 3NF)",
+                                "Creating normalized database schemas"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Indexing and Query Optimization",
+                            "description": [
+                                "Using indexes to speed up queries",
+                                "Understanding query execution plans and optimizing slow queries"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Stored Procedures and Triggers",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Creating and Using Stored Procedures",
+                            "description": [
+                                "Writing reusable stored procedures",
+                                "Executing stored procedures with parameters"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Triggers and Functions",
+                            "description": [
+                                "Creating triggers to automatically execute actions",
+                                "Using functions to simplify complex queries"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

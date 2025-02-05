@@ -1,0 +1,218 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Manual Testing Mastery",
+    "roleName": "Manual Test Engineer",
+    "description": "Master manual testing techniques to ensure software quality and functionality. This course covers testing fundamentals, test case creation, defect tracking, and hands-on experience with real-world testing scenarios.",
+    "price": "40000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course is designed to give you in-depth knowledge of manual testing, including techniques for writing test cases, identifying defects, and ensuring the software functions as expected. Gain practical experience through hands-on projects and learn the best practices in manual testing.",
+    "highlights": [
+        {
+            "name": "Testing Fundamentals",
+            "description": "Learn the basics of manual testing, including types of testing, SDLC, and STLC."
+        },
+        {
+            "name": "Test Case Writing",
+            "description": "Master the art of writing effective test cases for various software applications."
+        },
+        {
+            "name": "Bug Reporting and Tracking",
+            "description": "Understand how to identify, report, and track defects using industry-standard tools."
+        },
+        {
+            "name": "Real-world Testing Scenarios",
+            "description": "Apply testing techniques to real-world applications and scenarios."
+        },
+        {
+            "name": "Quality Assurance Best Practices",
+            "description": "Learn best practices for software quality assurance and test management."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Manual Test Engineer",
+            "description": "Design and execute test cases to ensure software quality and identify defects."
+        },
+        {
+            "title": "QA Analyst",
+            "description": "Perform manual testing to verify software functionality and report issues."
+        },
+        {
+            "title": "Test Lead",
+            "description": "Lead the testing efforts, manage teams, and ensure testing processes are followed."
+        },
+        {
+            "title": "Software Tester",
+            "description": "Test software applications to ensure they meet functional requirements."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience in software testing?",
+            "answer": "No prior experience is needed. The course covers the fundamentals of manual testing."
+        },
+        {
+            "question": "What tools will I learn in this course?",
+            "answer": "You will learn tools like JIRA for bug tracking, TestRail for test case management, and other industry-standard tools."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will work on projects such as functional testing, integration testing, and user acceptance testing for web and mobile applications."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be awarded upon successful completion of the course."
+        },
+        {
+            "question": "What is the expected career growth after completing this course?",
+            "answer": "After completing this course, you will be prepared for roles in manual testing and quality assurance in software development companies."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Manual Testing",
+            "submodule": [
+                {
+                    "name": "Manual Testing Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Software Testing",
+                            "description": [
+                                "Overview of software testing and its importance",
+                                "Different types of testing: Functional, Non-Functional, Regression, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Software Development Life Cycle (SDLC)",
+                            "description": [
+                                "Understanding SDLC models: Waterfall, Agile, V-Model, Spiral",
+                                "How manual testing fits into SDLC"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Software Testing Life Cycle (STLC)",
+                            "description": [
+                                "Phases of STLC",
+                                "Test planning, design, execution, and closure"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Test Case Design",
+            "submodule": [
+                {
+                    "name": "Creating Effective Test Cases",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Writing Test Cases",
+                            "description": [
+                                "How to write clear and concise test cases",
+                                "Test case structure: Preconditions, Steps, Expected results"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Types of Test Cases",
+                            "description": [
+                                "Functional, Non-Functional, Negative, Regression test cases",
+                                "How to design test cases for different scenarios"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Test Case Management",
+                            "description": [
+                                "Test case execution and tracking",
+                                "Managing test cases using tools like TestRail"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Defect Management",
+            "submodule": [
+                {
+                    "name": "Defect Tracking and Reporting",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Understanding Defects",
+                            "description": [
+                                "Types of defects: Critical, Major, Minor, Cosmetic",
+                                "How to reproduce defects and gather logs"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Bug Reporting",
+                            "description": [
+                                "How to write effective bug reports",
+                                "Bug report formats and best practices"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Defect Life Cycle",
+                            "description": [
+                                "From defect identification to closure",
+                                "Managing defects using tools like JIRA"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Testing in Real-world Scenarios",
+            "submodule": [
+                {
+                    "name": "Real-world Testing Projects",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Functional Testing",
+                            "description": [
+                                "Test case execution for functional verification",
+                                "Handling edge cases and testing boundaries"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Regression Testing",
+                            "description": [
+                                "Testing after changes or new features",
+                                "Automating regression tests for faster execution"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: User Acceptance Testing (UAT)",
+                            "description": [
+                                "Ensuring that the software meets business requirements",
+                                "User-based testing and feedback collection"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

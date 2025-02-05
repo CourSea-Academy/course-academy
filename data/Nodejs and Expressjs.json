@@ -1,0 +1,226 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Node.js and Express.js Mastery",
+    "roleName": "Backend Developer",
+    "description": "Master Node.js and Express.js to build scalable, high-performance backend applications. This comprehensive course covers server-side programming, RESTful API development, authentication, middleware, and real-time applications.",
+    "price": "55000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides an in-depth understanding of building backend applications with Node.js and Express.js, including creating RESTful APIs, integrating databases, handling authentication, and managing real-time data with WebSockets.",
+    "highlights": [
+        {
+            "name": "Node.js Fundamentals",
+            "description": "Learn the basics of Node.js, asynchronous programming, and event-driven architecture."
+        },
+        {
+            "name": "Express.js Framework",
+            "description": "Master Express.js for building REST APIs, handling routing, and managing middleware."
+        },
+        {
+            "name": "Database Integration",
+            "description": "Learn how to connect Node.js with databases like MongoDB, MySQL, and PostgreSQL."
+        },
+        {
+            "name": "Authentication and Security",
+            "description": "Implement secure user authentication with JWT, OAuth, and Passport.js."
+        },
+        {
+            "name": "Real-Time Web Applications",
+            "description": "Build real-time applications using WebSockets and technologies like Socket.io."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Backend Developer",
+            "description": "Develop server-side applications, APIs, and manage databases using Node.js and Express.js."
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Combine frontend and backend technologies, integrating Node.js and Express.js with other web technologies."
+        },
+        {
+            "title": "API Developer",
+            "description": "Specialize in building and maintaining APIs with Node.js and Express.js."
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Design and implement backend solutions, focusing on scalability and performance."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior programming knowledge for this course?",
+            "answer": "Basic knowledge of JavaScript and HTML/CSS is recommended, but the course also covers essential concepts from scratch."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will work on projects such as a RESTful API for a to-do app, a real-time chat application, and an e-commerce API with user authentication."
+        },
+        {
+            "question": "Will the course cover database integration?",
+            "answer": "Yes, the course covers integrating both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases with your Node.js and Express.js applications."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools and technologies will I use in this course?",
+            "answer": "You will use Node.js, Express.js, MongoDB, MySQL, PostgreSQL, JWT, OAuth, Socket.io, and other backend technologies."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Node.js and Express.js",
+            "submodule": [
+                {
+                    "name": "Node.js Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Node.js",
+                            "description": [
+                                "Overview of Node.js and its use cases",
+                                "Setting up Node.js environment",
+                                "Understanding asynchronous programming and callbacks",
+                                "Event-driven architecture in Node.js"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Express.js Framework",
+                            "description": [
+                                "Introduction to Express.js",
+                                "Creating a basic server with Express",
+                                "Understanding middleware and routing",
+                                "Handling requests and responses"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Building RESTful APIs",
+            "submodule": [
+                {
+                    "name": "API Development with Express.js",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Designing REST APIs",
+                            "description": [
+                                "Understanding REST architecture",
+                                "Designing API endpoints and HTTP methods",
+                                "Handling request parameters, queries, and body data"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: CRUD Operations",
+                            "description": [
+                                "Implementing Create, Read, Update, and Delete operations",
+                                "Validating data and handling errors",
+                                "Securing API endpoints with middleware"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Database Integration",
+            "submodule": [
+                {
+                    "name": "Database with Node.js",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Connecting to MongoDB",
+                            "description": [
+                                "Setting up MongoDB with Mongoose",
+                                "Performing CRUD operations with MongoDB",
+                                "Building a simple application with MongoDB"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Working with SQL Databases",
+                            "description": [
+                                "Connecting Node.js to MySQL/PostgreSQL",
+                                "Building and querying relational databases",
+                                "Using Sequelize ORM for SQL databases"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Authentication and Security",
+            "submodule": [
+                {
+                    "name": "Secure APIs",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Authentication with JWT",
+                            "description": [
+                                "Introduction to JSON Web Tokens (JWT)",
+                                "Implementing JWT authentication in Node.js",
+                                "Securing endpoints with JWT"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: OAuth and Passport.js",
+                            "description": [
+                                "Integrating OAuth for third-party authentication",
+                                "Using Passport.js for authentication strategies",
+                                "Securing routes and user sessions"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Real-Time Applications with WebSockets",
+            "submodule": [
+                {
+                    "name": "Real-Time Development",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to WebSockets",
+                            "description": [
+                                "Overview of WebSocket communication",
+                                "Setting up a WebSocket server with Socket.io",
+                                "Building a real-time chat application"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Scaling Real-Time Apps",
+                            "description": [
+                                "Scaling WebSocket applications with clustering",
+                                "Handling multiple clients and sessions",
+                                "Building a collaborative real-time application"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "hashtag": "Fundamental",
+    "title": "Mastering Data Structures and Algorithms",
+    "roleName": "DSA Expert",
+    "description": "Learn the core principles of data structures and algorithms to solve complex problems efficiently. This course covers foundational concepts, problem-solving techniques, and advanced topics to prepare you for coding interviews and real-world challenges.",
+    "price": "60000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Interview Preparation",
+            "description": "Coding Interview Questions"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course focuses on developing a strong foundation in data structures and algorithms, helping learners solve problems efficiently and improve their coding skills. It is tailored for beginners as well as experienced programmers aiming to excel in competitive programming or crack coding interviews.",
+    "highlights": [
+        {
+            "name": "Algorithmic Thinking",
+            "description": "Learn to approach problems with an algorithmic mindset."
+        },
+        {
+            "name": "Comprehensive DSA Topics",
+            "description": "Cover arrays, linked lists, trees, graphs, and more."
+        },
+        {
+            "name": "Coding Challenges",
+            "description": "Solve hundreds of coding problems with step-by-step solutions."
+        },
+        {
+            "name": "Interview Tips",
+            "description": "Master whiteboard coding and time complexity analysis."
+        },
+        {
+            "name": "Advanced Topics",
+            "description": "Dynamic programming, graph algorithms, and system design basics."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Software Engineer",
+            "description": "Build efficient and scalable applications using optimized algorithms."
+        },
+        {
+            "title": "Competitive Programmer",
+            "description": "Participate and excel in coding competitions like Codeforces and LeetCode."
+        },
+        {
+            "title": "Algorithm Specialist",
+            "description": "Design algorithms for solving complex computational problems."
+        },
+        {
+            "title": "Backend Developer",
+            "description": "Develop robust backend systems with optimized data structures."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the DSA course?",
+            "answer": "The course spans four months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "Do I need prior programming experience?",
+            "answer": "Basic programming knowledge is recommended but not mandatory."
+        },
+        {
+            "question": "What programming languages are used in this course?",
+            "answer": "The course focuses on popular languages like Python, Java, and C++."
+        },
+        {
+            "question": "Will the course include interview preparation?",
+            "answer": "Yes, the course includes dedicated modules for interview preparation."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Foundations",
+            "submodule": [
+                {
+                    "name": "Basics of Programming",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to DSA",
+                            "description": [
+                                "What is DSA and its importance",
+                                "Understanding computational thinking",
+                                "Setting up the coding environment",
+                                "Introduction to time and space complexity"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Arrays and Strings",
+                            "description": [
+                                "Basic operations on arrays and strings",
+                                "Sliding window technique",
+                                "Two-pointer approach",
+                                "Practice problems"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Core Data Structures",
+            "submodule": [
+                {
+                    "name": "Linear Data Structures",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Linked Lists",
+                            "description": [
+                                "Singly and doubly linked lists",
+                                "Circular linked lists",
+                                "Reversing and sorting linked lists",
+                                "Practice problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Stacks and Queues",
+                            "description": [
+                                "Stack operations and applications",
+                                "Queue operations and variations (priority queue, deque)",
+                                "Solving problems using stacks and queues"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Non-Linear Data Structures",
+                    "chapters": [
+                        {
+                            "module": "Module 5: Trees",
+                            "description": [
+                                "Binary trees and traversals",
+                                "Binary search trees",
+                                "AVL and red-black trees",
+                                "Heap and priority queues",
+                                "Applications and problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Graphs",
+                            "description": [
+                                "Graph representations (adjacency matrix and list)",
+                                "DFS and BFS algorithms",
+                                "Shortest path algorithms (Dijkstra's, Bellman-Ford)",
+                                "Minimum spanning tree (Prim's and Kruskal's)",
+                                "Graph coloring and traversal problems"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Algorithmic Techniques",
+            "submodule": [
+                {
+                    "name": "Problem Solving",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Recursion and Backtracking",
+                            "description": [
+                                "Basics of recursion",
+                                "Understanding backtracking",
+                                "Solving problems like N-Queens, Sudoku, and more"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Divide and Conquer",
+                            "description": [
+                                "Understanding the divide-and-conquer paradigm",
+                                "Applications in sorting and searching algorithms",
+                                "Solving problems like merge sort, quicksort, and binary search"
+                            ]
+                        },
+                        {
+                            "module": "Module 9: Dynamic Programming",
+                            "description": [
+                                "Introduction to DP and memoization",
+                                "Classic problems like Knapsack, Fibonacci, and LIS",
+                                "Optimizing solutions with tabulation and space efficiency"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Topics",
+            "submodule": [
+                {
+                    "name": "Optimization and Applications",
+                    "chapters": [
+                        {
+                            "module": "Module 10: Greedy Algorithms",
+                            "description": [
+                                "Understanding the greedy approach",
+                                "Applications like activity selection, Huffman coding",
+                                "Solving optimization problems"
+                            ]
+                        },
+                        {
+                            "module": "Module 11: System Design Basics",
+                            "description": [
+                                "Scalability and performance considerations",
+                                "Basic design of hashmaps, caching, and load balancing",
+                                "Use cases in real-world applications"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

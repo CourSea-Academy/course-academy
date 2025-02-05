@@ -1,0 +1,228 @@
+{
+    "hashtag": "Trending",
+    "title": "Deep Learning Mastery",
+    "roleName": "AI and Deep Learning Specialist",
+    "description": "Dive into the world of artificial intelligence with a focus on deep learning. Master cutting-edge neural network architectures and tools to build AI-powered applications, preparing you for exciting opportunities in AI research and development.",
+    "price": "85000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "5 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Hands-on Projects",
+            "description": "Real-world AI Applications"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides an in-depth understanding of deep learning concepts, architectures, and tools. It equips you with the skills to design, train, and deploy neural networks for real-world problems, from computer vision to natural language processing.",
+    "highlights": [
+        {
+            "name": "Neural Network Foundations",
+            "description": "Understand the core principles of neural networks and deep learning."
+        },
+        {
+            "name": "Advanced Architectures",
+            "description": "Master CNNs, RNNs, and Transformers for complex AI applications."
+        },
+        {
+            "name": "Deep Learning Frameworks",
+            "description": "Gain expertise in TensorFlow, PyTorch, and Keras."
+        },
+        {
+            "name": "Real-world Applications",
+            "description": "Build AI solutions for computer vision, NLP, and reinforcement learning."
+        },
+        {
+            "name": "AI Ethics and Deployment",
+            "description": "Learn about AI biases, model interpretability, and production deployment."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Deep Learning Engineer",
+            "description": "Expert in designing and training deep neural networks for diverse applications."
+        },
+        {
+            "title": "AI Research Scientist",
+            "description": "Focused on developing state-of-the-art AI models and algorithms."
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Leverages deep learning models to analyze and extract insights from data."
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "description": "Skilled in integrating deep learning models into production systems."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Deep Learning course?",
+            "answer": "The course spans five months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "Do I need prior experience with machine learning?",
+            "answer": "Basic knowledge of machine learning is recommended but not mandatory."
+        },
+        {
+            "question": "What tools and frameworks will I learn in this course?",
+            "answer": "You will gain expertise in TensorFlow, PyTorch, and Keras."
+        },
+        {
+            "question": "Will I work on real-world projects?",
+            "answer": "Yes, the course includes hands-on projects based on industry applications."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Deep Learning Basics",
+            "submodule": [
+                {
+                    "name": "Foundations",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Deep Learning",
+                            "description": [
+                                "Overview of deep learning and AI",
+                                "Understanding neural networks",
+                                "Activation functions and loss functions",
+                                "Gradient descent and backpropagation"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Neural Network Training",
+                            "description": [
+                                "Data preprocessing and normalization",
+                                "Batch gradient descent and optimizers",
+                                "Overfitting and regularization techniques",
+                                "Hyperparameter tuning and model evaluation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Core Architectures",
+            "submodule": [
+                {
+                    "name": "Advanced Neural Networks",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Convolutional Neural Networks (CNNs)",
+                            "description": [
+                                "Introduction to convolutional layers",
+                                "Pooling and feature extraction",
+                                "Transfer learning with pre-trained models",
+                                "Applications in image recognition and object detection"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Recurrent Neural Networks (RNNs)",
+                            "description": [
+                                "Understanding sequence modeling",
+                                "GRUs and LSTMs for time series and NLP",
+                                "Attention mechanisms and Transformers",
+                                "Applications in text generation and translation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Deep Learning Frameworks",
+            "submodule": [
+                {
+                    "name": "Tools and Frameworks",
+                    "chapters": [
+                        {
+                            "module": "Module 5: TensorFlow and Keras",
+                            "description": [
+                                "Building neural networks with Keras",
+                                "Model training and evaluation in TensorFlow",
+                                "Using TensorFlow for deployment with TensorFlow Serving"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: PyTorch",
+                            "description": [
+                                "Dynamic computation graphs in PyTorch",
+                                "Training custom neural networks",
+                                "Using PyTorch Lightning for faster prototyping"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Specialized Applications",
+            "submodule": [
+                {
+                    "name": "Advanced Applications",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Computer Vision",
+                            "description": [
+                                "Image classification and segmentation",
+                                "Object detection with YOLO and Faster R-CNN",
+                                "Generative Adversarial Networks (GANs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Natural Language Processing (NLP)",
+                            "description": [
+                                "Text preprocessing and embeddings",
+                                "Sequence-to-sequence models",
+                                "Using BERT and GPT models for NLP tasks"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Deployment and Ethics",
+            "submodule": [
+                {
+                    "name": "Production AI",
+                    "chapters": [
+                        {
+                            "module": "Module 9: Model Deployment",
+                            "description": [
+                                "Deploying models on cloud platforms",
+                                "Using Docker and Kubernetes for scalability",
+                                "Monitoring and maintaining deployed models"
+                            ]
+                        },
+                        {
+                            "module": "Module 10: AI Ethics",
+                            "description": [
+                                "Understanding AI biases and fairness",
+                                "Model interpretability and explainability",
+                                "Ethical considerations in AI applications"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Java Programming Mastery",
+    "roleName": "Software Development Specialist",
+    "description": "Master Java programming to build robust, high-performance applications. This comprehensive course covers core and advanced Java concepts, equipping you with the skills to develop enterprise-level applications, web services, and more.",
+    "price": "50000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides an in-depth understanding of Java programming, from basics to advanced concepts. Learn how to design and develop scalable applications, use frameworks, and apply object-oriented programming techniques for effective software development.",
+    "highlights": [
+        {
+            "name": "Core Java Concepts",
+            "description": "Understand Java syntax, object-oriented principles, and core libraries."
+        },
+        {
+            "name": "Advanced Java Features",
+            "description": "Learn multi-threading, exception handling, and collections framework."
+        },
+        {
+            "name": "Web Development with Java",
+            "description": "Build web applications using Java Servlets, JSP, and frameworks like Spring."
+        },
+        {
+            "name": "Database Integration",
+            "description": "Connect Java applications to databases with JDBC and Hibernate."
+        },
+        {
+            "name": "Enterprise Applications",
+            "description": "Develop enterprise solutions using Spring Boot and REST APIs."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Java Developer",
+            "description": "Expert in building scalable applications using Java and its frameworks."
+        },
+        {
+            "title": "Backend Developer",
+            "description": "Specialize in server-side development with Java."
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Combine frontend and backend skills with Java-based web technologies."
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Design and implement robust software solutions using Java."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior programming knowledge for this course?",
+            "answer": "No prior experience is needed. The course covers fundamentals for beginners."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will build Java applications such as a Library Management System, an E-commerce Platform, and RESTful APIs."
+        },
+        {
+            "question": "Will the course cover advanced Java frameworks?",
+            "answer": "Yes, the course includes Spring Boot, Hibernate, and REST API development."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need a computer with JDK installed, along with IDEs like IntelliJ IDEA or Eclipse."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Core Java Programming",
+            "submodule": [
+                {
+                    "name": "Java Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Java",
+                            "description": [
+                                "Overview of programming and Java's history",
+                                "Setting up the Java Development Kit (JDK)",
+                                "Writing your first Java program",
+                                "Understanding Java syntax and structure",
+                                "Introduction to Integrated Development Environments (IDEs)"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Object-Oriented Programming (OOP)",
+                            "description": [
+                                "Understanding classes and objects",
+                                "Inheritance, polymorphism, encapsulation, and abstraction",
+                                "Interfaces and abstract classes",
+                                "The 'this' and 'super' keywords"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Java Collections Framework",
+                            "description": [
+                                "Introduction to collections and generics",
+                                "Using ArrayList, HashMap, HashSet, and LinkedList",
+                                "Sorting and searching in collections",
+                                "Working with Iterators and Streams"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Java Programming",
+            "submodule": [
+                {
+                    "name": "Advanced Topics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Multi-threading and Concurrency",
+                            "description": [
+                                "Understanding threads and their lifecycle",
+                                "Creating and managing threads",
+                                "Synchronization and inter-thread communication",
+                                "Concurrency utilities in Java"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Exception Handling and File I/O",
+                            "description": [
+                                "Handling exceptions with try-catch-finally",
+                                "Creating custom exceptions",
+                                "Working with files using Java I/O and NIO"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Database Programming with JDBC",
+                            "description": [
+                                "Connecting Java applications to databases",
+                                "Executing queries and transactions",
+                                "Working with PreparedStatement and CallableStatement"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Web Development and Frameworks",
+            "submodule": [
+                {
+                    "name": "Building Applications",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Java Web Development",
+                            "description": [
+                                "Understanding Servlets and JSP",
+                                "Creating and deploying web applications",
+                                "Session management and cookies"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Spring Framework",
+                            "description": [
+                                "Introduction to Spring and Spring Boot",
+                                "Building REST APIs with Spring Boot",
+                                "Dependency Injection and Spring Security"
+                            ]
+                        },
+                        {
+                            "module": "Module 3: Hibernate Framework",
+                            "description": [
+                                "Overview of Hibernate ORM",
+                                "Mapping Java objects to database tables",
+                                "Implementing CRUD operations with Hibernate"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

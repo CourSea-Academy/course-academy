@@ -1,0 +1,188 @@
+{
+    "hashtag": "Career Essential",
+    "title": "Selenium Automation Mastery",
+    "roleName": "QA Automation Engineer",
+    "description": "Master Selenium for web automation testing and learn to write scripts that interact with web browsers. This comprehensive course covers the fundamentals of Selenium, automation frameworks, test execution, and continuous integration, enabling you to build robust automated test suites for web applications.",
+    "price": "35000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides a deep dive into Selenium WebDriver for web automation. You’ll learn how to write effective test scripts, handle dynamic web elements, integrate with testing frameworks like TestNG and JUnit, and execute tests in different browsers. The course also covers continuous integration tools to run tests in parallel and automate deployment pipelines.",
+    "highlights": [
+        {
+            "name": "Selenium WebDriver Basics",
+            "description": "Learn how Selenium interacts with web browsers and automate browser tasks using WebDriver."
+        },
+        {
+            "name": "Automation Frameworks",
+            "description": "Build scalable automation frameworks with Page Object Model, Data-Driven, and Keyword-Driven approaches."
+        },
+        {
+            "name": "TestNG & JUnit Integration",
+            "description": "Integrate Selenium with popular testing frameworks like TestNG and JUnit for test case management and execution."
+        },
+        {
+            "name": "Handling Dynamic Web Elements",
+            "description": "Write Selenium scripts to handle dynamic web elements, dropdowns, pop-ups, and alerts."
+        },
+        {
+            "name": "CI/CD and Parallel Execution",
+            "description": "Learn to automate the test execution using Jenkins, integrating Selenium with CI/CD pipelines."
+        }
+    ],
+    "roles": [
+        {
+            "title": "QA Automation Engineer",
+            "description": "Write and maintain automated test scripts to validate the functionality of web applications."
+        },
+        {
+            "title": "Selenium Automation Tester",
+            "description": "Specialize in using Selenium WebDriver for automated testing and performance validation of web applications."
+        },
+        {
+            "title": "Test Automation Architect",
+            "description": "Design and implement robust automation frameworks and lead a team of automation testers."
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Automate testing workflows and integrate Selenium tests into continuous integration pipelines."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior programming knowledge for this course?",
+            "answer": "Basic programming knowledge (preferably in Java, Python, or JavaScript) is recommended but not mandatory. The course starts from the basics."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will work on projects like automating web applications, testing form submissions, and handling dynamic elements like popups, dropdowns, and alerts."
+        },
+        {
+            "question": "Will the course cover testing in multiple browsers?",
+            "answer": "Yes, the course covers testing across multiple browsers including Chrome, Firefox, and Safari, using Selenium Grid for parallel test execution."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools are required for this course?",
+            "answer": "You will need Java (or another programming language), Eclipse or IntelliJ, Selenium WebDriver, TestNG or JUnit, and Jenkins for CI/CD integration."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to Selenium",
+            "submodule": [
+                {
+                    "name": "Selenium Basics",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Getting Started with Selenium",
+                            "description": [
+                                "Overview of Selenium and its components",
+                                "Setting up Selenium WebDriver",
+                                "Running first WebDriver script"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: WebDriver API",
+                            "description": [
+                                "Navigating web pages with WebDriver",
+                                "Locating elements using By methods",
+                                "Handling basic interactions: click, sendKeys, etc."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Selenium Concepts",
+            "submodule": [
+                {
+                    "name": "Handling Dynamic Web Elements",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Dynamic Content and Element Locators",
+                            "description": [
+                                "Handling AJAX-loaded content",
+                                "Using Explicit and Implicit Waits",
+                                "Finding elements using CSS selectors and XPath"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Handling Web Elements",
+                            "description": [
+                                "Interacting with dropdowns, checkboxes, and radio buttons",
+                                "Handling alerts, popups, and modals"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Framework Development and Integration",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Page Object Model (POM)",
+                            "description": [
+                                "Understanding POM for scalability and maintainability",
+                                "Building reusable test scripts with POM"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: TestNG and JUnit Integration",
+                            "description": [
+                                "Setting up TestNG and JUnit frameworks",
+                                "Creating and managing test suites and test cases"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Test Execution and CI/CD",
+            "submodule": [
+                {
+                    "name": "Continuous Integration with Jenkins",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Automating Selenium Tests in Jenkins",
+                            "description": [
+                                "Setting up Jenkins and integrating Selenium",
+                                "Running Selenium tests in Jenkins pipeline"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Parallel Test Execution",
+                            "description": [
+                                "Using Selenium Grid for cross-browser testing",
+                                "Running tests in parallel across multiple environments"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "hashtag": "In Demand",
+    "title": "AWS Mastery",
+    "roleName": "Cloud Architect",
+    "description": "Master the core and advanced concepts of Amazon Web Services (AWS), the leading cloud computing platform. This course equips you with the knowledge and skills to design, deploy, and manage scalable, secure, and cost-effective cloud solutions.",
+    "price": "60000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "4 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Hands-On Labs",
+            "description": "Real-world AWS scenarios and projects"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This specialized course is designed to build expertise in Amazon Web Services (AWS). Whether you're new to cloud computing or an experienced professional, this course will help you develop the skills needed to excel in cloud architecture, DevOps, and system administration using AWS.",
+    "highlights": [
+        {
+            "name": "AWS Core Services",
+            "description": "Learn foundational AWS services like EC2, S3, and RDS."
+        },
+        {
+            "name": "Cloud Architecture",
+            "description": "Design scalable and secure cloud solutions."
+        },
+        {
+            "name": "DevOps Integration",
+            "description": "Implement CI/CD pipelines and automation with AWS."
+        },
+        {
+            "name": "Serverless Computing",
+            "description": "Build applications using AWS Lambda and other serverless services."
+        },
+        {
+            "name": "Cost Optimization",
+            "description": "Learn to monitor, analyze, and optimize AWS costs."
+        }
+    ],
+    "roles": [
+        {
+            "title": "AWS Solutions Architect",
+            "description": "Expert in designing cloud architectures using AWS services."
+        },
+        {
+            "title": "Cloud Engineer",
+            "description": "Skilled in deploying and managing cloud infrastructure."
+        },
+        {
+            "title": "DevOps Engineer",
+            "description": "Specialist in integrating DevOps practices with AWS services."
+        },
+        {
+            "title": "Cloud Consultant",
+            "description": "Advisor for businesses in adopting and optimizing AWS solutions."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the AWS Mastery course?",
+            "answer": "The course spans four months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need prior experience with AWS?",
+            "answer": "No prior experience is required. The course is designed for all skill levels."
+        },
+        {
+            "question": "Will the course prepare me for AWS certification exams?",
+            "answer": "Yes, the course includes preparation for AWS certifications such as AWS Solutions Architect Associate."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "AWS Fundamentals",
+            "submodule": [
+                {
+                    "name": "Getting Started",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to AWS",
+                            "description": [
+                                "Overview of cloud computing and AWS",
+                                "AWS Global Infrastructure and services",
+                                "Setting up an AWS account",
+                                "Introduction to the AWS Management Console"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Core AWS Services",
+                            "description": [
+                                "Introduction to EC2, S3, and RDS",
+                                "Understanding IAM and access control",
+                                "Networking basics with VPCs and subnets",
+                                "Introduction to Elastic Load Balancing and Auto Scaling"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced AWS Concepts",
+            "submodule": [
+                {
+                    "name": "Cloud Architecture",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Designing Scalable Architectures",
+                            "description": [
+                                "Architecting for scalability and performance",
+                                "High Availability and Disaster Recovery",
+                                "Understanding AWS Well-Architected Framework",
+                                "Monitoring with CloudWatch and CloudTrail"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Database and Storage Solutions",
+                            "description": [
+                                "Choosing the right database: RDS, DynamoDB, and Redshift",
+                                "Implementing caching with ElastiCache",
+                                "Deep dive into Amazon S3 and Glacier for storage",
+                                "Storage lifecycle policies and versioning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "AWS DevOps and Serverless",
+            "submodule": [
+                {
+                    "name": "DevOps",
+                    "chapters": [
+                        {
+                            "module": "Module 5: AWS for DevOps",
+                            "description": [
+                                "Setting up CI/CD pipelines with CodePipeline",
+                                "Managing Infrastructure as Code with CloudFormation",
+                                "Using AWS Elastic Beanstalk for app deployment",
+                                "Monitoring and troubleshooting DevOps workflows"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Serverless Computing",
+                    "chapters": [
+                        {
+                            "module": "Module 6: Building Serverless Applications",
+                            "description": [
+                                "Introduction to AWS Lambda and serverless concepts",
+                                "Using API Gateway for creating REST APIs",
+                                "Event-driven architectures with Lambda and SQS",
+                                "Serverless best practices and security"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Optimization and Real-World Scenarios",
+            "submodule": [
+                {
+                    "name": "Cost Management",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Optimizing AWS Costs",
+                            "description": [
+                                "Understanding AWS pricing models",
+                                "Monitoring costs with AWS Cost Explorer",
+                                "Using Reserved Instances and Spot Instances",
+                                "Setting up budget alerts"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Real-World Scenarios",
+                    "chapters": [
+                        {
+                            "module": "Module 8: Practical Use Cases",
+                            "description": [
+                                "Deploying a multi-tier web application on AWS",
+                                "Building a data pipeline with AWS Glue and S3",
+                                "Migrating on-premise applications to AWS",
+                                "Securing applications with AWS WAF and Shield"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

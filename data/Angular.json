@@ -1,0 +1,200 @@
+{
+    "hashtag": "In Demand",
+    "title": "Angular Mastery",
+    "roleName": "Frontend Developer",
+    "description": "Master Angular, the powerful framework for building dynamic web applications. This course covers core concepts, advanced features, and best practices to help you create scalable, high-performance apps.",
+    "price": "45000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "3 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-relevant",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This comprehensive Angular course is designed to transform you into a skilled frontend developer. Learn to build robust and dynamic single-page applications (SPAs) while mastering Angular's features and tools.",
+    "highlights": [
+        {
+            "name": "Component-based Architecture",
+            "description": "Understand the building blocks of Angular applications."
+        },
+        {
+            "name": "Routing and Navigation",
+            "description": "Learn to create seamless user experiences with Angular Router."
+        },
+        {
+            "name": "State Management",
+            "description": "Manage application state effectively using RxJS and NgRx."
+        },
+        {
+            "name": "Performance Optimization",
+            "description": "Optimize Angular apps for speed and efficiency."
+        },
+        {
+            "name": "Testing and Debugging",
+            "description": "Write unit and end-to-end tests using Jasmine and Protractor."
+        }
+    ],
+    "roles": [
+        {
+            "title": "Angular Developer",
+            "description": "Expert in building and maintaining Angular applications."
+        },
+        {
+            "title": "Frontend Engineer",
+            "description": "Specialist in creating dynamic and responsive user interfaces."
+        },
+        {
+            "title": "Full Stack Developer",
+            "description": "Professional skilled in Angular for frontend and APIs for backend development."
+        },
+        {
+            "title": "UI Architect",
+            "description": "Architect responsible for designing scalable frontend architectures using Angular."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is the duration of the Angular Mastery course?",
+            "answer": "The course spans three months with flexible scheduling."
+        },
+        {
+            "question": "Will I receive a certificate upon completion of the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion."
+        },
+        {
+            "question": "What kind of support will I receive during the course?",
+            "answer": "You will receive mentorship, live sessions, and community support."
+        },
+        {
+            "question": "Do I need prior experience with Angular?",
+            "answer": "No prior experience is required. The course is designed for all skill levels."
+        },
+        {
+            "question": "Will the course cover advanced Angular features?",
+            "answer": "Yes, the course provides comprehensive coverage of advanced features such as RxJS and NgRx."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Core Concepts",
+            "submodule": [
+                {
+                    "name": "Getting Started with Angular",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Angular",
+                            "description": [
+                                "Overview of Angular framework and its advantages",
+                                "Setting up the Angular environment",
+                                "Understanding Angular CLI",
+                                "Building your first Angular app"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Components and Templates",
+                            "description": [
+                                "Creating and using Angular components",
+                                "Understanding templates and data binding",
+                                "Working with directives",
+                                "Using pipes for data transformation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Application Development",
+            "submodule": [
+                {
+                    "name": "Building Applications with Angular",
+                    "chapters": [
+                        {
+                            "module": "Module 3: Services and Dependency Injection",
+                            "description": [
+                                "Understanding Angular services",
+                                "Implementing dependency injection",
+                                "Using HttpClient for API communication",
+                                "Handling asynchronous data with RxJS observables"
+                            ]
+                        },
+                        {
+                            "module": "Module 4: Routing and Navigation",
+                            "description": [
+                                "Setting up routing in Angular",
+                                "Creating route guards and lazy-loaded modules",
+                                "Implementing nested and dynamic routes",
+                                "Enhancing user experience with navigation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced Features",
+            "submodule": [
+                {
+                    "name": "Scaling Angular Applications",
+                    "chapters": [
+                        {
+                            "module": "Module 5: State Management",
+                            "description": [
+                                "Introduction to state management concepts",
+                                "Using RxJS for reactive programming",
+                                "Implementing NgRx for advanced state management"
+                            ]
+                        },
+                        {
+                            "module": "Module 6: Performance Optimization",
+                            "description": [
+                                "Optimizing change detection with OnPush strategy",
+                                "Lazy loading modules and assets",
+                                "Reducing bundle size with Angular CLI tools",
+                                "Analyzing performance with Lighthouse"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Testing and Deployment",
+                    "chapters": [
+                        {
+                            "module": "Module 7: Testing Angular Applications",
+                            "description": [
+                                "Introduction to unit testing with Jasmine",
+                                "End-to-end testing using Protractor",
+                                "Writing test cases for components and services",
+                                "Debugging and fixing test failures"
+                            ]
+                        },
+                        {
+                            "module": "Module 8: Deployment Best Practices",
+                            "description": [
+                                "Building and bundling Angular apps for production",
+                                "Hosting Angular applications on cloud platforms",
+                                "Configuring CI/CD pipelines for deployment",
+                                "Version control integration using Git"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

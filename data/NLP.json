@@ -1,0 +1,198 @@
+{
+    "hashtag": "Career Essential",
+    "title": "NLP Mastery",
+    "roleName": "Data Scientist",
+    "description": "Master Natural Language Processing (NLP) techniques to analyze and manipulate textual data. This comprehensive course covers text preprocessing, sentiment analysis, language models, and more, equipping you to work with NLP in real-world applications.",
+    "price": "65000",
+    "features": [
+        {
+            "name": "Job Assistance",
+            "description": "Program"
+        },
+        {
+            "name": "5 Months",
+            "description": "Duration"
+        },
+        {
+            "name": "Live + Recorded",
+            "description": "Delivery Mode"
+        },
+        {
+            "name": "Industry-focused",
+            "description": "Projects and Case Studies"
+        },
+        {
+            "name": "Beginner to Advanced",
+            "description": "Recommended experience"
+        }
+    ],
+    "about": "This course provides an in-depth understanding of NLP, from basics to advanced techniques, including text classification, named entity recognition (NER), sentiment analysis, and deep learning models like transformers. You'll gain hands-on experience with popular NLP libraries like NLTK, spaCy, and Hugging Face.",
+    "highlights": [
+        {
+            "name": "Text Preprocessing",
+            "description": "Learn how to clean, tokenize, and prepare text data for analysis."
+        },
+        {
+            "name": "Sentiment Analysis",
+            "description": "Understand how to extract sentiment from text and classify emotions."
+        },
+        {
+            "name": "Named Entity Recognition (NER)",
+            "description": "Identify and categorize entities in text such as people, places, and organizations."
+        },
+        {
+            "name": "Language Models and Transformers",
+            "description": "Work with state-of-the-art language models such as BERT and GPT."
+        },
+        {
+            "name": "Text Generation",
+            "description": "Generate meaningful text using deep learning models like GPT-3."
+        }
+    ],
+    "roles": [
+        {
+            "title": "NLP Engineer",
+            "description": "Specialize in applying machine learning techniques to text data, including building and fine-tuning NLP models."
+        },
+        {
+            "title": "Data Scientist",
+            "description": "Analyze complex data sets to derive meaningful insights using NLP techniques and algorithms."
+        },
+        {
+            "title": "AI Researcher",
+            "description": "Conduct research on state-of-the-art NLP models and contribute to advancing the field."
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "description": "Build and deploy machine learning models, including those for text and language processing."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Do I need prior experience with machine learning for this course?",
+            "answer": "Basic knowledge of Python and machine learning concepts is recommended, but the course also covers foundational topics in NLP."
+        },
+        {
+            "question": "What projects will I work on during this course?",
+            "answer": "You will work on projects such as text classification, sentiment analysis of social media data, chatbot development, and building language models."
+        },
+        {
+            "question": "Will this course cover deep learning techniques for NLP?",
+            "answer": "Yes, the course covers deep learning models, including transformers and BERT, for advanced NLP tasks."
+        },
+        {
+            "question": "Will I receive a certificate after completing the course?",
+            "answer": "Yes, a certificate will be provided upon successful completion of the course."
+        },
+        {
+            "question": "What tools and libraries will I use in this course?",
+            "answer": "You will work with Python libraries such as NLTK, spaCy, Scikit-learn, TensorFlow, and Hugging Face for deep learning models."
+        }
+    ],
+    "curriculum": [
+        {
+            "module": "Introduction to NLP",
+            "submodule": [
+                {
+                    "name": "Text Preprocessing",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Text Cleaning and Tokenization",
+                            "description": [
+                                "Introduction to text preprocessing",
+                                "Tokenization, stemming, and lemmatization",
+                                "Removing stop words, punctuation, and special characters"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Vectorization Techniques",
+                            "description": [
+                                "Bag of Words (BoW)",
+                                "TF-IDF (Term Frequency-Inverse Document Frequency)",
+                                "Word2Vec and GloVe word embeddings"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Basic NLP Techniques",
+            "submodule": [
+                {
+                    "name": "Text Classification",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Sentiment Analysis",
+                            "description": [
+                                "Understanding sentiment analysis",
+                                "Building a sentiment analysis model using NLP techniques",
+                                "Evaluating model performance"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Named Entity Recognition (NER)",
+                            "description": [
+                                "Introduction to NER",
+                                "Identifying entities such as names, dates, and locations",
+                                "Building a NER model with spaCy"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Advanced NLP Techniques",
+            "submodule": [
+                {
+                    "name": "Deep Learning for NLP",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Introduction to Deep Learning for NLP",
+                            "description": [
+                                "Understanding neural networks and their application in NLP",
+                                "Recurrent Neural Networks (RNNs) and LSTM models",
+                                "Using TensorFlow for NLP tasks"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Transformers and BERT",
+                            "description": [
+                                "Understanding transformers and self-attention mechanism",
+                                "Implementing BERT for text classification",
+                                "Fine-tuning pre-trained models for NLP tasks"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "module": "Building NLP Applications",
+            "submodule": [
+                {
+                    "name": "Text Generation and Chatbots",
+                    "chapters": [
+                        {
+                            "module": "Module 1: Text Generation with GPT-3",
+                            "description": [
+                                "Overview of text generation models like GPT-3",
+                                "Building a text generation model using OpenAI API",
+                                "Fine-tuning GPT models for custom text generation"
+                            ]
+                        },
+                        {
+                            "module": "Module 2: Building Chatbots",
+                            "description": [
+                                "Designing conversational agents using NLP",
+                                "Creating a rule-based chatbot",
+                                "Integrating NLP models into a chatbot for better responses"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
