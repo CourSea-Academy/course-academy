@@ -79,6 +79,14 @@ const Footer = ({ cName }) => {
                   DevOps and Cloud Engineering
                 </a>
               </p>
+              <p>
+                <a
+                  className="inline-flex gap-x-2"
+                  href="/programs/digital-marketing"
+                >
+                  Digital Marketing with AI
+                </a>
+              </p>
             </div>
           </div>
 

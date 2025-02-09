@@ -160,6 +160,7 @@ export const metadata = {
     "Data Analytics and Engineering",
     "Machine Learning and AI",
     "DevOps and Cloud Engineering",
+    "Digital Marketing with AI",
     "Software Testing and Automations",
     "Python",
     "Java",
@@ -805,7 +806,7 @@ const Home = () => {
                   <Megaphone className="size-6 group-hover:text-primary" />
                 </div>
                 <CardTitle className="group-hover:translate-x-2 transition duration-200 text-lg ">
-                  Digital Marketing
+                  Digital Marketing with AI
                 </CardTitle>
                 <CardDescription className="group-hover:translate-x-2 transition duration-200">
                   Learn to create, execute, and optimize digital marketing

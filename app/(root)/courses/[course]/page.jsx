@@ -428,7 +428,7 @@ const page = ({ params }) => {
                     </Button>
                   </DialogTrigger>
                   <DialogContent className="min-w-[725px] min-h-[425px]">
-                    <DownloadSyllabus />
+                    <DownloadSyllabus syllabusName={decodeURI(params.course)}/>
                   </DialogContent>
                 </Dialog>
               </div>
@@ -535,7 +535,7 @@ const page = ({ params }) => {
         <Curriculum data={data.curriculum} />
       </div>
 
-      {/* <div className="bg-accent text-black max-w-full min-h-[4rem] flex items-center">
+      <div className="bg-accent text-black max-w-full min-h-[4rem] flex items-center">
         <div className="mx-auto flex max-w-7xl">
           <div className="w-1/2  justify-center items-center sm:block hidden">
             <Image
@@ -554,7 +554,7 @@ const page = ({ params }) => {
                 </Button>
               </DialogTrigger>
               <DialogContent className="max-w-[400px] min-h-[425px] p-0">
-                <DownloadSyllabus />
+                <DownloadSyllabus syllabusName={decodeURI(params.course)}/>
               </DialogContent>
             </Dialog>
             <div className="sm:px-3 py-3">
@@ -567,7 +567,7 @@ const page = ({ params }) => {
             </div>
           </div>
         </div>
-      </div> */}
+      </div>
 
       <div className="text-black">
         <RolesCanBeApplied roles={data?.roles} roleName={data?.roleName} />

@@ -51,6 +51,7 @@ import daae from "@/data/Data Analytics and Engineering.json";
 import dace from "@/data/DevOps and Cloud Engineering.json";
 import staa from "@/data/Software Testing and Automations.json";
 import dm from "@/data/Digital Marketing.json";
+import pre3 from "@/assets/pre3.png";
 import {
   Dialog,
   DialogContent,
@@ -62,6 +63,7 @@ import {
 import { toolsData } from "@/data/toolsData";
 import { InfiniteMovingCards } from "@/components/shared/infinite-moving-cards";
 import RolesCanBeApplied from "@/components/shared/RolesCanBeApplied";
+import DownloadSyllabus from "@/components/shared/DownloadSyllabus";
 
 export function generateMetadata({ params }) {
   if (decodeURI(params.program) === "full-stack-web-development-with-ai") {
@@ -177,10 +179,6 @@ const page = ({ params }) => {
       icon: <Handshake className="size-7 text-neutral-500" />,
     },
   ];
-
-  // logos.map((logo, index) =>
-  //   console.log("the verification iwdsoxf -> ", logo.src, logo.alt, index)
-  // );
 
   return (
     <div>
@@ -358,6 +356,41 @@ const page = ({ params }) => {
       <div className="text-black">
         <RolesCanBeApplied roles={data?.roles} roleName={data?.roleName} />
       </div>
+
+      <div className="bg-accent text-black max-w-full min-h-[4rem] flex items-center">
+        <div className="mx-auto flex max-w-7xl">
+          <div className="w-1/2  justify-center items-center sm:block hidden">
+            <Image
+              src={pre3}
+              alt="download-curriculum"
+              className="max-h-60 w-auto object-fill"
+            />
+          </div>
+          <div id="recaptcha-container"></div>
+
+          <div className="w-full sm:w-0.75/2 flex flex-col justify-center mt-12 sm:mt-0 sm:items-start items-center">
+            <Dialog>
+              <DialogTrigger asChild>
+                <Button className="border-primary" size="lg">
+                  Download Curriculum
+                </Button>
+              </DialogTrigger>
+              <DialogContent className="max-w-[400px] min-h-[425px] p-0">
+                <DownloadSyllabus syllabusName={decodeURI(params.program)}/>
+              </DialogContent>
+            </Dialog>
+            <div className="sm:px-3 py-3">
+              <p className="mt-2 text-sm text-gray-700 max-w-md">
+                Discover everything you need to know about our program. The
+                curriculum includes in-depth course details, key learning
+                outcomes, and how it can accelerate your career growth. Download
+                now and take the first step toward achieving your goals!
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="text-black">
         <div className="mx-auto max-w-7xl px-4 py-6">
           <h3 className="text-3xl font-semibold tracking-tight">
@@ -442,7 +475,6 @@ const page = ({ params }) => {
             </div>
           </div>
         </div>
-        {/* <Footer cName={"pt-28"} /> */}
       </div>
       {data?.faq && (
         <div className="mx-auto max-w-7xl pt-32 pb-8 px-4 sm:px-8">

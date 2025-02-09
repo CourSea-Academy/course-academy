@@ -22,6 +22,7 @@ const careerProgram = [
   "Machine Learning and AI",
   "DevOps and Cloud Engineering",
   "Software Testing and Automations",
+  "Digital Marketing with AI",
 ];
 
 const courses = [

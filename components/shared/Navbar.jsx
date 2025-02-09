@@ -141,7 +141,7 @@ const Navbar = () => {
                                 <Megaphone className="h-6 w-6" />
                               </div>
                               <div>
-                                <p>Digital Marketing</p>
+                                <p>Digital Marketing with AI</p>
                               </div>
                             </div>
                           </a>
@@ -292,6 +292,20 @@ const Navbar = () => {
                                     </div>
                                     <div>
                                       <p>DevOps and Cloud Engineering</p>
+                                    </div>
+                                  </a>
+                                </SheetClose>
+
+                                <SheetClose asChild>
+                                  <a
+                                    href="/programs/devops-and-cloud-engineering"
+                                    className="group text-sm flex gap-3 items-center hover:bg-accent p-1 rounded-md cursor-pointer"
+                                  >
+                                    <div className="border rounded-md p-3 bg-accent group-hover:bg-white group-hover:text-primary">
+                                      <Megaphone className="h-6 w-6" />
+                                    </div>
+                                    <div>
+                                      <p>Digital Marketing with AI</p>
                                     </div>
                                   </a>
                                 </SheetClose>
