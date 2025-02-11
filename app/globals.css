@@ -138,3 +138,22 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #ffffff;
 }
+
+.ql-align-justify {
+  text-align: justify;
+}
+
+.ql-syntax {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: monospace;
+  overflow-x: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+

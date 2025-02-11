@@ -1,4 +1,5 @@
 import { cn } from "@/lib/utils";
+import { Badge } from "@/components/ui/badge";
 
 export const BentoGrid = ({ className, children }) => {
   return (
@@ -16,6 +17,7 @@ export const BentoGrid = ({ className, children }) => {
 export const BentoGridItem = ({
   className,
   title,
+  category,
   description,
   header,
   icon,
@@ -32,6 +34,11 @@ export const BentoGridItem = ({
         <div className="font-sans font-bold text-neutral-600  mb-2 mt-2">
           {title}
         </div>
+        {category && (
+          <div className="flex flex-wrap gap-1 mt-3 mb-3">
+            <Badge variant="secondary">{category}</Badge>
+          </div>
+        )}
         <div className="font-sans font-normal text-neutral-600 text-xs ">
           {description}
         </div>
