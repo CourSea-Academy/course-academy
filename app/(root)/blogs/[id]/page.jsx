@@ -34,30 +34,33 @@ const BlogPost = () => {
   if (!post) return <p className="text-center text-gray-500">Loading...</p>;
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold">{post.title}</h1>
-      <p className="text-gray-500 mt-2">{post.description}</p>
+    <div>
+      <div className="max-w-7xl mx-auto px-4 py-8">
+        <h1 className="text-4xl font-bold">{post.title}</h1>
+        <p className="text-gray-500 mt-2">{post.description}</p>
 
-      {post.img && (
-        <div className="w-full mt-6 rounded-lg overflow-hidden">
-          <Image 
-            src={post.img} 
-            alt={post.title} 
-            width={800} 
-            height={400} 
-            className="object-cover w-full h-80 rounded-lg" 
-          />
-        </div>
-      )}
+        {post.img && (
+          <div className="w-full mt-6 rounded-lg overflow-hidden">
+            <Image 
+              src={post.img} 
+              alt={post.title} 
+              width={800} 
+              height={400} 
+              className="object-cover w-full h-80 rounded-lg" 
+            />
+          </div>
+        )}
 
-      <div
-        className="prose prose-lg prose-blue dark:prose-invert max-w-none pb-5"
-        dangerouslySetInnerHTML={{
-          __html: DOMPurify.sanitize(post.content),
-        }}
-      ></div>
-      <Footer className={"pt-0"} />
+        <div
+          className="prose prose-lg prose-blue dark:prose-invert max-w-none pb-5"
+          dangerouslySetInnerHTML={{
+            __html: DOMPurify.sanitize(post.content),
+          }}
+        ></div>
+      </div>
+      <Footer className={"pt-16"} />
     </div>
+    
   );
 };
 
