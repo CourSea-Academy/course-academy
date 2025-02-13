@@ -125,6 +125,7 @@ module.exports = {
   	}
   },
   plugins: [
+	require('@tailwindcss/typography'),
     require("tailwindcss-animate"),
     addVariablesForColors,
     function ({ matchUtilities, theme }) {
