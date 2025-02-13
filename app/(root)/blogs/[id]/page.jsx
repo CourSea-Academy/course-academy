@@ -8,13 +8,26 @@ import DOMPurify from "dompurify";
 import hljs from "highlight.js";
 import "highlight.js/styles/atom-one-dark.css";
 import Footer from "@/components/shared/Footer";
+import {
+  PhoneCall,
+  ThumbsUp
+} from "lucide-react";
+import {
+  Dialog,
+  DialogContent,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+import {
+  GlowingStarsBackgroundCard,
+  GlowingStarsTitle
+} from "@/components/shared/glowing-stars";
+import BookCourse from "@/components/shared/BookCourse";
+import { Button } from "@/components/ui/button";
 
 const BlogPost = () => {
   const { id } = useParams();
   const router = useRouter();
-  const [post, setPost] = useState(null);
-
-  console.log("This page is getting rendered ===> ", id);
+  const [post, setPost] = useState(null);   
 
   useEffect(() => {
     async function fetchPost() {
@@ -74,7 +87,46 @@ const BlogPost = () => {
           }}
         ></div>
       </div>
-      <Footer className={"pt-16"} />
+      <div className="bg-secondary">
+        <div className="mx-auto max-w-7xl relative flex justify-center w-full">
+          <div className="absolute -top-16 w-full max-w-7xl rounded-md">
+            <GlowingStarsBackgroundCard>
+              <GlowingStarsTitle>
+                <div className="flex flex-wrap text-center items-center justify-center gap-6">
+                  <div className="text-left space-y-3">
+                    <span>Still Confused?</span>
+                    <p className="text-base">
+                      Get Connected to our experts and know what&apos;s best for
+                      you.
+                    </p>
+                  </div>
+                  <div className="space-y-3">
+                    <Dialog>
+                      <DialogTrigger asChild>
+                        <Button
+                          className="text-secondary-foreground bg-white z-[100]"
+                          variant="outline"
+                        >
+                          Get Connected Now <ThumbsUp className="ml-2 size-4" />
+                        </Button>
+                      </DialogTrigger>
+                      <DialogContent>
+                        <BookCourse interest="Courses" />
+                      </DialogContent>
+                    </Dialog>
+
+                    <span className="text-xl flex items-center gap-3">
+                      <PhoneCall className="size-6" />
+                      +91 9632036963
+                    </span>
+                  </div>
+                </div>
+              </GlowingStarsTitle>
+            </GlowingStarsBackgroundCard>
+          </div>
+        </div>
+      </div>
+      <Footer cName={"pt-32"} />
     </div>
   );
 };

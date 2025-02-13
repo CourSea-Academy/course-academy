@@ -106,7 +106,7 @@ const page = ({ params }) => {
           </div>
         </div>
       </div>
-      <div className="bg-secondary">
+      <div className="bg-secondary mt-5">
         <div className="mx-auto max-w-7xl relative flex justify-center w-full">
           <div className="absolute -top-16 w-full max-w-7xl rounded-md">
             <GlowingStarsBackgroundCard>
