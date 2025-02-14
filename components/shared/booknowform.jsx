@@ -10,8 +10,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { Button } from "../ui/button";
-import { db } from "@/lib/firebaseConfig";
-import { collection, addDoc } from "firebase/firestore";
+import supabase from "@/lib/supabaseConfig";
 import { LoaderCircle } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
 
@@ -64,7 +63,7 @@ const BookNowForm = () => {
     email: "",
     phone: "",
     education: "",
-    gradution: "",
+    graduation: "",
     working: "",
     jobDomain: "",
     company: "",
@@ -78,63 +77,25 @@ const BookNowForm = () => {
 
   const validateLead = (lead) => {
     const currentYear = new Date().getFullYear();
-
-    if (!lead.fullName?.trim()) {
-      return "Full Name is required";
-    }
-
-    if (!lead.email?.trim()) {
-      return "Email is required";
-    } else if (!/\S+@\S+\.\S+/.test(lead.email)) {
-      return "Email is invalid";
-    }
-
-    if (!lead.phone?.trim()) {
-      return "Phone number is required";
-    }
-
-    if (lead.phone?.trim() && !/^\d{10}$/.test(lead.phone)) {
-      return "Phone number should be 10 digits";
-    }
-
-    if (!lead.education?.trim()) {
-      return "Education is required";
-    }
-
-    if (!lead.gradution?.trim()) {
-      return "Graduation details are required";
-    }
-
-    if (lead.gradution?.trim() && !/^\d{4}$/.test(lead.gradution)) {
-      return "Graduation year must 4 digits";
-    }
-
-    const graduationYear = parseInt(lead.gradution.trim(), 10);
-    if (isNaN(graduationYear) || graduationYear > currentYear) {
-      return `Graduation year should be valid and less than or equal to ${currentYear}`;
-    }
-
-    if (!lead.working?.trim()) {
-      return "Working details are required";
-    }
-
+    console.log("****> ", lead, ' !lead.graduation?.trim() is ', !lead.graduation?.trim());
+    if (!lead.fullName?.trim()) return "Full Name is required";
+    if (!lead.email?.trim()) return "Email is required";
+    if (!/\S+@\S+\.\S+/.test(lead.email)) return "Invalid email format";
+    if (!lead.phone?.trim()) return "Phone number is required";
+    if (!/^\d{10}$/.test(lead.phone)) return "Phone number should be 10 digits";
+    if (!lead.education?.trim()) return "Education is required";
+    if (!lead.graduation?.trim()) return "Graduation details are required";
+    if (!/^\d{4}$/.test(lead.graduation))
+      return "Graduation year must be a 4-digit number";
+    if (parseInt(lead.graduation, 10) > currentYear)
+      return `Graduation year must be a valid year (<= ${currentYear})`;
+    if (!lead.working?.trim()) return "Working status is required";
     if (lead.working === "Yes") {
-      if (!lead.jobDomain?.trim()) {
-        return "Job domain is required";
-      }
-
-      if (!lead.company?.trim()) {
-        return "Company name is required";
-      }
+      if (!lead.jobDomain?.trim()) return "Job domain is required";
+      if (!lead.company?.trim()) return "Company name is required";
     }
-
-    if (!lead.interest?.trim()) {
-      return "Interest is required";
-    }
-
-    if (!lead.course?.trim()) {
-      return "Course selection is required";
-    }
+    if (!lead.interest?.trim()) return "Interest is required";
+    if (!lead.course?.trim()) return "Course selection is required";
 
     return "Success";
   };
@@ -144,19 +105,23 @@ const BookNowForm = () => {
     setLoading(true);
     if (validateLead(lead) === "Success") {
       try {
-        const docRef = await addDoc(collection(db, "leads"), lead);
-        setLead({
-          fullName: "",
-          email: "",
-          phone: "",
-          education: "",
-          gradution: "",
-          working: "",
-          jobDomain: "",
-          company: "",
-          interest: "",
-          course: "",
-        });
+        const { data, error } = await supabase.from("leads").insert([lead]);
+        if (error) {
+          console.error("Supabase Insert Error:", error);
+          toast({ title: "Failed to submit, try again!", variant: "destructive" });
+        } else {
+          setLead({
+            fullName: "",
+            email: "",
+            phone: "",
+            education: "",
+            graduation: "",
+            working: "",
+            jobDomain: "",
+            company: "",
+            interest: "",
+            course: "",
+          });}
         toast({
           title:
             "Booking Successful. We will reach out to you within 24 hours.",
@@ -229,8 +194,8 @@ const BookNowForm = () => {
             type="text"
             id="gradutaion"
             placeholder="Gradutaion Year"
-            value={lead.gradution}
-            onChange={(e) => setLead({ ...lead, gradution: e.target.value })}
+            value={lead.graduation}
+            onChange={(e) => setLead({ ...lead, graduation: e.target.value })}
           />
         </div>
         <div className="grid w-full items-center gap-1.5">
