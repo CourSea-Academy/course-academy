@@ -5,8 +5,14 @@ const nextConfig = {
     },
     output: 'standalone',
     images: {
-        domains: ["iombzprthtwanbfhyqtq.supabase.co"], // ✅ Add your Supabase storage domain here
-    }
+        domains: ["iombzprthtwanbfhyqtq.supabase.co"], 
+    },
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+    ],
 };
 
 export default nextConfig;
